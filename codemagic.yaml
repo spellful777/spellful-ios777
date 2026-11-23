@@ -19,3 +19,31 @@ workflows:
             -scheme App -configuration Debug -sdk iphonesimulator \
             -destination 'generic/platform=iOS Simulator' \
             CODE_SIGNING_ALLOWED=NO build
+
+  spellful-ios-device-test:
+    name: Spellful iOS - Signed iPhone Test
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    environment:
+      node: 22
+      xcode: latest
+      ios_signing:
+        distribution_type: ad_hoc
+        bundle_identifier: com.spellful.app
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build Spellful web app
+        script: npm run build
+      - name: Generate Capacitor iOS project
+        script: npx cap add ios --packagemanager SPM
+      - name: Apply iOS signing profiles
+        script: xcode-project use-profiles
+      - name: Build signed IPA
+        script: |
+          xcode-project build-ipa \
+            --project "$CM_BUILD_DIR/ios/App/App.xcodeproj" \
+            --scheme App
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
