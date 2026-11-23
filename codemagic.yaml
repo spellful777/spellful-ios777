@@ -17,4 +17,24 @@ workflows:
       - name: Build Spellful
         script: |
           xcodebuild -project Spellful.xcodeproj -scheme Spellful -configuration Release -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build
-  
+
+  spellful-ios-unsigned-simulator:
+    name: Spellful iOS - Unsigned Simulator Test
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    environment:
+      node: 22
+      xcode: latest
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build Spellful web app
+        script: npm run build
+      - name: Generate Capacitor iOS project
+        script: npx cap add ios --packagemanager SPM
+      - name: Compile for iOS Simulator
+        script: |
+          xcodebuild -project ios/App/App.xcodeproj \
+            -scheme App -configuration Debug -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO build

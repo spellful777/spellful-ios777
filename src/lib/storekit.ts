@@ -1,19 +1,18 @@
 /**
  * StoreKit 2 purchase service for Spellful Plus.
  *
- * Uses @capacitor-community/in-app-purchases to:
+ * Uses @capgo/native-purchases to:
  *  - Fetch the localized product from App Store (displayPrice)
  *  - Initiate a purchase and send the signed JWS transaction to the server
  *  - Restore existing purchases
- *  - Listen for server-to-server transaction updates (renewals, refunds)
  *
- * All methods are no-ops on web — the purchase button is hidden on web anyway,
- * but this guard prevents import errors during SSR.
+ * StoreKit calls run only on native iOS.
  *
  * Product ID: com.spellful.plus.monthly
  */
 
 import { Capacitor } from '@capacitor/core';
+import { NativePurchases } from '@capgo/native-purchases';
 
 export const PLUS_PRODUCT_ID = 'com.spellful.plus.monthly';
 
@@ -33,26 +32,6 @@ export interface PurchaseResult {
   error?: string;
 }
 
-// ── Lazy plugin import ─────────────────────────────────────────────────────────
-// We import dynamically so SSR never tries to resolve the native module.
-
-async function getPlugin() {
-  if (!Capacitor.isNativePlatform()) return null;
-  // Use a computed specifier so Vite does not attempt to resolve/bundle this
-  // at build time. The package is only available after `npm install` on a
-  // native build machine (Codemagic). On web the guard above returns null first.
-  // Build the specifier at runtime so Vite's static import scanner never sees it.
-  const parts = ['@capacitor-community', 'in-app-purchases'];
-  const specifier = parts.join('/');
-  const loadPlugin = new Function('s', 'return import(s)') as (s: string) => Promise<{ InAppPurchases: unknown }>;
-  const mod = await loadPlugin(specifier);
-  return mod.InAppPurchases as {
-    getProducts(opts: { productIdentifiers: string[] }): Promise<{ products?: Array<{ productIdentifier: string; localizedPrice?: string; localizedTitle?: string; localizedDescription?: string }> }>;
-    purchaseProduct(opts: { productIdentifier: string; appAccountToken?: string }): Promise<{ signedTransaction?: string } | null>;
-    restoreTransactions(): Promise<{ transactions?: Array<{ productIdentifier: string; signedTransaction?: string }> } | null>;
-  };
-}
-
 // ── Product fetch ──────────────────────────────────────────────────────────────
 
 /**
@@ -60,19 +39,18 @@ async function getPlugin() {
  * Returns null on web or if the product is not found.
  */
 export async function fetchPlusProduct(): Promise<PlusProduct | null> {
-  const plugin = await getPlugin();
-  if (!plugin) return null;
+  if (Capacitor.getPlatform() !== 'ios') return null;
 
   try {
-    const result = await plugin.getProducts({ productIdentifiers: [PLUS_PRODUCT_ID] });
-    const product = result.products?.find((p) => p.productIdentifier === PLUS_PRODUCT_ID);
+    const result = await NativePurchases.getProducts({ productIdentifiers: [PLUS_PRODUCT_ID] });
+    const product = result.products?.find((p) => p.identifier === PLUS_PRODUCT_ID);
     if (!product) return null;
 
     return {
-      productId: product.productIdentifier,
-      displayPrice: product.localizedPrice ?? '$4.99',
-      displayName: product.localizedTitle ?? 'Spellful Plus',
-      description: product.localizedDescription ?? '',
+      productId: product.identifier,
+      displayPrice: product.priceString ?? '$4.99',
+      displayName: product.title ?? 'Spellful Plus',
+      description: product.description ?? '',
     };
   } catch {
     return null;
@@ -86,24 +64,23 @@ export async function fetchPlusProduct(): Promise<PlusProduct | null> {
  * On success, sends the signed JWS transaction to the server for verification.
  */
 export async function purchasePlus(userId: string): Promise<PurchaseResult> {
-  const plugin = await getPlugin();
-  if (!plugin) {
+  if (Capacitor.getPlatform() !== 'ios') {
     return { ok: false, isPlus: false, status: null, expiresAt: null, environment: 'web', error: 'NOT_NATIVE' };
   }
 
   try {
     // appAccountToken links the purchase to the user — must be a UUID-format string.
     // We use the userId directly; BetterAuth user IDs are UUIDs.
-    const purchaseResult = await plugin.purchaseProduct({
+    const purchaseResult = await NativePurchases.purchaseProduct({
       productIdentifier: PLUS_PRODUCT_ID,
       appAccountToken: userId,
     });
 
-    if (!purchaseResult?.signedTransaction) {
+    if (!purchaseResult?.jwsRepresentation) {
       return { ok: false, isPlus: false, status: null, expiresAt: null, environment: 'unknown', error: 'NO_TRANSACTION' };
     }
 
-    return await verifyWithServer(purchaseResult.signedTransaction);
+    return await verifyWithServer(purchaseResult.jwsRepresentation);
   } catch (e) {
     const msg = e instanceof Error ? e.message : String(e);
     // User cancelled — not an error worth surfacing
@@ -121,23 +98,22 @@ export async function purchasePlus(userId: string): Promise<PurchaseResult> {
  * Returns the final entitlement state after all transactions are processed.
  */
 export async function restorePurchases(): Promise<PurchaseResult> {
-  const plugin = await getPlugin();
-  if (!plugin) {
+  if (Capacitor.getPlatform() !== 'ios') {
     return { ok: false, isPlus: false, status: null, expiresAt: null, environment: 'web', error: 'NOT_NATIVE' };
   }
 
   try {
-    const result = await plugin.restoreTransactions();
-    const transactions = result?.transactions ?? [];
+    await NativePurchases.restorePurchases();
+    const { purchases } = await NativePurchases.getPurchases({ onlyCurrentEntitlements: true });
 
     let lastResult: PurchaseResult = {
       ok: false, isPlus: false, status: null, expiresAt: null, environment: 'unknown', error: 'NO_TRANSACTIONS',
     };
 
-    for (const txn of transactions) {
+    for (const txn of purchases) {
       if (txn.productIdentifier !== PLUS_PRODUCT_ID) continue;
-      if (!txn.signedTransaction) continue;
-      lastResult = await verifyWithServer(txn.signedTransaction);
+      if (!txn.jwsRepresentation) continue;
+      lastResult = await verifyWithServer(txn.jwsRepresentation);
     }
 
     return lastResult;

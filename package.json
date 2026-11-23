@@ -35,12 +35,12 @@
     "cap:open:android": "npx cap open android"
   },
   "dependencies": {
-    "@capacitor-community/in-app-purchases": "^1.0.0",
     "@capacitor/android": "^8.6.2",
     "@capacitor/cli": "^8.6.2",
     "@capacitor/core": "^8.6.2",
     "@capacitor/ios": "^8.6.2",
     "@capacitor/share": "^8.0.3",
+    "@capgo/native-purchases": "8.9.17",
     "jose": "^5.9.6",
     "@dr.pogodin/react-helmet": "~3.1.1",
     "@heroicons/react": "^2.2.0",

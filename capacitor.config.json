@@ -1,0 +1,5 @@
+{
+  "appId": "com.spellful.app",
+  "appName": "Spellful",
+  "webDir": "dist/client"
+}
