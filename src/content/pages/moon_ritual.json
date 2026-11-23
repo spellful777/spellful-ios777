@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "eyebrow": "Work With the Moon",
+    "title": "Moon Ritual Planner",
+    "subtitle": "Align your magic with the lunar cycle. Receive personalized ritual guidance based on tonight's moon phase and your deepest intentions."
+  },
+  "phaseSection": {
+    "heading": "Tonight's Moon",
+    "ageLabel": "days into cycle",
+    "illuminationLabel": "illuminated"
+  },
+  "intentionSection": {
+    "heading": "Choose Your Intention",
+    "subheading": "What are you calling in this lunar cycle?"
+  },
+  "ritualSection": {
+    "heading": "Your Ritual",
+    "herbsLabel": "Herbs & Botanicals",
+    "crystalsLabel": "Crystals & Stones",
+    "candleLabel": "Candle Color",
+    "bestTimeLabel": "Best Time",
+    "stepsLabel": "Ritual Steps",
+    "affirmationsLabel": "Affirmations",
+    "journalLabel": "Journal Prompts",
+    "saveButton": "Save to Grimoire",
+    "savingText": "Saving...",
+    "savedText": "Saved to Grimoire",
+    "scheduleButton": "Schedule Ritual",
+    "loginToSave": "Sign in to save rituals to your Grimoire"
+  },
+  "historySection": {
+    "heading": "Saved Rituals",
+    "emptyText": "Your saved rituals will appear here.",
+    "scheduledLabel": "Scheduled for",
+    "deleteButton": "Delete"
+  },
+  "seo": {
+    "title": "Free Moon Ritual Planner — 48 Rituals for Every Lunar Phase | Spellful",
+    "description": "Free moon ritual planner with 48 unique rituals across 8 lunar phases. Get personalized herb, crystal, and step-by-step guidance for love, protection, prosperity, and healing. No signup needed."
+  }
+}

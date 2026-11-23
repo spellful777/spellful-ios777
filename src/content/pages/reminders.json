@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Reminders & Notifications",
+    "subtitle": "Stay connected to your spiritual practice with gentle, opt-in reminders. All notifications require your explicit consent."
+  },
+  "labels": {
+    "save_button": "Save Preferences",
+    "saving": "Saving...",
+    "saved": "Saved!",
+    "consent_note": "You can change or disable these at any time. We will never send reminders without your consent.",
+    "signin_heading": "Sign in to manage reminders",
+    "signin_body": "Create a free account to set up personalized reminders for moon events and spiritual practices.",
+    "signin_cta": "Create Free Account"
+  }
+}

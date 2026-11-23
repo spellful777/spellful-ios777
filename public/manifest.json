@@ -1,0 +1,27 @@
+{
+  "name": "Spellful",
+  "short_name": "Spellful",
+  "description": "Witchcraft & intuitive resources — tarot, moon cycles, spells, and community for modern practitioners.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0B1A",
+  "theme_color": "#0D0B1A",
+  "icons": [
+    {
+      "src": "/airo-assets/images/pwa/app-icon",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/airo-assets/images/pwa/app-icon",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "lifestyle", "spirituality"],
+  "lang": "en-US"
+}

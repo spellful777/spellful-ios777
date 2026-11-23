@@ -1,0 +1,527 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Raleway:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core Colors */
+    --background: 248 41% 7%;
+    --foreground: 0 0% 96%;
+    --card: 251 39% 14%;
+    --card-foreground: 270 35% 91%;
+    --popover: 248 41% 7%;
+    --popover-foreground: 0 0% 96%;
+    --primary: 44 54% 54%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 74 54% 54%;
+    --secondary-foreground: 0 0% 29%;
+    --muted: 247 45% 11%;
+    --muted-foreground: 259 20% 64%;
+    --accent: 259 39% 76%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 160 84% 39%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+    --info: 217 91% 60%;
+    --info-foreground: 0 0% 100%;
+    --border: 251 37% 23%;
+    --input: 251 37% 23%;
+    --ring: 44 54% 54%;
+
+    /* Extended Colors */
+    --chart-1: 44 53% 84%;
+    --chart-2: 44 54% 69%;
+    --chart-3: 44 54% 54%;
+    --chart-4: 44 54% 39%;
+    --chart-5: 45 53% 24%;
+
+    /* Sidebar Colors */
+    --sidebar: 247 45% 11%;
+    --sidebar-foreground: 0 0% 96%;
+    --sidebar-primary: 44 54% 54%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 259 39% 76%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 251 37% 23%;
+    --sidebar-ring: 44 54% 54%;
+
+    /* Typography */
+    --font-sans: "Raleway", -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-heading: "Cormorant Garamond", Georgia, serif;
+    --font-serif: ui-serif, Georgia, "Times New Roman", serif;
+    --font-mono: ui-monospace, "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
+
+    /* Border Radius */
+    --radius: 0.5rem;
+    /* Button radius: the kit's radiusButton is written here at install time;
+       the default matches shadcn `rounded-md` (calc(var(--radius) - 2px)) so a
+       kit without a button radius renders unchanged. Consumed by the Button
+       `cva` via `rounded-[var(--radius-button)]` (AIROBUILD-3249). */
+    --radius-button: calc(var(--radius) - 2px);
+
+    /* Spacing scale — every spacing utility takes these rungs: p-base, py-xxl,
+       mb-lg, gap-base, mt-xs. Retune the site's rhythm from here. */
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-base: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-xxl: 4rem;
+    --space-xxxl: 6rem;
+
+    /* Content container width (max-w-content) */
+    --width-content: 72rem;
+
+    /* Shadows */
+    --shadow-2xs: 0 1px 3px 0px hsl(0 0% 0% / 0.05);
+    --shadow-xs: 0 1px 3px 0px hsl(0 0% 0% / 0.05);
+    --shadow-sm: 0 1px 3px 0px hsl(0 0% 0% / 0.10), 0 1px 2px -1px hsl(0 0% 0% / 0.10);
+    --shadow: 0 1px 3px 0px hsl(0 0% 0% / 0.10), 0 1px 2px -1px hsl(0 0% 0% / 0.10);
+    --shadow-md: 0 1px 3px 0px hsl(0 0% 0% / 0.10), 0 2px 4px -1px hsl(0 0% 0% / 0.10);
+    --shadow-lg: 0 1px 3px 0px hsl(0 0% 0% / 0.10), 0 4px 6px -1px hsl(0 0% 0% / 0.10);
+    --shadow-xl: 0 1px 3px 0px hsl(0 0% 0% / 0.10), 0 8px 10px -1px hsl(0 0% 0% / 0.10);
+    --shadow-2xl: 0 1px 3px 0px hsl(0 0% 0% / 0.25);
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Shared long-form type scale (RUBICON-554). Single source of truth for
+   page titles and rich markdown content; anchored to the site heading range so
+   blog posts match the rest of the customer's site. */
+@layer components {
+  .page-title {
+    font-size: clamp(1.875rem, 2vw + 1rem, 2.25rem);
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: normal;
+    color: hsl(var(--foreground));
+  }
+
+  .rich-text {
+    color: hsl(var(--muted-foreground));
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+  /* Defensive: a stray body H1 renders one step below .page-title and is
+     visually distinct from the real page title above it. */
+  .rich-text h1 {
+    font-size: clamp(1.5rem, 1.5vw + 1rem, 1.875rem);
+    font-weight: 700;
+    line-height: 1.3;
+    color: hsl(var(--foreground));
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  .rich-text h2 {
+    font-size: clamp(1.5rem, 1.5vw + 1rem, 1.875rem);
+    font-weight: 700;
+    line-height: 1.3;
+    color: hsl(var(--foreground));
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  .rich-text h3 {
+    font-size: clamp(1.25rem, 1vw + 0.9rem, 1.5rem);
+    font-weight: 700;
+    color: hsl(var(--foreground));
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  .rich-text h4 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .rich-text p {
+    margin-bottom: 1.25rem;
+  }
+  .rich-text a {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+  }
+  .rich-text ul,
+  .rich-text ol {
+    margin: 1.25rem 0;
+    padding-left: 1.5rem;
+  }
+  .rich-text ul { list-style: disc; }
+  .rich-text ol { list-style: decimal; }
+  .rich-text li { margin-bottom: 0.5rem; }
+  .rich-text blockquote {
+    border-left: 3px solid hsl(var(--primary));
+    padding-left: 1rem;
+    font-style: italic;
+    margin: 1.5rem 0;
+    color: hsl(var(--foreground));
+  }
+  .rich-text code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: hsl(var(--muted));
+    padding: 0.15rem 0.35rem;
+    border-radius: 0.25rem;
+  }
+  .rich-text pre {
+    background: hsl(var(--muted));
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+  }
+  .rich-text pre code {
+    background: transparent;
+    padding: 0;
+  }
+  .rich-text img {
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+    max-width: 100%;
+    height: auto;
+  }
+  .rich-text table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+  }
+  .rich-text th,
+  .rich-text td {
+    border: 1px solid hsl(var(--border));
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+  }
+}
+
+/* Custom utility classes */
+@layer utilities {
+  .scrollbar-none {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.08; transform: scale(1); }
+  50%       { opacity: 1;    transform: scale(1.35); }
+}
+@keyframes twinkle-slow {
+  0%, 100% { opacity: 0.05; transform: scale(1); }
+  50%       { opacity: 0.7;  transform: scale(1.2); }
+}
+@keyframes twinkle-fast {
+  0%, 100% { opacity: 0.15; transform: scale(1); }
+  50%       { opacity: 0.9;  transform: scale(1.5); }
+}
+
+
+  .animate-in {
+    animation-duration: 0.2s;
+    animation-fill-mode: both;
+  }
+
+  .fade-in {
+    animation-name: fadeIn;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* Unless told otherwise, keep it for smooth scrolling */
+html {
+  scroll-behavior: smooth;
+  /* Astro chart planet colors */
+  --card-glow: 0 0 60px hsl(var(--primary) / 0.08), 0 25px 50px hsl(0 0% 0% / 0.5);
+  --card-deep: 248 41% 10%;
+  /* Enchanted Portal footer palette */
+  --footer-bg-deep: 270 47% 9%;
+  --footer-bg-darkest: 270 50% 5%;
+  --footer-ivory: 30 50% 94%;
+  --footer-gold: 33 45% 62%;
+  --footer-lavender: 270 45% 67%;
+  --footer-plum: 270 47% 11%;
+  --accent-rose: 350 65% 62%;
+  --accent-violet: 270 55% 60%;
+  --device-shell: 248 41% 5%;
+  /* Profile Studio Preview — Plus accent swatches */
+  --preview-accent-gold: 44 54% 54%;
+  --preview-accent-lavender: 259 39% 76%;
+  --preview-accent-rose: 350 55% 60%;
+  --preview-accent-sage: 150 28% 58%;
+  --preview-accent-free: 230 15% 60%;
+  --mobile-menu-bg-start: 248 55% 8%;
+  --mobile-menu-bg-mid: 259 60% 13%;
+  --mobile-menu-bg-end: 270 50% 7%;
+  /* Cosmic brand background variables */
+  --cosmic-bg-center: 259 60% 18%;
+  --cosmic-bg-mid: 248 55% 10%;
+  --cosmic-bg-edge: 248 50% 5%;
+  --cosmic-nebula-violet: 259 70% 45%;
+  --cosmic-nebula-blue: 217 80% 45%;
+  --cosmic-nebula-purple: 280 60% 50%;
+  --device-statusbar: 248 41% 7%;
+  --banner-bg-start: 248 41% 5%;
+  --banner-bg-mid: 259 39% 12%;
+  --banner-bg-end: 248 41% 5%;
+  /* Community stats — live presence indicator */
+  --presence-live: 142 71% 45%;
+  --presence-live-bg: 142 71% 45%;
+  /* Community hero — magical palette */
+  --hero-midnight: 248 41% 8%;
+  --hero-plum: 270 47% 14%;
+  --hero-lavender: 270 52% 64%;
+  --hero-lavender-soft: 270 45% 79%;
+  --hero-gold: 44 54% 54%;
+  --hero-moonlight: 270 60% 97%;
+  --hero-surface: 270 47% 11%;
+  --insta-bg-mid: 259 50% 10%;
+  --card-mid: 248 41% 12%;
+    --grimoire-herb: 120 40% 55%;
+  /* Solar Return modal */
+  --sr-bg-deep: 248 55% 9%;
+  --sr-bg-mid: 259 60% 14%;
+  --sr-bg-edge: 270 50% 8%;
+  --sr-border: 259 39% 30%;
+  --sr-border-inner: 259 39% 25%;
+  --sr-border-action: 259 39% 20%;
+  --sr-gold: 44 54% 80%;
+  --sr-gold-btn: 44 54% 44%;
+  --sr-text-dim: 259 20% 64%;
+  --sr-card-bg: 248 55% 7%;
+  --sr-overlay: 248 55% 5%;
+    --grimoire-ritual: 15 80% 60%;
+    --grimoire-tarot: 270 50% 65%;
+    --grimoire-dream: 210 50% 65%;
+    /* Messenger wallpaper theme stops */
+    --msw-celestial-a: 259 60% 22%;
+    --msw-celestial-b: 280 50% 14%;
+    --msw-moonlit-a: 220 40% 13%;
+    --msw-moonlit-b: 44 35% 14%;
+    --msw-botanical-a: 140 35% 12%;
+    --msw-botanical-b: 120 25% 14%;
+    --msw-amethyst-a: 270 55% 16%;
+    --msw-amethyst-b: 259 45% 22%;
+    --msw-minimalist-a: 248 28% 14%;
+    --msw-minimalist-b: 248 22% 10%;
+    --msw-starfield-a: 248 65% 18%;
+    --msw-starfield-b: 248 45% 8%;
+  /* Herbal Grimoire 2.0 — source label & safety colors */
+  --herb-verified: 142 69% 58%;
+  --herb-historical: 43 96% 56%;
+  --herb-warning: 0 91% 71%;
+  --herb-water: 199 53% 66%;
+  --herb-earth: 120 30% 60%;
+  --herb-air: 54 53% 65%;
+  --herb-healing: 142 69% 73%;
+  --herb-winter: 214 32% 91%;
+  --herb-shadow: 262 82% 74%;
+  --herb-dreams: 213 93% 78%;
+  --herb-sun: 43 96% 56%;
+  --herb-moon: 214 32% 91%;
+  --herb-mars: 0 91% 71%;
+  --herb-mercury: 84 69% 55%;
+  --herb-jupiter: 213 93% 68%;
+  --herb-venus: 340 82% 82%;
+  --herb-saturn: 215 20% 65%;
+  /* Login page atmospheric layers */
+  --login-bg-top: 259 39% 12%;
+  --login-bg-mid: 248 41% 7%;
+  --login-bg-deep: 248 41% 4%;
+  --login-nebula-purple: 259 39% 20%;
+  --login-nebula-gold: 44 54% 30%;
+  --login-nebula-soft: 259 39% 25%;
+  --login-moon-light: 44 60% 85%;
+  --login-moon-shadow: 248 41% 7%;
+  --login-card-top: 251 39% 16%;
+  --login-card-mid: 248 41% 10%;
+  --login-card-deep: 248 41% 8%;
+  --login-card-darkest: 248 41% 4%;
+  --login-input-bg: 248 41% 7%;
+  --login-divider-bg: 251 39% 13%;
+  --login-btn-dark: 44 54% 42%;
+
+    /* Story canvas theme accent colours — read at runtime via getComputedStyle */
+    --story-accent-0: 44 54% 54%;
+    --story-accent-1: 188 60% 63%;
+    --story-accent-2: 345 60% 76%;
+    --story-accent-3: 135 45% 69%;
+    --story-accent-4: 270 70% 78%;
+    --story-accent-5: 44 54% 54%;
+    --story-accent-6: 165 70% 63%;
+    --story-accent-7: 330 60% 76%;
+    --story-accent-8: 220 70% 72%;
+    --story-accent-9: 28 80% 66%;
+  --astro-sun: 45 80% 60%;
+  --astro-sun-color: 45 80% 65%;
+  --astro-moon: 210 30% 80%;
+  --astro-mercury: 140 25% 68%;
+  --astro-venus: 330 60% 78%;
+  --astro-mars: 5 75% 60%;
+  --astro-jupiter: 35 75% 60%;
+  --astro-saturn: 30 25% 58%;
+  --astro-uranus: 200 65% 68%;
+  --astro-neptune: 240 55% 68%;
+  --astro-pluto: 290 45% 63%;
+  --astro-error: 5 75% 60%;
+  /* Sign element colors */
+  --astro-fire: 5 75% 60%;
+  --astro-earth: 30 25% 45%;
+  --astro-air: 43 55% 48%;
+  --astro-water: 210 70% 60%;
+  /* Sign colors */
+  --astro-aries: 5 75% 60%;
+  --astro-taurus: 130 25% 52%;
+  --astro-gemini: 45 75% 60%;
+  --astro-cancer: 200 55% 68%;
+  --astro-leo: 35 75% 60%;
+  --astro-virgo: 130 25% 58%;
+  --astro-libra: 280 40% 73%;
+  --astro-scorpio: 330 60% 35%;
+  --astro-sagittarius: 20 75% 60%;
+  --astro-capricorn: 30 25% 45%;
+  --astro-aquarius: 210 70% 60%;
+  --astro-pisces: 230 55% 68%;
+}
+/* ── Accessibility preferences ─────────────────────────────────────────────── */
+html.reduce-motion *,
+html.reduce-motion *::before,
+html.reduce-motion *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+  scroll-behavior: auto !important;
+}
+
+html.font-size-large {
+  font-size: 18px;
+}
+html.font-size-larger {
+  font-size: 20px;
+}
+
+html.high-contrast {
+  --foreground: 0 0% 100%;
+  --muted-foreground: 0 0% 80%;
+  --border: 251 37% 40%;
+}
+
+/* ── Magical tile press glow (CommandCenter inner universe) ── */
+@keyframes magical-press-glow {
+  0%   { box-shadow: 0 0 0px 0px hsl(var(--primary) / 0); }
+  30%  { box-shadow: 0 0 12px 4px hsl(var(--primary) / 0.55), 0 0 24px 8px hsl(var(--accent) / 0.25); }
+  70%  { box-shadow: 0 0 10px 3px hsl(var(--primary) / 0.4), 0 0 20px 6px hsl(var(--accent) / 0.18); }
+  100% { box-shadow: 0 0 0px 0px hsl(var(--primary) / 0); }
+}
+.tile-magical-glow {
+  animation: magical-press-glow 0.65s ease-out forwards;
+}
+
+/* ── Messenger: message jump highlight ─────────────────────────────────── */
+@keyframes msg-flash {
+  0%   { box-shadow: 0 0 0 0 hsl(var(--primary) / 0.5); }
+  40%  { box-shadow: 0 0 0 6px hsl(var(--primary) / 0.25); }
+  100% { box-shadow: 0 0 0 0 hsl(var(--primary) / 0); }
+}
+.msg-highlight {
+  animation: msg-flash 1.6s ease-out forwards;
+  border-radius: 0.75rem;
+}
+
+/* ── Back-to-top button: responsive bottom position ───────────────────── */
+/*
+ * Mobile (<768px):
+ *   The fixed bottom nav is ~57px of content + env(safe-area-inset-bottom)
+ *   padding it already absorbs. The button sits above the nav's top edge,
+ *   so we clear the nav height (57px) + safe area + a 12px breathing gap.
+ *   We do NOT add env() again — the nav already consumed it; adding it here
+ *   would double-count on notched devices (iPhone X+).
+ *
+ * Desktop (768px+):
+ *   No bottom nav. Sit 28px from the viewport bottom, still respecting any
+ *   safe area (landscape iPad with home indicator, etc.).
+ */
+.back-to-top-btn {
+  bottom: calc(env(safe-area-inset-bottom, 0px) + 69px);
+}
+@media (min-width: 768px) {
+  .back-to-top-btn {
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 28px);
+  }
+}
+
+
+/* ── iOS standalone (Add to Home Screen) PWA fixes ───────────────────── */
+/*
+ * When launched from the iPhone Home Screen, iOS runs the app in
+ * "standalone" display mode. position:fixed elements can disappear if
+ * a parent has overflow:hidden or if the layout height is based on the
+ * legacy 100vh (which doesn't account for the iOS chrome correctly).
+ * These rules guarantee the bottom nav stays visible and correctly
+ * positioned in standalone mode.
+ */
+@media (display-mode: standalone) {
+  /* Ensure the bottom nav is always visible and above all content */
+  nav[aria-label="Mobile bottom navigation"] {
+    display: flex !important;
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 9999 !important;
+    padding-bottom: env(safe-area-inset-bottom, 0px) !important;
+  }
+
+  /* Use dynamic viewport height so the layout never overflows the visible area */
+  body,
+  #app,
+  #app > div {
+    min-height: 100dvh;
+  }
+}
+
+/* Legacy -webkit- prefix for older iOS versions */
+@media (-webkit-min-device-pixel-ratio: 0) and (display-mode: standalone) {
+  nav[aria-label="Mobile bottom navigation"] {
+    display: flex !important;
+  }
+}
+
+
+@keyframes spellful-twinkle {
+  0%   { opacity: 0.2; transform: scale(0.85); }
+  100% { opacity: 0.9; transform: scale(1.15); }
+}
+@keyframes cosmic-twinkle {
+  0%, 100% { opacity: 0.3; }
+  50%       { opacity: 1;   }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cosmic-star { animation: none !important; }
+}

@@ -1,0 +1,19 @@
+{
+  "backLabel": "Community",
+  "notFoundText": "Discussion not found.",
+  "backToCommunityLabel": "Back to Community",
+  "noRepliesText": "No replies yet — be the first to respond.",
+  "postReplyLabel": "Post Reply",
+  "postingLabel": "Posting…",
+  "replyPlaceholder": "Share your thoughts…",
+  "lockedText": "This discussion is locked.",
+  "shareLabel": "Share",
+  "copiedLabel": "Copied!",
+  "saveLabel": "Save",
+  "savedLabel": "Saved",
+  "reportLabel": "Report",
+  "acceptAnswerLabel": "Mark as Answer",
+  "acceptedAnswerLabel": "Accepted Answer",
+  "sortOldest": "Oldest",
+  "sortTop": "Top"
+}

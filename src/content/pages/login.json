@@ -1,0 +1,17 @@
+{
+  "title": "Welcome Back",
+  "subtitle": "Sign in to your sacred space",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "forgotPassword": "Forgot password?",
+  "submitButton": "Sign In",
+  "submittingButton": "Signing in…",
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create one",
+  "twoFaTitle": "Two-Factor Authentication",
+  "twoFaSubtitle": "Enter the 6-digit code from your authenticator app",
+  "twoFaCodeLabel": "Authentication code",
+  "twoFaSubmitButton": "Verify",
+  "twoFaVerifyingButton": "Verifying…",
+  "twoFaBackButton": "Back to sign in"
+}

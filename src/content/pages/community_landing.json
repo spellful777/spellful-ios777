@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "eyebrow": "The Coven",
+    "title": "A Sacred Circle Awaits",
+    "subtitle": "Join a community of witches, seekers, and dreamers walking the path together."
+  },
+  "gatherings": [
+    {
+      "id": "g1",
+      "type": "ritual",
+      "title": "Full Moon Circle",
+      "date": "Monthly",
+      "time": "8:00 PM MST",
+      "description": "Live ritual gathering under the full moon."
+    },
+    {
+      "id": "g2",
+      "type": "celebration",
+      "title": "Sabbat Celebrations",
+      "date": "8x per year",
+      "time": "Varies",
+      "description": "Seasonal celebrations for each turn of the wheel."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "This community changed my practice completely.",
+      "author": "Luna W.",
+      "name": "Luna W.",
+      "role": "Member"
+    },
+    {
+      "id": "t2",
+      "quote": "I finally found my people.",
+      "author": "Sage M.",
+      "name": "Sage M.",
+      "role": "Member"
+    }
+  ]
+}

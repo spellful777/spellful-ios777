@@ -1,0 +1,40 @@
+{
+  "slug": "twelve-astrological-houses",
+  "title": "What Are the 12 Astrological Houses? | Spellful",
+  "description": "A clear guide to the twelve houses of a birth chart and the life themes astrologers traditionally associate with each.",
+  "h1": "What Are the 12 Astrological Houses?",
+  "publishedDate": "2026-11-20",
+  "intro": "If planets describe themes and signs describe styles, astrological houses provide the setting. The twelve houses are sections of a birth chart used to organize symbolic interpretations into areas of life. They are not physical compartments in the sky, and their meanings are part of astrological tradition.",
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Houses one through four",
+      "body": "The first house is associated with self-presentation, beginnings, and how you meet the world. The second traditionally concerns possessions, resources, values, and security. The third covers communication, everyday learning, siblings, and the immediate environment. The fourth is linked to home, family roots, and private foundations. These are broad interpretive categories, not fixed predictions."
+    },
+    {
+      "id": "s2",
+      "heading": "Houses five through eight",
+      "body": "The fifth house is associated with creativity, play, pleasure, and self-expression. The sixth concerns routines, service, work habits, and everyday care. The seventh is commonly read through close partnerships and one-to-one commitments. The eighth is associated with shared resources, trust, vulnerability, and major transitions. Interpretations vary among astrological schools, so context matters."
+    },
+    {
+      "id": "s3",
+      "heading": "Houses nine through twelve",
+      "body": "The ninth house relates to higher learning, philosophy, travel, and exploration of meaning. The tenth often concerns public life, vocation, and reputation. The eleventh is associated with friendship, networks, groups, and collective hopes. The twelfth traditionally concerns solitude, retreat, hidden patterns, and inner reflection. Avoid treating a difficult-sounding house as a warning of unavoidable trouble."
+    },
+    {
+      "id": "s4",
+      "heading": "Why your birth time matters",
+      "body": "Houses depend on the local horizon and meridian at birth. As Earth rotates, house positions change, so a small time error can shift a planet near a boundary into a different house. Your birthplace also matters. Some chart systems use unequal houses, while whole-sign houses use complete zodiac signs as houses. Two reputable astrology programs may therefore show different house placements without one necessarily being a software error."
+    },
+    {
+      "id": "s5",
+      "heading": "How to interpret a house",
+      "body": "Choose a planet, identify its house, and consider the planet's traditional theme in that life area. For instance, Mercury in a house connected with learning might prompt questions about study and communication. Next consider the sign and major aspects rather than reading a house alone. An \"empty house\" does not mean that life area is absent or unimportant."
+    },
+    {
+      "id": "s6",
+      "heading": "Use the houses as questions",
+      "body": "Try writing one question for each house: What supports my security? How do I communicate? What does home mean to me? Which relationships deserve attention? This makes the house system a practical reflection tool without treating it as scientific fact or an unavoidable fate."
+    }
+  ]
+}

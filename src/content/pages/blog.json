@@ -1,0 +1,118 @@
+{
+  "hero": {
+    "eyebrow": "The Grimoire",
+    "title": "Whispers from the Craft",
+    "subtitle": "Writings on the old ways — moon magic, shadow work, herbalism, and the sacred rhythms that bind us to the earth."
+  },
+  "featured": {
+    "tag": "Featured",
+    "category": "Moon Magic",
+    "title": "Harnessing the Full Moon: A Complete Ritual Guide",
+    "excerpt": "The full moon is the apex of the lunar cycle — a time when the veil between worlds thins and our intentions carry the most power. Learn how to cast a circle, charge your tools, and release what no longer serves you under her silver light.",
+    "author": "Spellful",
+    "date": "October 25, 2026",
+    "readTime": "8 min read"
+  },
+  "posts": [
+    {
+      "id": "1",
+      "category": "Sabbats",
+      "title": "Samhain: The Witch's New Year",
+      "excerpt": "As the veil grows thin and the dead walk among us, Samhain calls us to honor our ancestors, divine the year ahead, and embrace the sacred darkness within.",
+      "author": "Spellful",
+      "date": "October 20, 2026",
+      "readTime": "6 min read",
+      "tag": "Seasonal"
+    },
+    {
+      "id": "2",
+      "category": "Tarot",
+      "title": "Reading the Tower Card: When Everything Must Fall",
+      "excerpt": "The Tower strikes fear into the hearts of many seekers — but within its lightning-struck walls lies the gift of liberation. What crumbles was never truly yours to keep.",
+      "author": "Spellful",
+      "date": "October 15, 2026",
+      "readTime": "5 min read",
+      "tag": "Divination"
+    },
+    {
+      "id": "3",
+      "category": "Herbalism",
+      "title": "The Witch's Apothecary: 13 Sacred Herbs and Their Magic",
+      "excerpt": "From mugwort that opens the dreaming eye to rosemary that guards the threshold, these thirteen plants have been the backbone of the craft for centuries.",
+      "author": "Spellful",
+      "date": "October 10, 2026",
+      "readTime": "10 min read",
+      "tag": "Correspondences"
+    },
+    {
+      "id": "4",
+      "category": "Shadow Work",
+      "title": "Descending into the Dark: A Shadow Work Primer",
+      "excerpt": "Jung called it the shadow — the parts of ourselves we bury in shame or fear. The witch knows that true power comes not from the light alone, but from integrating the whole self.",
+      "author": "Spellful",
+      "date": "October 5, 2026",
+      "readTime": "7 min read",
+      "tag": "Inner Work"
+    },
+    {
+      "id": "5",
+      "category": "Crystals",
+      "title": "Crystal Correspondences for Every Moon Phase",
+      "excerpt": "Each phase of the moon resonates with different stones. Labradorite for the new moon's mystery, selenite for the full moon's clarity — learn to align your crystal practice with the lunar wheel.",
+      "author": "Spellful",
+      "date": "September 28, 2026",
+      "readTime": "6 min read",
+      "tag": "Crystals"
+    },
+    {
+      "id": "6",
+      "category": "Spells",
+      "title": "Candle Magic 101: Color, Intention, and Flame",
+      "excerpt": "Fire is the most primal of the elements — transformative, consuming, and alive. Candle magic is one of the oldest and most accessible forms of spellwork, requiring nothing more than a flame and a focused will.",
+      "author": "Spellful",
+      "date": "September 20, 2026",
+      "readTime": "5 min read",
+      "tag": "Spellwork"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "All"
+    },
+    {
+      "id": "2",
+      "name": "Moon Magic"
+    },
+    {
+      "id": "3",
+      "name": "Tarot"
+    },
+    {
+      "id": "4",
+      "name": "Herbalism"
+    },
+    {
+      "id": "5",
+      "name": "Sabbats"
+    },
+    {
+      "id": "6",
+      "name": "Shadow Work"
+    },
+    {
+      "id": "7",
+      "name": "Crystals"
+    },
+    {
+      "id": "8",
+      "name": "Spells"
+    }
+  ],
+  "newsletter": {
+    "title": "Receive the Craft",
+    "subtitle": "Moon phase alerts, seasonal rituals, and whispered wisdom delivered to your inbox on the new and full moon.",
+    "placeholder": "your@email.com",
+    "button": "Join the Coven"
+  }
+}

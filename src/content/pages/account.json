@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "My Account — Spellful",
+    "description": "Manage your Spellful account, profile picture, security settings, and astrological profile."
+  },
+  "header": {
+    "signOutButton": "Sign Out"
+  },
+  "tabs": {
+    "profile": "Profile",
+    "security": "Security",
+    "astrology": "Astrology"
+  },
+  "profileTab": {
+    "sectionTitle": "Profile Picture",
+    "uploadHint": "Upload a custom photo or choose a hat below.",
+    "uploadConstraints": "Square · JPEG, PNG or WebP · max 5 MB",
+    "avatarPickerTitle": "Choose a Witch Hat",
+    "publicProfileTitle": "Public Profile",
+    "usernameLabel": "Username",
+    "bioLabel": "Bio",
+    "bioPlaceholder": "A brief introduction to your practice...",
+    "locationLabel": "Location",
+    "witchPathLabel": "Witch Path",
+    "visibilityLabel": "Profile Visibility",
+    "visibilityPublicLabel": "Public",
+    "visibilityPublicDesc": "Anyone can view",
+    "visibilityCovenLabel": "Coven",
+    "visibilityCovenDesc": "Coven members only",
+    "visibilityPrivateLabel": "Private",
+    "visibilityPrivateDesc": "Only you",
+    "saveButton": "Save Public Profile",
+    "savingButton": "Saving…",
+    "savedButton": "Saved",
+    "viewProfileLink": "View my profile →"
+  },
+  "securityTab": {
+    "passwordSectionTitle": "Change Password",
+    "currentPasswordLabel": "Current password",
+    "newPasswordLabel": "New password",
+    "confirmPasswordLabel": "Confirm new password",
+    "twoFaSectionTitle": "Two-Factor Authentication",
+    "sessionsSectionTitle": "Active Sessions",
+    "activitySectionTitle": "Login Activity",
+    "noActivityText": "No login activity recorded yet.",
+    "noSessionsLoadedText": "Load sessions above to see login history."
+  },
+  "astroTab": {
+    "sectionTitle": "Astrological Profile",
+    "birthDateLabel": "Birth Date",
+    "birthTimeLabel": "Birth Time",
+    "birthLocationLabel": "Birth Location",
+    "sunSignLabel": "Sun Sign ☀️",
+    "moonSignLabel": "Moon Sign 🌙",
+    "risingSignLabel": "Rising Sign ⬆️",
+    "saveButton": "Save Astrology Profile",
+    "savedButton": "Saved"
+  },
+  "twoFaModal": {
+    "title": "Set Up Two-Factor Auth",
+    "choiceIntro": "Choose your second factor method:",
+    "totpOptionTitle": "Authenticator App",
+    "totpOptionDesc": "Google Authenticator, Authy, 1Password, etc.",
+    "smsOptionTitle": "SMS Code",
+    "smsOptionDesc": "Requires phone number & Twilio setup"
+  },
+  "DEFAULT_AVATARS": [
+    {
+      "id": "hat-black",
+      "label": "Classic",
+      "url": "/airo-assets/images/avatars/default-hat-black"
+    },
+    {
+      "id": "hat-orange",
+      "label": "Harvest",
+      "url": "/airo-assets/images/avatars/default-hat-orange"
+    },
+    {
+      "id": "hat-red",
+      "label": "Crimson",
+      "url": "/airo-assets/images/avatars/default-hat-red"
+    },
+    {
+      "id": "hat-blue",
+      "label": "Sapphire",
+      "url": "/airo-assets/images/avatars/default-hat-blue"
+    },
+    {
+      "id": "hat-green",
+      "label": "Emerald",
+      "url": "/airo-assets/images/avatars/default-hat-green"
+    },
+    {
+      "id": "hat-purple",
+      "label": "Mystic",
+      "url": "/airo-assets/images/avatars/default-hat-purple"
+    },
+    {
+      "id": "hat-rainbow",
+      "label": "Pride",
+      "url": "/airo-assets/images/avatars/default-hat-rainbow"
+    },
+    {
+      "id": "hat-lesbian",
+      "label": "Lesbian",
+      "url": "/airo-assets/images/avatars/default-hat-lesbian"
+    },
+    {
+      "id": "hat-trans",
+      "label": "Trans",
+      "url": "/airo-assets/images/avatars/default-hat-trans"
+    }
+  ],
+  "ZODIAC_SIGNS": [
+    "Aries",
+    "Taurus",
+    "Gemini",
+    "Cancer",
+    "Leo",
+    "Virgo",
+    "Libra",
+    "Scorpio",
+    "Sagittarius",
+    "Capricorn",
+    "Aquarius",
+    "Pisces"
+  ]
+}

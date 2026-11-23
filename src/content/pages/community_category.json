@@ -1,0 +1,11 @@
+{
+  "backLabel": "Back to Community",
+  "newDiscussionLabel": "New Discussion",
+  "startFirstLabel": "Start the First Discussion",
+  "emptyText": "No discussions yet in this category.",
+  "filters": {
+    "latest": "Latest",
+    "popular": "Popular",
+    "unanswered": "Unanswered"
+  }
+}

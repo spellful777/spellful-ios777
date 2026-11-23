@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "eyebrow": "Astrology 2.0",
+    "title": "Celestial Time Machine",
+    "subtitle": "Travel to any moment in time and explore the night sky exactly as it appeared — or will appear — from any place on Earth.",
+    "backLink": "← Astrology Hub"
+  },
+  "controls": {
+    "dateLabel": "Date",
+    "timeLabel": "Time (local)",
+    "timezoneLabel": "Timezone",
+    "locationLabel": "Location",
+    "latLabel": "Latitude",
+    "lonLabel": "Longitude",
+    "detectButton": "Detect my location",
+    "goButton": "✨ View the Sky",
+    "loadingButton": "Computing…",
+    "presetLabel": "Quick jumps"
+  },
+  "results": {
+    "skyDomeTitle": "Sky Dome",
+    "planetsTitle": "Planetary Positions",
+    "eventsTitle": "Key Astronomical Events",
+    "riseSetTitle": "Rise & Set Times",
+    "filterPlanets": "Planets",
+    "filterConstellations": "Constellations",
+    "filterStars": "Stars",
+    "aboveHorizon": "Above horizon",
+    "belowHorizon": "Below horizon",
+    "retrograde": "Retrograde",
+    "direct": "Direct",
+    "circumpolar": "Circumpolar — never sets",
+    "alwaysBelow": "Below horizon all day",
+    "noEvents": "No notable events for this date."
+  }
+}

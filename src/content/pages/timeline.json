@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Cosmic Life Timeline",
+    "subtitle": "Your private archive of milestones, reflections, rituals, and dreams — each one anchored to the moon that witnessed it."
+  },
+  "empty": {
+    "title": "Your story begins here",
+    "subtitle": "Add your first milestone, dream, or reflection to start your cosmic timeline.",
+    "cta": "Add Your First Entry"
+  },
+  "onThisDay": {
+    "heading": "On This Day in Past Years"
+  },
+  "form": {
+    "addTitle": "Add to Your Timeline",
+    "editTitle": "Edit Entry",
+    "titlePlaceholder": "Name this moment...",
+    "contentPlaceholder": "What happened? How did it feel? What did you learn?",
+    "tagsPlaceholder": "growth, love, career...",
+    "saveButton": "Add to Timeline",
+    "updateButton": "Update Entry"
+  }
+}

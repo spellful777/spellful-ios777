@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "eyebrow": "Celestial Blueprint",
+    "title": "Your Natal Chart",
+    "subtitle": "Discover the precise positions of the planets at the moment of your birth — and what they reveal about your soul's journey."
+  },
+  "form": {
+    "title": "Cast Your Chart",
+    "subtitle": "For accurate house placements, birth time and location are essential."
+  }
+}

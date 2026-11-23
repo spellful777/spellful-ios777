@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "My Grimoire",
+    "subtitle": "Your personal Book of Shadows"
+  },
+  "stats": {
+    "entriesLabel": "Entries",
+    "entryLabel": "Entry",
+    "favoritesLabel": "Favorites"
+  },
+  "toolbar": {
+    "searchPlaceholder": "Search your grimoire...",
+    "favoritesButton": "Favorites",
+    "newEntryButton": "New Entry"
+  },
+  "filterAll": "All",
+  "emptyState": {
+    "title": "Your Book of Shadows Awaits",
+    "description": "Begin recording your spells, herbs, crystals, rituals, tarot readings, dreams, and journal entries.",
+    "cta": "Add First Entry"
+  },
+  "form": {
+    "newTitle": "New Grimoire Entry",
+    "editTitle": "Edit Entry",
+    "typeLabel": "Entry Type",
+    "titleLabel": "Title",
+    "titlePlaceholder": "Name your entry...",
+    "contentLabel": "Content",
+    "contentPlaceholder": "Write your entry here...",
+    "notesLabel": "Personal Notes",
+    "notesOptional": "(optional)",
+    "notesPlaceholder": "Private observations, results, reflections...",
+    "tagsLabel": "Tags",
+    "tagsOptional": "(comma-separated)",
+    "tagsPlaceholder": "protection, love, moon magic...",
+    "moonPhaseLabel": "Moon Phase",
+    "moonPhasePlaceholder": "Select moon phase...",
+    "favoriteLabel": "Mark as favorite",
+    "cancelButton": "Cancel",
+    "saveButton": "Save Changes",
+    "addButton": "Add to Grimoire",
+    "savingText": "Saving...",
+    "errorRequired": "Title and content are required.",
+    "errorSave": "Failed to save entry. Please try again."
+  },
+  "deleteDialog": {
+    "title": "Delete Entry?",
+    "description": "This entry will be permanently removed from your grimoire. This cannot be undone.",
+    "cancelButton": "Cancel",
+    "deleteButton": "Delete"
+  }
+}

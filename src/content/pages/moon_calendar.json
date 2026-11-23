@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "eyebrow": "Lunar Sanctuary",
+    "title": "Discover Your Moon",
+    "subtitle": "Your living lunar calendar — current phase, tonight's ritual, and a private space for your intentions."
+  },
+  "footer": {
+    "note": "Full moon dates are calculated using Meeus astronomical algorithms and verified against USNO and NASA references. Traditional moon names and magical correspondences follow established folk and astrological conventions."
+  },
+  "whispers": {
+    "New Moon": "A blank page, a held breath. What do you wish to call in?",
+    "Waxing Crescent": "The seed has been planted. Tend it with intention and patience.",
+    "First Quarter": "Resistance is part of the path. Take one deliberate step forward.",
+    "Waxing Gibbous": "You are almost there. Refine, adjust, and trust the momentum.",
+    "Full Moon": "Everything you have tended is now visible. Receive it with gratitude.",
+    "Waning Gibbous": "Share what you have learned. Generosity deepens the harvest.",
+    "Last Quarter": "What no longer serves you? Release it with grace, not regret.",
+    "Waning Crescent": "Rest. Reflect. The cycle is completing itself in its own time."
+  }
+}

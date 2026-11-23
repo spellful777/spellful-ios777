@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "badge": "Organization Program",
+    "heading": "Bring Your Community or Business to Spellful",
+    "subheading": "Organizations on Spellful include shops, studios, collectives, event hosts, nonprofits, learning organizations, and community groups — any entity that serves the broader magical community.",
+    "ctaPrimary": "Apply as Organization",
+    "ctaSecondary": "Create Free Account"
+  },
+  "typesSection": {
+    "heading": "What Kinds of Organizations Join?",
+    "subheading": "From independent metaphysical shops to large spiritual education platforms, organizations of all sizes are welcome."
+  },
+  "benefitsSection": {
+    "heading": "What Your Organization Gets"
+  },
+  "stepsSection": {
+    "heading": "How to Apply"
+  },
+  "creatorCta": {
+    "heading": "Creating content as an individual?",
+    "subheading": "Individual creators have their own dedicated profile type."
+  },
+  "faqSection": {
+    "heading": "Frequently Asked Questions"
+  }
+}

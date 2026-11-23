@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "eyebrow": "Astrology 2.0",
+    "title": "Cosmic Connections",
+    "subtitle": "Enter two birth dates to reveal the astrological dynamics between them — synastry aspects, compatibility themes, and a full relationship reading.",
+    "backLink": "← Astrology Hub"
+  },
+  "form": {
+    "personALabel": "Person A",
+    "personBLabel": "Person B",
+    "namePlaceholder": "e.g. Luna",
+    "nameLabel": "Name (optional)",
+    "dateLabel": "Birth Date",
+    "unknownTimeLabel": "Unknown birth time (uses noon)",
+    "timeLabel": "Birth Time",
+    "calculateButton": "✨ Reveal Cosmic Connection",
+    "loadingButton": "Reading the stars…"
+  },
+  "results": {
+    "overallLabel": "Overall Compatibility",
+    "strengthsTitle": "✨ Connection Strengths",
+    "growthTitle": "◈ Growth Edges",
+    "compositeSunDesc": "The relationship’s core identity and shared purpose",
+    "compositeMoonDesc": "The emotional tone and inner life of this connection",
+    "wheelCaption": "The inner wheel shows Person A’s natal chart; the outer wheel shows Person B’s planets overlaid.",
+    "noAspectsMessage": "No aspects found between these charts.",
+    "aspectCountSuffix": "aspects found"
+  },
+  "intro": {
+    "synastryTitle": "Synastry Aspects",
+    "synastryDesc": "Every cross-chart aspect between the two natal charts, with orb, nature, and interpretation.",
+    "scoresTitle": "Compatibility Scores",
+    "scoresDesc": "Five dimensions — Love, Stability, Passion, Communication, and Long-term — scored and explained.",
+    "narrativeTitle": "Full Reading",
+    "narrativeDesc": "Archetype, composite identity, relationship patterns, timing insights, and growth edges."
+  }
+}

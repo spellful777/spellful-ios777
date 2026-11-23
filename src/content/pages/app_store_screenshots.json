@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "badge": "Screenshot Showcase",
+    "title": "App Store Screenshots",
+    "subtitle": "6 iPhone screens + 3 iPad screens. Capture each at the URL listed, then frame in your preferred mockup tool."
+  },
+  "toolsNote": {
+    "label": "Recommended screenshot tools",
+    "tools": "Rottenwood (free, browser-based) · AppLaunchpad (templates) · Figma (custom frames) · Sketch (iOS mockup kits)"
+  },
+  "captionsSectionTitle": "Screenshot Caption Copy",
+  "captionsSectionNote": "Add these as overlay text on each screenshot frame. Keep captions short — 2–4 words on line 1, feature name on line 2.",
+  "footerLink": "View Full Submission Metadata",
+  "footerNote": "This page is noindexed and for internal use only.",
+  "sizes": [
+    {
+      "id": "iphone-69",
+      "label": "iPhone 6.9\"",
+      "size": "1320 × 2868 px"
+    },
+    {
+      "id": "iphone-65",
+      "label": "iPhone 6.5\"",
+      "size": "1242 × 2688 px"
+    },
+    {
+      "id": "ipad-13",
+      "label": "iPad 13\"",
+      "size": "2064 × 2752 px"
+    },
+    {
+      "id": "feature-graphic",
+      "label": "Feature Graphic",
+      "size": "1024 × 500 px"
+    }
+  ],
+  "screens": [
+    {
+      "id": "screen-1",
+      "number": "1",
+      "headline": "Your Daily Cosmic Forecast",
+      "subheadline": "Personalized to your birth chart",
+      "description": "Card of the Day, moon phase widget, personalized horoscope, daily affirmation, and crystal recommendation — all on one beautiful dashboard.",
+      "url": "/dashboard",
+      "tags": "Horoscope, Tarot, Moon Phase, Affirmation",
+      "device": "phone"
+    },
+    {
+      "id": "screen-2",
+      "number": "2",
+      "headline": "78 Cards. Original Artwork.",
+      "subheadline": "Complete tarot deck with 5 spreads",
+      "description": "Every card features original custom artwork. Choose from one-card pulls, three-card spreads, Celtic Cross, New Moon, and Shadow Work layouts.",
+      "url": "/tarot",
+      "tags": "78 Cards, 5 Spreads, Custom Art, Journaling",
+      "device": "phone"
+    },
+    {
+      "id": "screen-3",
+      "number": "3",
+      "headline": "Your Stars, Precisely Mapped",
+      "subheadline": "VSOP87 astronomical accuracy",
+      "description": "Generate your complete natal chart with 10 planets, Ascendant, and Midheaven. Explore synastry charts with beautiful SVG dual-wheel visualizations.",
+      "url": "/birth-chart",
+      "tags": "10 Planets, ASC + MC, Synastry, VSOP87",
+      "device": "phone"
+    },
+    {
+      "id": "screen-4",
+      "number": "4",
+      "headline": "Your Digital Book of Shadows",
+      "subheadline": "Private grimoire & journal",
+      "description": "Journal spells, dreams, shadow work, and herbal lore. Includes a 49-herb reference library, dream journal, and shadow work prompts.",
+      "url": "/grimoire",
+      "tags": "Grimoire, Dream Journal, 49 Herbs, Shadow Work",
+      "device": "phone"
+    },
+    {
+      "id": "screen-5",
+      "number": "5",
+      "headline": "Lunar Magic, Every Phase",
+      "subheadline": "48 rituals across all moon phases",
+      "description": "Track lunar cycles with Meeus-algorithm precision (±2 min accuracy). Browse 48 moon rituals, set reminders, and plan your practice.",
+      "url": "/moon-calendar",
+      "tags": "Moon Phases, 48 Rituals, Reminders, ±2 min",
+      "device": "phone"
+    },
+    {
+      "id": "screen-6",
+      "number": "6",
+      "headline": "A Coven in Your Pocket",
+      "subheadline": "Moderated community boards",
+      "description": "Connect with practitioners worldwide. Share posts, join discussions, participate in polls, and explore community boards in a safe, moderated space.",
+      "url": "/community",
+      "tags": "Community, Polls, Q&A, Moderated",
+      "device": "phone"
+    },
+    {
+      "id": "screen-7",
+      "number": "7",
+      "headline": "Learn the Craft",
+      "subheadline": "22 lessons across 9 topics",
+      "description": "Spellful Academy guides you from beginner to practitioner. Complete quizzes, earn progress badges, and bookmark lessons to revisit.",
+      "url": "/learn",
+      "tags": "22 Lessons, 9 Topics, Quizzes, Progress",
+      "device": "tablet"
+    },
+    {
+      "id": "screen-8",
+      "number": "8",
+      "headline": "Free Divination Tools",
+      "subheadline": "Numerology, runes & compatibility",
+      "description": "Numerology readings, rune casting, and compatibility analysis — available to all users, no account required.",
+      "url": "/numerology",
+      "tags": "Numerology, Runes, Compatibility, Free",
+      "device": "tablet"
+    },
+    {
+      "id": "screen-9",
+      "number": "9",
+      "headline": "Spell Library & Rituals",
+      "subheadline": "18 curated spells with community reviews",
+      "description": "Browse 18 curated spells with step-by-step instructions, community reviews, and reply threads. The Moon Ritual Planner offers 48 rituals.",
+      "url": "/spells",
+      "tags": "18 Spells, Reviews, Moon Rituals, Step-by-step",
+      "device": "tablet"
+    }
+  ]
+}

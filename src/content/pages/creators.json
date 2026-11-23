@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "badge": "Creator Program",
+    "heading": "Share Your Magic with the World",
+    "subheading": "Spellful creators are tarot readers, herbalists, educators, artists, and spiritual guides who share their knowledge and craft with a community of fellow practitioners.",
+    "ctaPrimary": "Apply as Creator",
+    "ctaSecondary": "Create Free Account"
+  },
+  "whoSection": {
+    "heading": "Who Creates on Spellful?",
+    "subheading": "Our creator community spans every corner of the magical arts. If you create original content about witchcraft, spirituality, or related practices, you belong here."
+  },
+  "benefitsSection": {
+    "heading": "What You Get as a Creator"
+  },
+  "stepsSection": {
+    "heading": "How to Apply"
+  },
+  "orgCta": {
+    "heading": "Running a business or collective?",
+    "subheading": "Organizations have their own dedicated profile type."
+  },
+  "faqSection": {
+    "heading": "Frequently Asked Questions"
+  }
+}

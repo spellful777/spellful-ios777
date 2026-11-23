@@ -1,0 +1,321 @@
+{
+  "hero": {
+    "title": "Sacred Knowledge",
+    "subtitle": "Explore the ancient arts of tarot, numerology, and intuitive spreads. These teachings have guided seekers for centuries — let them illuminate your path."
+  },
+  "tarot": {
+    "sectionTitle": "The Minor Arcana",
+    "intro": "The 56 cards of the Minor Arcana reflect the everyday trials and triumphs that shape our human experience. Divided into four suits, each carries its own elemental energy and domain of life.",
+    "suits": [
+      {
+        "id": "wands",
+        "name": "Wands",
+        "element": "Fire",
+        "theme": "Passion, creativity, and will",
+        "description": "The suit of Wands governs ambition, inspiration, and the spark of new ideas. These cards speak to your drive, your creative fire, and the courage to pursue what sets your soul alight.",
+        "keywords": "Action · Ambition · Inspiration · Courage · Growth"
+      },
+      {
+        "id": "cups",
+        "name": "Cups",
+        "element": "Water",
+        "theme": "Emotion, intuition, and relationships",
+        "description": "The suit of Cups flows through the realm of feeling — love, grief, dreams, and the deep currents of the heart. These cards illuminate your emotional landscape and your connections with others.",
+        "keywords": "Love · Intuition · Dreams · Healing · Relationships"
+      },
+      {
+        "id": "swords",
+        "name": "Swords",
+        "element": "Air",
+        "theme": "Thought, truth, and conflict",
+        "description": "The suit of Swords cuts through illusion with the blade of intellect. These cards deal in truth, communication, conflict, and the power of the mind to both wound and liberate.",
+        "keywords": "Truth · Clarity · Conflict · Communication · Change"
+      },
+      {
+        "id": "pentacles",
+        "name": "Pentacles",
+        "element": "Earth",
+        "theme": "Material world, body, and abundance",
+        "description": "The suit of Pentacles grounds us in the physical realm — money, work, health, and the tangible fruits of our labor. These cards speak to what we build, tend, and manifest in the material world.",
+        "keywords": "Abundance · Work · Health · Security · Manifestation"
+      }
+    ],
+    "courtCards": {
+      "title": "The Court Cards",
+      "description": "Each suit contains four Court Cards — Page, Knight, Queen, and King — representing personalities, people in your life, or aspects of yourself. Pages are students and messengers; Knights are action and movement; Queens embody mastery and nurturing; Kings represent authority and full expression of their element's energy."
+    }
+  },
+  "spreads": {
+    "sectionTitle": "Tarot Spreads",
+    "intro": "A spread is the sacred map you lay before reading — each position holds a question, and each card placed there answers it. These five spreads range from a single moment of clarity to a deep dive into the soul.",
+    "items": [
+      {
+        "id": "one-card",
+        "name": "One Card Draw",
+        "positions": "1 card",
+        "purpose": "Daily guidance, a quick answer, or a moment of reflection",
+        "description": "The simplest and most powerful spread. Draw one card each morning to receive the day's guiding energy, or ask a single focused question and let the card speak its truth."
+      },
+      {
+        "id": "three-card",
+        "name": "Three Card Spread",
+        "positions": "3 cards",
+        "purpose": "Past · Present · Future or Situation · Action · Outcome",
+        "description": "The classic three-card spread offers a narrative arc. Use it to understand how you arrived here, where you stand now, and where the current energy is carrying you."
+      },
+      {
+        "id": "celtic-cross",
+        "name": "Celtic Cross",
+        "positions": "10 cards",
+        "purpose": "Deep dive into any situation or life area",
+        "description": "The most comprehensive spread in traditional tarot. Ten cards illuminate the heart of the matter, crossing influences, subconscious forces, hopes, fears, and the likely outcome — a full portrait of any situation."
+      },
+      {
+        "id": "new-moon",
+        "name": "New Moon Spread",
+        "positions": "5 cards",
+        "purpose": "Setting intentions and planting seeds at the new moon",
+        "description": "Aligned with the new moon's energy of beginnings, this spread reveals what you are ready to call in, what must be released to make space, the seed you are planting, the nourishment it needs, and the gift it will bring."
+      },
+      {
+        "id": "shadow-work",
+        "name": "Shadow Work Spread",
+        "positions": "6 cards",
+        "purpose": "Exploring the unconscious and integrating hidden aspects of self",
+        "description": "A courageous spread for those ready to meet their shadow. Six cards illuminate what is hidden, why it was buried, how it shows up in your life, what it needs from you, the gift it carries, and the integration it offers."
+      }
+    ]
+  },
+  "numerology": {
+    "intro": "Numbers carry vibration and meaning. Discover your Personal Year cycle and Life Lesson Number to understand the deeper patterns shaping your path.",
+    "sectionTitle": "Numerology",
+    "personalYear": {
+      "title": "Personal Year Number",
+      "intro": "Your Personal Year Number reveals the overarching theme and energy of your current year. It shifts on your birthday each year, guiding your focus and intentions.",
+      "howTo": "Add your birth month + birth day + current year, then reduce to a single digit (or master number 11/22).",
+      "years": [
+        {
+          "id": "py1",
+          "number": "1",
+          "theme": "New Beginnings",
+          "description": "A year of fresh starts, independence, and planting seeds. The universe supports bold new directions — begin what you have been waiting to start."
+        },
+        {
+          "id": "py2",
+          "number": "2",
+          "theme": "Partnership & Patience",
+          "description": "A year of cooperation, relationships, and quiet growth. Trust the process, nurture your connections, and allow things to unfold in their own time."
+        },
+        {
+          "id": "py3",
+          "number": "3",
+          "theme": "Creativity & Expression",
+          "description": "A year of joy, self-expression, and social expansion. Your creative gifts are amplified — share your voice, your art, and your light with the world."
+        },
+        {
+          "id": "py4",
+          "number": "4",
+          "theme": "Foundation & Work",
+          "description": "A year of building, discipline, and laying solid groundwork. The effort you invest now creates the structure that supports everything to come."
+        },
+        {
+          "id": "py5",
+          "number": "5",
+          "theme": "Change & Freedom",
+          "description": "A year of movement, adventure, and unexpected shifts. Embrace flexibility, release what confines you, and welcome the liberation that change brings."
+        },
+        {
+          "id": "py6",
+          "number": "6",
+          "theme": "Home & Responsibility",
+          "description": "A year of love, family, healing, and service. Your focus turns to home, relationships, and the sacred responsibility of caring for yourself and others."
+        },
+        {
+          "id": "py7",
+          "number": "7",
+          "theme": "Reflection & Wisdom",
+          "description": "A year of inner work, spiritual deepening, and solitude. Step back from the outer world to listen to the wisdom that lives within you."
+        },
+        {
+          "id": "py8",
+          "number": "8",
+          "theme": "Power & Abundance",
+          "description": "A year of achievement, financial flow, and personal authority. Your efforts are rewarded — step into your power and receive what you have earned."
+        },
+        {
+          "id": "py9",
+          "number": "9",
+          "theme": "Completion & Release",
+          "description": "A year of endings, forgiveness, and clearing. Release what has run its course with gratitude, and prepare your heart for the new cycle that awaits."
+        }
+      ]
+    },
+    "lifeLesson": {
+      "title": "Life Lesson Number",
+      "intro": "Your Life Lesson Number (also called Life Path Number) is the most significant number in your chart. It reveals your core purpose, natural gifts, and the lessons your soul chose to master in this lifetime.",
+      "howTo": "Add all digits of your full birth date (month + day + year), then reduce to a single digit or master number.",
+      "numbers": [
+        {
+          "id": "ll1",
+          "number": "1",
+          "lesson": "The Pioneer",
+          "description": "You are here to lead, innovate, and forge your own path. Your lesson is to develop independence, courage, and the confidence to stand alone in your truth."
+        },
+        {
+          "id": "ll2",
+          "number": "2",
+          "lesson": "The Peacemaker",
+          "description": "You are here to master cooperation, diplomacy, and the art of deep listening. Your lesson is to find strength in sensitivity and power in partnership."
+        },
+        {
+          "id": "ll3",
+          "number": "3",
+          "lesson": "The Creator",
+          "description": "You are here to express, inspire, and bring joy through creative gifts. Your lesson is to overcome self-doubt and share your authentic voice with the world."
+        },
+        {
+          "id": "ll4",
+          "number": "4",
+          "lesson": "The Builder",
+          "description": "You are here to create order, stability, and lasting foundations. Your lesson is to embrace discipline and trust that steady, patient effort builds something real."
+        },
+        {
+          "id": "ll5",
+          "number": "5",
+          "lesson": "The Free Spirit",
+          "description": "You are here to experience freedom, adventure, and the full spectrum of human experience. Your lesson is to channel your love of change into purposeful growth."
+        },
+        {
+          "id": "ll6",
+          "number": "6",
+          "lesson": "The Nurturer",
+          "description": "You are here to love, heal, and serve your community. Your lesson is to give freely while honoring your own needs — true service begins with self-care."
+        },
+        {
+          "id": "ll7",
+          "number": "7",
+          "lesson": "The Seeker",
+          "description": "You are here to question, investigate, and uncover hidden truths. Your lesson is to trust your inner knowing and find the sacred in solitude and study."
+        },
+        {
+          "id": "ll8",
+          "number": "8",
+          "lesson": "The Powerhouse",
+          "description": "You are here to master the material world — money, power, and influence — with integrity. Your lesson is to use your gifts in service of something greater than yourself."
+        },
+        {
+          "id": "ll9",
+          "number": "9",
+          "lesson": "The Humanitarian",
+          "description": "You are here to serve, heal, and uplift humanity. Your lesson is to release attachment to outcomes and give your gifts freely, trusting the universe to provide."
+        },
+        {
+          "id": "ll11",
+          "number": "11",
+          "lesson": "The Illuminator",
+          "description": "A master number of spiritual insight and inspiration. You are here to channel higher wisdom and illuminate the path for others. Your lesson is to trust your extraordinary intuition."
+        },
+        {
+          "id": "ll22",
+          "number": "22",
+          "lesson": "The Master Builder",
+          "description": "The most powerful life path — you are here to turn visionary dreams into tangible reality on a grand scale. Your lesson is to ground your gifts in practical, disciplined action."
+        }
+      ]
+    }
+  },
+  "angelNumbers": {
+    "sectionTitle": "Angel Numbers",
+    "intro": "Angel numbers are repeating number sequences that carry divine guidance. When you notice the same numbers appearing — on clocks, receipts, license plates — the universe is sending you a message.",
+    "numbers": [
+      {
+        "id": "111",
+        "number": "111",
+        "title": "New Beginnings",
+        "meaning": "A powerful portal of manifestation is open. Your thoughts are seeds — plant only what you wish to grow. The universe is aligning with your intentions right now.",
+        "keywords": "Manifestation, alignment, new cycles"
+      },
+      {
+        "id": "222",
+        "number": "222",
+        "title": "Trust & Balance",
+        "meaning": "You are exactly where you need to be. Trust the process, maintain faith, and know that everything is unfolding in divine timing. Balance and harmony are being restored.",
+        "keywords": "Faith, patience, divine timing"
+      },
+      {
+        "id": "333",
+        "number": "333",
+        "title": "Divine Support",
+        "meaning": "The ascended masters and your guides are near, offering their love and support. You are protected, guided, and never alone on your path. Speak your truth boldly.",
+        "keywords": "Guidance, creativity, expression"
+      },
+      {
+        "id": "444",
+        "number": "444",
+        "title": "Angelic Protection",
+        "meaning": "Your angels surround you with love and protection. You are safe. The foundations you are building are solid and blessed. Keep going — your hard work is seen.",
+        "keywords": "Protection, stability, foundation"
+      },
+      {
+        "id": "555",
+        "number": "555",
+        "title": "Change is Coming",
+        "meaning": "A major transformation is on its way. Release resistance and embrace the shift. What is changing is meant to align you more fully with your highest path.",
+        "keywords": "Change, freedom, transformation"
+      },
+      {
+        "id": "666",
+        "number": "666",
+        "title": "Realign & Refocus",
+        "meaning": "A gentle nudge to bring your thoughts back into balance. Release fear and material worry. Reconnect with your spiritual self and trust that your needs are always met.",
+        "keywords": "Balance, healing, refocus"
+      },
+      {
+        "id": "777",
+        "number": "777",
+        "title": "Spiritual Awakening",
+        "meaning": "You are on the right path. Spiritual gifts are awakening within you. This is a sign of deep alignment — your intuition is sharp and your connection to the divine is strong.",
+        "keywords": "Luck, wisdom, spiritual gifts"
+      },
+      {
+        "id": "888",
+        "number": "888",
+        "title": "Abundance Flows",
+        "meaning": "Infinite abundance is flowing toward you in all forms — financial, spiritual, and emotional. You are in a powerful cycle of receiving. Open your arms and accept.",
+        "keywords": "Abundance, infinity, prosperity"
+      },
+      {
+        "id": "999",
+        "number": "999",
+        "title": "Completion & Release",
+        "meaning": "A significant chapter is closing. Honor what has been, release what no longer serves, and prepare for the new cycle that awaits. You have learned what you came to learn.",
+        "keywords": "Completion, release, endings"
+      },
+      {
+        "id": "1010",
+        "number": "1010",
+        "title": "Awakening & Growth",
+        "meaning": "You are awakening to your true potential. Step out of your comfort zone — the universe is conspiring to help you grow into the fullest version of yourself.",
+        "keywords": "Growth, potential, awakening"
+      },
+      {
+        "id": "1111",
+        "number": "1111",
+        "title": "Make a Wish",
+        "meaning": "The most powerful manifestation portal. Your thoughts instantly attract their match. Focus only on what you desire. A direct line to the universe is open — speak your deepest wish.",
+        "keywords": "Manifestation, wishes, portals"
+      },
+      {
+        "id": "1212",
+        "number": "1212",
+        "title": "Stay Positive",
+        "meaning": "Keep your thoughts and intentions elevated. You are co-creating your reality with the divine. Positive thinking now has amplified power to shape your future.",
+        "keywords": "Positivity, co-creation, hope"
+      }
+    ]
+  },
+  "closing": {
+    "title": "The Path Continues",
+    "text": "These are living teachings — return to them as you grow, and you will find new layers of meaning each time."
+  }
+}

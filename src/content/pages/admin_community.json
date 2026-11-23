@@ -1,0 +1,61 @@
+{
+  "pageTitle": "Community Admin",
+  "tabs": {
+    "reports": "Reports",
+    "posts": "Posts",
+    "categories": "Categories",
+    "badges": "Badges",
+    "modLog": "Mod Log",
+    "announcements": "Announcements"
+  },
+  "reports": {
+    "statusPending": "Pending",
+    "statusResolved": "Resolved",
+    "statusDismissed": "Dismissed",
+    "resolveBtn": "Resolve",
+    "dismissBtn": "Dismiss",
+    "emptyPending": "No pending reports",
+    "reasonLabel": "Reason",
+    "targetLabel": "Target",
+    "reporterLabel": "Reporter"
+  },
+  "posts": {
+    "searchPlaceholder": "Search post ID or title…",
+    "pinBtn": "Pin",
+    "unpinBtn": "Unpin",
+    "lockBtn": "Lock",
+    "unlockBtn": "Unlock",
+    "hideBtn": "Hide",
+    "unhideBtn": "Unhide",
+    "reasonPlaceholder": "Reason (optional)",
+    "emptyState": "Enter a post ID or title to search"
+  },
+  "categories": {
+    "activeLabel": "Active",
+    "inactiveLabel": "Inactive",
+    "saveBtn": "Save",
+    "sortOrderLabel": "Sort order"
+  },
+  "badges": {
+    "userIdLabel": "User ID or username",
+    "badgeSlugLabel": "Badge slug",
+    "awardBtn": "Award Badge",
+    "successMsg": "Badge awarded",
+    "availableBadges": "Available badges: first_post, helpful, veteran, moderator, witch_of_the_month, top_contributor"
+  },
+  "modLog": {
+    "emptyState": "No moderation actions yet",
+    "actionLabel": "Action",
+    "targetLabel": "Target",
+    "modLabel": "Moderator",
+    "reasonLabel": "Reason"
+  },
+  "announcements": {
+    "titleLabel": "Title",
+    "bodyLabel": "Body",
+    "categoryLabel": "Category (optional — leave blank for all)",
+    "postBtn": "Post Announcement",
+    "successMsg": "Announcement posted",
+    "note": "Announcements are pinned discussion posts visible to all members."
+  }
+}

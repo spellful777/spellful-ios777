@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "Explore Spellful Plus — Make Spellful Your Own",
+    "description": "Spellful Plus adds thoughtful personalization and organization tools to your practice. The knowledge and community stay free for everyone."
+  },
+  "hero": {
+    "headline": "More ways to make Spellful your own.",
+    "subheading": "The knowledge and community stay free. Plus adds thoughtful tools to personalize and organize your practice."
+  },
+  "pricing": {
+    "name": "Spellful Plus",
+    "price": "$4.99/month",
+    "billingNote": "Auto-renews monthly. Cancel any time.",
+    "primaryCta": "Join Spellful Plus",
+    "secondaryCta": "Continue with Spellful Free"
+  },
+  "benefits": [
+    {
+      "id": "b1",
+      "key": "practice_studio",
+      "title": "My Practice Studio",
+      "description": "A customizable personal practice home with rearrangeable widgets — your tarot, moon phase, journal, and routines, arranged your way.",
+      "status": "live",
+      "icon": "✦"
+    },
+    {
+      "id": "b2",
+      "key": "personalization",
+      "title": "Celestial Themes",
+      "description": "Additional celestial color palettes and alternate dashboard layouts to make Spellful feel uniquely yours.",
+      "status": "live",
+      "icon": "🎨"
+    },
+    {
+      "id": "b3",
+      "key": "routine_builder",
+      "title": "Routine Builder Pro",
+      "description": "Unlimited custom practice routines, flexible reminder schedules, and saved templates. Free accounts include one routine.",
+      "status": "live",
+      "icon": "📅"
+    },
+    {
+      "id": "b4",
+      "key": "supporter_badge",
+      "title": "Supporter Badge",
+      "description": "An optional, tasteful celestial emblem you can choose to display on your profile and posts — showing your support for free spiritual education.",
+      "status": "live",
+      "icon": "✦"
+    }
+  ],
+  "whyFree": {
+    "heading": "Why most of Spellful is free",
+    "body": "Knowledge, spiritual education, community connection, and safety are not commodities. Spellful Plus funds the platform through genuinely optional extras — not artificial restrictions. Every lesson, tarot meaning, moon guide, community forum, and safety tool stays free for everyone, always."
+  },
+  "faq": [
+    {
+      "id": "f1",
+      "question": "What stays free?",
+      "answer": "Everything that matters most: all Academy lessons and quizzes, the full Library, every tarot reading and meaning, moon information, community forums, groups, connections, basic journaling, one practice routine, reporting and blocking tools, creator and organization applications, and your account data. None of that changes with Plus."
+    },
+    {
+      "id": "f2",
+      "question": "Can I cancel?",
+      "answer": "Yes, any time. Go to your device's subscription settings (iOS: Settings > Apple ID > Subscriptions) and cancel there. Your Plus features remain active until the end of the current billing period."
+    },
+    {
+      "id": "f3",
+      "question": "What happens to my saved content if Plus ends?",
+      "answer": "Your content is always yours. If Plus expires, your routines, journal entries, and saved material remain safely in your account. Only advanced editing and organization features (like additional routines beyond the first) become view-only until you resubscribe."
+    },
+    {
+      "id": "f4",
+      "question": "How do I restore my purchase?",
+      "answer": "In the Spellful app, go to Profile > Spellful Plus and tap 'Restore Purchases'. Your subscription will be verified with Apple and your benefits will be restored."
+    },
+    {
+      "id": "f5",
+      "question": "Can I still apply as a creator or organization?",
+      "answer": "Absolutely. Creator and organization applications are always free and are never influenced by subscription status. Plus does not affect application review in any way."
+    },
+    {
+      "id": "f6",
+      "question": "Does Plus give moderation privileges?",
+      "answer": "No. Moderation and admin roles are always role-based, never purchase-based. Spellful Plus is a personal convenience subscription — it has no effect on community authority, application review, or any staff role."
+    }
+  ],
+  "comparison": {
+    "freeLabel": "Spellful Free",
+    "plusLabel": "Spellful Plus",
+    "freeItems": [
+      "All Academy lessons and quizzes",
+      "Full Library and references",
+      "All tarot readings and meanings",
+      "Moon information and lunar guides",
+      "Community forums, groups, and connections",
+      "Basic journaling and saving",
+      "One practice routine",
+      "Creator and organization applications",
+      "Reporting, blocking, and safety tools",
+      "Account data access and deletion"
+    ],
+    "plusItems": [
+      "Everything in Free, plus:",
+      "My Practice Studio with rearrangeable widgets",
+      "Unlimited practice routines",
+      "Routine templates and advanced reminders",
+      "Celestial themes and alternate layouts",
+      "Optional Supporter badge (opt-in)"
+    ]
+  }
+}

@@ -1,0 +1,2957 @@
+{
+  "logo/horizontal": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-8b36285e.png",
+    "searchQuery": "spellful text moon stars mystical",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-2ef43b83.png",
+      "/airo-assets/uploads/logo-horizontal-a3f0f498.png",
+      "/airo-assets/uploads/logo-horizontal-b0881c66.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:33:01.545Z",
+    "lastUpdated": "2026-11-19T20:24:25.080Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-b0881c66.png": "upload-1792074712880-oqvy2D_W.png",
+      "/airo-assets/uploads/logo-horizontal-a3f0f498.png": "9udxg5wm87_1792075026022_file_IIQD9CtgZS.png",
+      "/airo-assets/uploads/logo-horizontal-2ef43b83.png": "9udxg5wm87_1792960401279_file_dypvJcvYX3.png",
+      "/airo-assets/uploads/logo-horizontal-8b36285e.png": "9udxg5wm87_1795119853015_file_mjdjPC1WoS.png"
+    },
+    "uploadContentHash": "c7b2739febfe023da47d53bb4a1786e3c924e0f2c9ce180de06416196449668e",
+    "naturalOrientation": "horizontal",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-horizontal-8b36285e.png",
+    "caption": "spellful text moon stars mystical"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-primary-2e7ca12c.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/transparent-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/9817388f-064c-46b3-a178-8c388d2b66f5/transparent-8d51d543-9e09-49cd-838b-da61d8060ed7/logo-logo.png",
+      "/airo-assets/uploads/logo-primary-2d28e0ba.png",
+      "/airo-assets/uploads/logo-primary-d3401c16.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/transparent-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-mug-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-card-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-tshirt-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-box-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-mug-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-card-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-tshirt-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d761af61-1f20-4561-b87c-de335049b669/mockup-box-5d3c4adb-b9aa-41a2-8e92-7a84481dd3b6/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:33:01.546Z",
+    "lastUpdated": "2026-11-19T20:24:25.082Z",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-primary-2e7ca12c.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-2e7ca12c.png": "9udxg5wm87_1795119853015_file_mjdjPC1WoS.png"
+    },
+    "uploadContentHash": "c7b2739febfe023da47d53bb4a1786e3c924e0f2c9ce180de06416196449668e",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-e10e7b4c.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-vertical-e2e5b2f1.png",
+      "/airo-assets/uploads/logo-vertical-96efb050.png",
+      "/airo-assets/uploads/logo-vertical-e9bfecb7.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-e9bfecb7.png": "upload-1792074712880-oqvy2D_W.png",
+      "/airo-assets/uploads/logo-vertical-96efb050.png": "9udxg5wm87_1792075026022_file_IIQD9CtgZS.png",
+      "/airo-assets/uploads/logo-vertical-e2e5b2f1.png": "9udxg5wm87_1792960401279_file_dypvJcvYX3.png",
+      "/airo-assets/uploads/logo-vertical-e10e7b4c.png": "9udxg5wm87_1795119853015_file_mjdjPC1WoS.png"
+    },
+    "uploadContentHash": "c7b2739febfe023da47d53bb4a1786e3c924e0f2c9ce180de06416196449668e",
+    "createdAt": "2026-10-15T14:33:01.546Z",
+    "lastUpdated": "2026-11-19T20:24:25.082Z",
+    "naturalOrientation": "vertical",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-vertical-e10e7b4c.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d11f79b0-3a54-44da-9c98-1c437186b53c/favicon-transparent-29e49154-f83e-41ea-979d-bd7ff0ddfd95/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [
+      "/airo-assets/uploads/logo-favicon-f7b9939e.png",
+      "/airo-assets/uploads/logo-favicon-54ed181b.png",
+      "/airo-assets/uploads/logo-favicon-9e4c3b60.png"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d11f79b0-3a54-44da-9c98-1c437186b53c/favicon-transparent-29e49154-f83e-41ea-979d-bd7ff0ddfd95/logo-logo.png": {
+        "sessionId": "d11f79b0-3a54-44da-9c98-1c437186b53c",
+        "logoId": "29e49154-f83e-41ea-979d-bd7ff0ddfd95",
+        "groupId": "a5a2fad1-772f-4825-bd64-d1df2d7aa853"
+      }
+    },
+    "logoGroupId": "a5a2fad1-772f-4825-bd64-d1df2d7aa853",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d11f79b0-3a54-44da-9c98-1c437186b53c/favicon-transparent-29e49154-f83e-41ea-979d-bd7ff0ddfd95/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d11f79b0-3a54-44da-9c98-1c437186b53c/favicon-original-29e49154-f83e-41ea-979d-bd7ff0ddfd95/logo-logo.png"
+    },
+    "userModified": true,
+    "createdAt": "2026-10-15T14:33:01.546Z",
+    "lastUpdated": "2026-11-19T20:24:39.165Z"
+  },
+  "pages/home/blog-1": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1447505760",
+    "searchQuery": "witchcraft ritual candles herbs mystical flat lay dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1387135864",
+      "https://img1.wsimg.com/isteam/getty/2256661145"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:02.992Z",
+    "lastUpdated": "2026-10-15T14:33:02.992Z",
+    "gettyId": "1447505760",
+    "alternativeGettyIds": [
+      "1387135864",
+      "2256661145"
+    ]
+  },
+  "pages/home/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-hero-df06b27c.png",
+    "searchQuery": "mystical altar with candles crystals lavender",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-hero-0a730c6e.png",
+      "https://img1.wsimg.com/isteam/getty/2200014897",
+      "https://img1.wsimg.com/isteam/getty/1304910851",
+      "https://img1.wsimg.com/isteam/getty/2240147911",
+      "https://img1.wsimg.com/isteam/getty/2210236238",
+      "https://img1.wsimg.com/isteam/getty/2267143274"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:33:04.481Z",
+    "lastUpdated": "2026-11-20T17:56:50.700Z",
+    "alternativeGettyIds": [
+      "",
+      "2200014897",
+      "1304910851",
+      "2240147911",
+      "2210236238",
+      "2267143274"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-hero-0a730c6e.png": "9udxg5wm87_1795196674781_file_9OJKiUHrVq.png",
+      "/airo-assets/uploads/pages-home-hero-df06b27c.png": "9udxg5wm87_1795197400056_file_uPReX93pgh.png"
+    },
+    "uploadContentHash": "408b74f2aefe134cfb96f3372330206ad1aa3fa97f100061842daaca9e985ea2",
+    "caption": "mystical altar with candles crystals lavender"
+  },
+  "pages/home/blog-2": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2223927401",
+    "searchQuery": "tarot cards mystical dark moody atmospheric",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1487251504",
+      "https://img1.wsimg.com/isteam/getty/1345805635"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:05.672Z",
+    "lastUpdated": "2026-10-15T14:33:05.672Z",
+    "gettyId": "2223927401",
+    "alternativeGettyIds": [
+      "1487251504",
+      "1345805635"
+    ]
+  },
+  "pages/home/shop-crystals": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2213996881",
+    "searchQuery": "crystals gemstones amethyst dark moody still life",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2291818611",
+      "https://img1.wsimg.com/isteam/getty/2229983110"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:07.550Z",
+    "lastUpdated": "2026-10-15T14:33:07.550Z",
+    "gettyId": "2213996881",
+    "alternativeGettyIds": [
+      "2291818611",
+      "2229983110"
+    ]
+  },
+  "pages/home/shop-candles": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1029717118",
+    "searchQuery": "ritual candles dark atmospheric moody witchcraft",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2232561870",
+      "https://img1.wsimg.com/isteam/getty/1277622191"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:09.865Z",
+    "lastUpdated": "2026-10-15T14:33:09.865Z",
+    "gettyId": "1029717118",
+    "alternativeGettyIds": [
+      "2232561870",
+      "1277622191"
+    ]
+  },
+  "pages/home/shop-herbs": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2224639752",
+    "searchQuery": "dried botanical herbs bundles dark moody witchcraft",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1432930845",
+      "https://img1.wsimg.com/isteam/getty/1304306624"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:11.040Z",
+    "lastUpdated": "2026-10-15T14:33:11.040Z",
+    "gettyId": "2224639752",
+    "alternativeGettyIds": [
+      "1432930845",
+      "1304306624"
+    ]
+  },
+  "pages/home/community-banner": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-community-banner-9dd468df.png",
+    "searchQuery": "mystical altar with candles crystals lavender",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-community-banner-702cc2b0.png",
+      "https://img1.wsimg.com/isteam/getty/2281711999",
+      "https://img1.wsimg.com/isteam/getty/1474242198",
+      "https://img1.wsimg.com/isteam/getty/2239350917"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:33:11.980Z",
+    "lastUpdated": "2026-11-20T18:24:50.862Z",
+    "alternativeGettyIds": [
+      "",
+      "2281711999",
+      "1474242198",
+      "2239350917"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-community-banner-702cc2b0.png": "9udxg5wm87_1795197304938_file_a6BKZYM4lz.png",
+      "/airo-assets/uploads/pages-home-community-banner-9dd468df.png": "9udxg5wm87_1795199080950_file_V2nNHXBV2k.png"
+    },
+    "uploadContentHash": "9919ef8d4b9dc37e6364a25643d26968976ac9a2af1f2396df4e892b0d168a40",
+    "caption": "mystical altar with candles crystals lavender"
+  },
+  "pages/home/blog-3": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2292493217",
+    "searchQuery": "moon phases celestial astronomy night sky dreamy",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2287783187",
+      "https://img1.wsimg.com/isteam/getty/2293866824"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-15T14:33:14.232Z",
+    "lastUpdated": "2026-10-15T14:33:14.232Z",
+    "gettyId": "2292493217",
+    "alternativeGettyIds": [
+      "2287783187",
+      "2293866824"
+    ]
+  },
+  "pages/resources/spread-one-card": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-one-s-HOyC8t.png",
+    "searchQuery": "glowing tarot card crescent moon mystical",
+    "caption": "glowing tarot card crescent moon mystical",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-one-s-HOyC8t.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:57:15.240Z",
+    "lastUpdated": "2026-10-15T14:57:15.240Z"
+  },
+  "pages/resources/spread-three-card": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-SyPnb8.png",
+    "searchQuery": "tarot spread past present future",
+    "caption": "tarot spread past present future",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-SyPnb8.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:57:31.407Z",
+    "lastUpdated": "2026-10-15T14:57:31.407Z"
+  },
+  "pages/resources/spread-celtic-cross": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-of-th-jGekLP.png",
+    "searchQuery": "tarot celtic cross layout glowing",
+    "caption": "tarot celtic cross layout glowing",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-of-th-jGekLP.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:57:45.831Z",
+    "lastUpdated": "2026-10-15T14:57:45.831Z"
+  },
+  "pages/resources/spread-new-moon": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-kHqszr.png",
+    "searchQuery": "mystical tarot cards crescent moon arrangement",
+    "caption": "mystical tarot cards crescent moon arrangement",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-kHqszr.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:58:00.149Z",
+    "lastUpdated": "2026-10-15T14:58:00.149Z"
+  },
+  "pages/resources/spread-shadow-work": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-w2q9KL.png",
+    "searchQuery": "mystical tarot spread diamond formation glowing",
+    "caption": "mystical tarot spread diamond formation glowing",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-w2q9KL.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-15T14:58:13.505Z",
+    "lastUpdated": "2026-10-15T14:58:13.505Z"
+  },
+  "pages/home/resource-moon-cycles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-moon-cycles-f2acddaa.png",
+    "searchQuery": "mystical moon phases lunar calendar book",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-resource-moon-cycles-daf0c171.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-25T20:29:02.918Z",
+    "lastUpdated": "2026-11-20T17:49:22.559Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-resource-moon-cycles-daf0c171.png": "9udxg5wm87_1792960072680_file_vheQx1yPQk.png",
+      "/airo-assets/uploads/pages-home-resource-moon-cycles-f2acddaa.png": "9udxg5wm87_1795196951864_file_BaQlHJkzmt.png"
+    },
+    "uploadContentHash": "9bdb5c387c6e2bf899bc0c62ffed93555110aee7543e78dee4801357b3355cd7",
+    "caption": "mystical moon phases lunar calendar book"
+  },
+  "pages/home/resource-tarot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-tarot-84422c3e.png",
+    "searchQuery": "tarot cards crystals candle mystical setup",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-resource-tarot-57294df4.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-25T20:29:07.062Z",
+    "lastUpdated": "2026-11-20T17:42:45.425Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-resource-tarot-57294df4.png": "9udxg5wm87_1792960072679_file_1RXmcoEoUa.png",
+      "/airo-assets/uploads/pages-home-resource-tarot-84422c3e.png": "9udxg5wm87_1795196540424_file_8r7pIL-ok0.png"
+    },
+    "uploadContentHash": "cfce31e0bfcf5a0632141017fb04add960cab27d968c503866b59db4319a3134",
+    "caption": "tarot cards crystals candle mystical setup"
+  },
+  "pages/home/resource-spells": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-spells-0a730c6e.png",
+    "searchQuery": "witchcraft altar with grimoire crystals candles",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-resource-spells-77367af3.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-25T20:29:13.959Z",
+    "lastUpdated": "2026-11-20T17:44:47.359Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-resource-spells-77367af3.png": "9udxg5wm87_1792960072682_file_OJxUmxTzcM.png",
+      "/airo-assets/uploads/pages-home-resource-spells-0a730c6e.png": "9udxg5wm87_1795196674781_file_9OJKiUHrVq.png"
+    },
+    "uploadContentHash": "12a996f7d901719df9a5097d3bf079c5c7e37ef961e1a19a03898ce2abdc201b",
+    "caption": "witchcraft altar with grimoire crystals candles"
+  },
+  "pages/home/resource-shop": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-shop-f3ce2bac.png",
+    "searchQuery": "mystical shop logo purple moon stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-10-25T20:29:17.566Z",
+    "lastUpdated": "2026-10-25T20:29:17.566Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-resource-shop-f3ce2bac.png": "9udxg5wm87_1792960072681_file_9Dx8VezRw3.png"
+    },
+    "uploadContentHash": "0a2c3f7923e85ac91f20bb8b8bd9e2d40cb491f50d3d7d03052da88e61ed06cc",
+    "caption": "mystical shop logo purple moon stars"
+  },
+  "pages/home/resource-magical-things": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-magical-things-58c51871.png",
+    "searchQuery": "witchcraft altar with crystals candles herbs",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-resource-magical-things-5637a6d8.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-10-25T20:29:20.908Z",
+    "lastUpdated": "2026-11-20T17:46:24.832Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-resource-magical-things-5637a6d8.png": "9udxg5wm87_1792960072676_file_LeHa-CQL9A.png",
+      "/airo-assets/uploads/pages-home-resource-magical-things-58c51871.png": "9udxg5wm87_1795196773973_file_SEgQG4BGRw.png"
+    },
+    "uploadContentHash": "c84e0b04bd827b33ec162dd3088797ed63259e903333694fe028d2b4af64ca9a",
+    "caption": "witchcraft altar with crystals candles herbs"
+  },
+  "pages/home/hero-video": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1354217924",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1354217924/video/cinematic-horror-scene.jpg?b=1&s=192x192&k=20&c=310ImclM0JZSgzVIp1M1l1xjqGCIdauE61s65Us26ZI=",
+    "searchQuery": "dark witchcraft ritual candles smoke mystical atmospheric",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:37:42.808Z",
+    "lastUpdated": "2026-10-25T20:37:42.808Z",
+    "gettyId": "1354217924"
+  },
+  "pages/blog/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/946913960",
+    "searchQuery": "dark gothic witchcraft books candles atmospheric moody",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1494846176",
+      "https://img1.wsimg.com/isteam/getty/2288334516",
+      "https://img1.wsimg.com/isteam/getty/1447505760",
+      "https://img1.wsimg.com/isteam/getty/1447505820"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:33.629Z",
+    "lastUpdated": "2026-10-25T20:39:33.629Z",
+    "gettyId": "946913960",
+    "alternativeGettyIds": [
+      "1494846176",
+      "2288334516",
+      "1447505760",
+      "1447505820"
+    ]
+  },
+  "pages/blog/post-moon-ritual": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1087726982",
+    "searchQuery": "full moon ritual altar candles crystals night dark moody",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1428488159",
+      "https://img1.wsimg.com/isteam/getty/1089733798",
+      "https://img1.wsimg.com/isteam/getty/2150518758",
+      "https://img1.wsimg.com/isteam/getty/1428452637"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:34.903Z",
+    "lastUpdated": "2026-10-25T20:39:34.903Z",
+    "gettyId": "1087726982",
+    "alternativeGettyIds": [
+      "1428488159",
+      "1089733798",
+      "2150518758",
+      "1428452637"
+    ]
+  },
+  "pages/blog/post-sabbats": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1162838446",
+    "searchQuery": "samhain halloween pumpkins candles autumn witchcraft dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2237110996",
+      "https://img1.wsimg.com/isteam/getty/1439388730",
+      "https://img1.wsimg.com/isteam/getty/1422804220",
+      "https://img1.wsimg.com/isteam/getty/1054413990"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:37.058Z",
+    "lastUpdated": "2026-10-25T20:39:37.058Z",
+    "gettyId": "1162838446",
+    "alternativeGettyIds": [
+      "2237110996",
+      "1439388730",
+      "1422804220",
+      "1054413990"
+    ]
+  },
+  "pages/community/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2286102195",
+    "searchQuery": "women circle ritual gathering mystical dark forest night",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1175086966",
+      "https://img1.wsimg.com/isteam/getty/1292110770",
+      "https://img1.wsimg.com/isteam/getty/2214954693",
+      "https://img1.wsimg.com/isteam/getty/1823658376"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:40.211Z",
+    "lastUpdated": "2026-10-25T20:39:40.211Z",
+    "gettyId": "2286102195",
+    "alternativeGettyIds": [
+      "1175086966",
+      "1292110770",
+      "2214954693",
+      "1823658376"
+    ]
+  },
+  "pages/blog/post-shadow-work": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2249586094",
+    "searchQuery": "dark mirror reflection mystical shadow introspection moody",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2297224514",
+      "https://img1.wsimg.com/isteam/getty/2249586048",
+      "https://img1.wsimg.com/isteam/getty/2257819026",
+      "https://img1.wsimg.com/isteam/getty/1188063528"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:53.125Z",
+    "lastUpdated": "2026-10-25T20:39:53.125Z",
+    "gettyId": "2249586094",
+    "alternativeGettyIds": [
+      "2297224514",
+      "2249586048",
+      "2257819026",
+      "1188063528"
+    ]
+  },
+  "pages/blog/post-tarot": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1764795185",
+    "searchQuery": "tarot cards spread dark velvet atmospheric candlelight",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1436751566",
+      "https://img1.wsimg.com/isteam/getty/1446314149",
+      "https://img1.wsimg.com/isteam/getty/1186394390",
+      "https://img1.wsimg.com/isteam/getty/510219268"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:54.334Z",
+    "lastUpdated": "2026-10-25T20:39:54.334Z",
+    "gettyId": "1764795185",
+    "alternativeGettyIds": [
+      "1436751566",
+      "1446314149",
+      "1186394390",
+      "510219268"
+    ]
+  },
+  "pages/blog/post-herbalism": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2300640067",
+    "searchQuery": "dried herbs botanical witchcraft apothecary dark moody flat lay",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2298861587",
+      "https://img1.wsimg.com/isteam/getty/2174138465",
+      "https://img1.wsimg.com/isteam/getty/2293566309",
+      "https://img1.wsimg.com/isteam/getty/2179409757"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:56.270Z",
+    "lastUpdated": "2026-10-25T20:39:56.270Z",
+    "gettyId": "2300640067",
+    "alternativeGettyIds": [
+      "2298861587",
+      "2174138465",
+      "2293566309",
+      "2179409757"
+    ]
+  },
+  "pages/blog/post-crystals": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246161883",
+    "searchQuery": "crystals amethyst quartz dark moody witchcraft altar",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2155839621",
+      "https://img1.wsimg.com/isteam/getty/1087727020",
+      "https://img1.wsimg.com/isteam/getty/2102806758",
+      "https://img1.wsimg.com/isteam/getty/1087549698"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:39:59.187Z",
+    "lastUpdated": "2026-10-25T20:39:59.187Z",
+    "gettyId": "2246161883",
+    "alternativeGettyIds": [
+      "2155839621",
+      "1087727020",
+      "2102806758",
+      "1087549698"
+    ]
+  },
+  "pages/home/sabbats-wheel": {
+    "orientations": "square",
+    "graphicalStyles": "illustration,vector",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/157381087",
+    "searchQuery": "wheel of the year pagan sabbats seasonal cycle illustration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1467878768",
+      "https://img1.wsimg.com/isteam/getty/2258131421",
+      "https://img1.wsimg.com/isteam/getty/638630982",
+      "https://img1.wsimg.com/isteam/getty/672070410"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T20:42:46.615Z",
+    "lastUpdated": "2026-10-25T20:42:46.615Z",
+    "gettyId": "157381087",
+    "alternativeGettyIds": [
+      "1467878768",
+      "2258131421",
+      "638630982",
+      "672070410"
+    ]
+  },
+  "pages/about/hero": {
+    "requestedSize": {
+      "width": 1440,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2167754200",
+    "searchQuery": "mystical dark forest moonlight atmospheric witchcraft nature",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1490421575",
+      "https://img1.wsimg.com/isteam/getty/1487070335",
+      "https://img1.wsimg.com/isteam/getty/2193682414",
+      "https://img1.wsimg.com/isteam/getty/1663426630"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-25T21:26:02.406Z",
+    "lastUpdated": "2026-10-25T21:26:02.406Z",
+    "gettyId": "2167754200",
+    "alternativeGettyIds": [
+      "1490421575",
+      "1487070335",
+      "2193682414",
+      "1663426630"
+    ]
+  },
+  "dashboard/crystal-amethyst": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2288842615",
+    "searchQuery": "amethyst crystal gemstone purple close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2287132666",
+      "https://img1.wsimg.com/isteam/getty/497304679"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:13.912Z",
+    "lastUpdated": "2026-11-18T04:57:13.912Z",
+    "gettyId": "2288842615",
+    "alternativeGettyIds": [
+      "2287132666",
+      "497304679"
+    ]
+  },
+  "dashboard/crystal-rose-quartz": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2251331252",
+    "searchQuery": "rose quartz crystal pink gemstone close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1220304465",
+      "https://img1.wsimg.com/isteam/getty/1220331259"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:21.586Z",
+    "lastUpdated": "2026-11-18T04:57:21.586Z",
+    "gettyId": "2251331252",
+    "alternativeGettyIds": [
+      "1220304465",
+      "1220331259"
+    ]
+  },
+  "dashboard/crystal-black-tourmaline": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2180775561",
+    "searchQuery": "black tourmaline crystal raw stone close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2155756176",
+      "https://img1.wsimg.com/isteam/getty/2158776116"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:33.402Z",
+    "lastUpdated": "2026-11-18T04:57:33.402Z",
+    "gettyId": "2180775561",
+    "alternativeGettyIds": [
+      "2155756176",
+      "2158776116"
+    ]
+  },
+  "dashboard/crystal-citrine": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1827536857",
+    "searchQuery": "citrine crystal yellow gemstone close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1499505614",
+      "https://img1.wsimg.com/isteam/getty/1304935439"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:39.515Z",
+    "lastUpdated": "2026-11-18T04:57:39.515Z",
+    "gettyId": "1827536857",
+    "alternativeGettyIds": [
+      "1499505614",
+      "1304935439"
+    ]
+  },
+  "dashboard/crystal-moonstone": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2287132647",
+    "searchQuery": "moonstone crystal gemstone white blue sheen close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/508032020",
+      "https://img1.wsimg.com/isteam/getty/508038244"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:45.322Z",
+    "lastUpdated": "2026-11-18T04:57:45.322Z",
+    "gettyId": "2287132647",
+    "alternativeGettyIds": [
+      "508032020",
+      "508038244"
+    ]
+  },
+  "dashboard/crystal-labradorite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2128142414",
+    "searchQuery": "labradorite crystal iridescent blue flash gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2287132619",
+      "https://img1.wsimg.com/isteam/getty/2287132589"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:57:54.691Z",
+    "lastUpdated": "2026-11-18T04:57:54.691Z",
+    "gettyId": "2128142414",
+    "alternativeGettyIds": [
+      "2287132619",
+      "2287132589"
+    ]
+  },
+  "dashboard/crystal-clear-quartz": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/822101322",
+    "searchQuery": "clear quartz crystal point transparent gemstone close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2251315599",
+      "https://img1.wsimg.com/isteam/getty/1474787759"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:02.615Z",
+    "lastUpdated": "2026-11-18T04:58:02.615Z",
+    "gettyId": "822101322",
+    "alternativeGettyIds": [
+      "2251315599",
+      "1474787759"
+    ]
+  },
+  "dashboard/crystal-obsidian": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2270412263",
+    "searchQuery": "black obsidian crystal volcanic glass polished stone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1303979214",
+      "https://img1.wsimg.com/isteam/getty/1440023984"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:09.764Z",
+    "lastUpdated": "2026-11-18T04:58:09.764Z",
+    "gettyId": "2270412263",
+    "alternativeGettyIds": [
+      "1303979214",
+      "1440023984"
+    ]
+  },
+  "dashboard/crystal-selenite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1180608772",
+    "searchQuery": "selenite crystal white wand gypsum mineral close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/623594970",
+      "https://img1.wsimg.com/isteam/getty/2166159454"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:17.536Z",
+    "lastUpdated": "2026-11-18T04:58:17.536Z",
+    "gettyId": "1180608772",
+    "alternativeGettyIds": [
+      "623594970",
+      "2166159454"
+    ]
+  },
+  "dashboard/crystal-carnelian": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/516492794",
+    "searchQuery": "carnelian crystal orange red gemstone polished",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2287132643",
+      "https://img1.wsimg.com/isteam/getty/2251320062"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:24.272Z",
+    "lastUpdated": "2026-11-18T04:58:24.272Z",
+    "gettyId": "516492794",
+    "alternativeGettyIds": [
+      "2287132643",
+      "2251320062"
+    ]
+  },
+  "dashboard/crystal-lapis-lazuli": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1440023985",
+    "searchQuery": "lapis lazuli blue gemstone crystal close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1476181529",
+      "https://img1.wsimg.com/isteam/getty/516392586"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:32.338Z",
+    "lastUpdated": "2026-11-18T04:58:32.338Z",
+    "gettyId": "1440023985",
+    "alternativeGettyIds": [
+      "1476181529",
+      "516392586"
+    ]
+  },
+  "dashboard/crystal-malachite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1356984498",
+    "searchQuery": "malachite green crystal mineral stone close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/516400928",
+      "https://img1.wsimg.com/isteam/getty/1266777955"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:40.790Z",
+    "lastUpdated": "2026-11-18T04:58:40.790Z",
+    "gettyId": "1356984498",
+    "alternativeGettyIds": [
+      "516400928",
+      "1266777955"
+    ]
+  },
+  "dashboard/crystal-tigers-eye": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1348241665",
+    "searchQuery": "tigers eye crystal golden brown gemstone polished",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/883055046",
+      "https://img1.wsimg.com/isteam/getty/525965522"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:48.078Z",
+    "lastUpdated": "2026-11-18T04:58:48.078Z",
+    "gettyId": "1348241665",
+    "alternativeGettyIds": [
+      "883055046",
+      "525965522"
+    ]
+  },
+  "dashboard/crystal-lepidolite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2287132666",
+    "searchQuery": "lepidolite purple lavender mica crystal mineral",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/862370944",
+      "https://img1.wsimg.com/isteam/getty/879172752"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:58:55.538Z",
+    "lastUpdated": "2026-11-18T04:58:55.538Z",
+    "gettyId": "2287132666",
+    "alternativeGettyIds": [
+      "862370944",
+      "879172752"
+    ]
+  },
+  "dashboard/crystal-pyrite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2299048034",
+    "searchQuery": "pyrite fools gold crystal metallic mineral close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2243810348",
+      "https://img1.wsimg.com/isteam/getty/2251320054"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:02.508Z",
+    "lastUpdated": "2026-11-18T04:59:02.508Z",
+    "gettyId": "2299048034",
+    "alternativeGettyIds": [
+      "2243810348",
+      "2251320054"
+    ]
+  },
+  "dashboard/crystal-rhodonite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/941048036",
+    "searchQuery": "rhodonite pink black crystal mineral gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/879172752",
+      "https://img1.wsimg.com/isteam/getty/2090787439"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:10.615Z",
+    "lastUpdated": "2026-11-18T04:59:10.615Z",
+    "gettyId": "941048036",
+    "alternativeGettyIds": [
+      "879172752",
+      "2090787439"
+    ]
+  },
+  "dashboard/crystal-sodalite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1437194292",
+    "searchQuery": "sodalite blue white crystal mineral gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2251320274",
+      "https://img1.wsimg.com/isteam/getty/2287132619"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:19.070Z",
+    "lastUpdated": "2026-11-18T04:59:19.070Z",
+    "gettyId": "1437194292",
+    "alternativeGettyIds": [
+      "2251320274",
+      "2287132619"
+    ]
+  },
+  "dashboard/crystal-green-aventurine": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1448389236",
+    "searchQuery": "green aventurine crystal tumbled stone gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/516493526",
+      "https://img1.wsimg.com/isteam/getty/2165826120"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:27.914Z",
+    "lastUpdated": "2026-11-18T04:59:27.914Z",
+    "gettyId": "1448389236",
+    "alternativeGettyIds": [
+      "516493526",
+      "2165826120"
+    ]
+  },
+  "dashboard/crystal-aquamarine": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229983110",
+    "searchQuery": "aquamarine blue crystal gemstone mineral close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1318630862",
+      "https://img1.wsimg.com/isteam/getty/1440020626"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:34.910Z",
+    "lastUpdated": "2026-11-18T04:59:34.910Z",
+    "gettyId": "2229983110",
+    "alternativeGettyIds": [
+      "1318630862",
+      "1440020626"
+    ]
+  },
+  "dashboard/crystal-fluorite": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2135005484",
+    "searchQuery": "fluorite purple green crystal mineral gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1085716168",
+      "https://img1.wsimg.com/isteam/getty/2287132666"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:41.272Z",
+    "lastUpdated": "2026-11-18T04:59:41.272Z",
+    "gettyId": "2135005484",
+    "alternativeGettyIds": [
+      "1085716168",
+      "2287132666"
+    ]
+  },
+  "dashboard/crystal-sunstone": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2290142597",
+    "searchQuery": "sunstone orange sparkle crystal gemstone mineral",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/460495021",
+      "https://img1.wsimg.com/isteam/getty/460495047"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:49.615Z",
+    "lastUpdated": "2026-11-18T04:59:49.615Z",
+    "gettyId": "2290142597",
+    "alternativeGettyIds": [
+      "460495021",
+      "460495047"
+    ]
+  },
+  "dashboard/crystal-bloodstone": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2299048025",
+    "searchQuery": "bloodstone dark green red spots crystal mineral",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2229983110",
+      "https://img1.wsimg.com/isteam/getty/2152223192"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T04:59:56.599Z",
+    "lastUpdated": "2026-11-18T04:59:56.599Z",
+    "gettyId": "2299048025",
+    "alternativeGettyIds": [
+      "2229983110",
+      "2152223192"
+    ]
+  },
+  "dashboard/crystal-smoky-quartz": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1300622689",
+    "searchQuery": "smoky quartz brown grey crystal point gemstone",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1348241688",
+      "https://img1.wsimg.com/isteam/getty/1269117720"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T05:00:03.383Z",
+    "lastUpdated": "2026-11-18T05:00:03.383Z",
+    "gettyId": "1300622689",
+    "alternativeGettyIds": [
+      "1348241688",
+      "1269117720"
+    ]
+  },
+  "dashboard/crystal-blue-lace-agate": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1052204462",
+    "searchQuery": "blue lace agate crystal pale blue banded mineral",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1307597162",
+      "https://img1.wsimg.com/isteam/getty/1437194292"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T05:00:11.577Z",
+    "lastUpdated": "2026-11-18T05:00:11.577Z",
+    "gettyId": "1052204462",
+    "alternativeGettyIds": [
+      "1307597162",
+      "1437194292"
+    ]
+  },
+  "dashboard/crystal-garnet": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1846068907",
+    "searchQuery": "garnet deep red crystal gemstone mineral close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1827537361",
+      "https://img1.wsimg.com/isteam/getty/657618842"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-18T05:00:19.367Z",
+    "lastUpdated": "2026-11-18T05:00:19.367Z",
+    "gettyId": "1846068907",
+    "alternativeGettyIds": [
+      "1827537361",
+      "657618842"
+    ]
+  },
+  "pages/resources/tarot-card-back": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-resources-tarot-card-back-a6b6d055.png",
+    "searchQuery": "mystical pentagram tarot card design",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:32:20.716Z",
+    "lastUpdated": "2026-11-18T06:32:20.716Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-resources-tarot-card-back-a6b6d055.png": "9udxg5wm87_1794983532860_file_fyGQWRAA7O.png"
+    },
+    "uploadContentHash": "e5a64654c4f11195e2b50c44849330a336de95983afb4ec6408b752290f0898d",
+    "caption": "mystical pentagram tarot card design"
+  },
+  "tarot/major-arcana/death": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-death-6eae30d9.png",
+    "searchQuery": "death tarot card skeleton reaper horse",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:06.053Z",
+    "lastUpdated": "2026-11-18T06:55:06.053Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-death-6eae30d9.png": "9udxg5wm87_1794984877915_file_wQVdkrePc-.png"
+    },
+    "uploadContentHash": "74bcce682112a0c6e4832be28134c2e84176e5093f577711be9c1d38088d1254",
+    "caption": "death tarot card skeleton reaper horse"
+  },
+  "tarot/major-arcana/the-star": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-star-47b8ae69.png",
+    "searchQuery": "mystical woman gazing at stars night",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:07.039Z",
+    "lastUpdated": "2026-11-18T06:55:07.039Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-star-47b8ae69.png": "9udxg5wm87_1794984877922_file_TvK4ScjqyI.png"
+    },
+    "uploadContentHash": "f27676ac89d699cb5ec055bd3bd6a7dedf3f72621b3ee901926a3207dca64079",
+    "caption": "mystical woman gazing at stars night"
+  },
+  "tarot/major-arcana/the-hanged-man": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hanged-man-21b019e8.png",
+    "searchQuery": "woman hanging upside down tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:08.150Z",
+    "lastUpdated": "2026-11-18T06:55:08.150Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-hanged-man-21b019e8.png": "9udxg5wm87_1794984877926_file_2BhZCOREc8.png"
+    },
+    "uploadContentHash": "2c6bfa1783714e26b1f763cb9ac4364d3b98d311353595c09f1f6a4ab907da98",
+    "caption": "woman hanging upside down tarot card"
+  },
+  "tarot/major-arcana/the-tower": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-tower-886343e5.png",
+    "searchQuery": "figure falling from crumbling tower",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:09.157Z",
+    "lastUpdated": "2026-11-18T06:55:09.157Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-tower-886343e5.png": "9udxg5wm87_1794984877919_file_QKAxM9WtcS.png"
+    },
+    "uploadContentHash": "d3c5bc0e0e5e27be04143c5f20a050fc9b1a8040efbb466eadba91841f689c37",
+    "caption": "figure falling from crumbling tower"
+  },
+  "tarot/major-arcana/temperance": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-temperance-f768cb2f.png",
+    "searchQuery": "winged fairy pouring water tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:09.956Z",
+    "lastUpdated": "2026-11-18T06:55:09.956Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-temperance-f768cb2f.png": "9udxg5wm87_1794984877929_file_M-mqizibRY.png"
+    },
+    "uploadContentHash": "166a8abc596bec0af45fcef275c3d3b455668cb6dce67ffd613af1c8d5ec6b2e",
+    "caption": "winged fairy pouring water tarot card"
+  },
+  "tarot/major-arcana/the-devil": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-devil-3a0dee1f.png",
+    "searchQuery": "demonic figure tarot card illustration dark",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:10.880Z",
+    "lastUpdated": "2026-11-18T06:55:10.880Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-devil-3a0dee1f.png": "9udxg5wm87_1794984880041_file_y5hNwdXwhx.png"
+    },
+    "uploadContentHash": "8e6467e5182308c74b55dceeea57fdb719d66b1a7b29b81ee7e764a222c11453",
+    "caption": "demonic figure tarot card illustration dark"
+  },
+  "tarot/major-arcana/the-sun": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-sun-23b0f4c3.png",
+    "searchQuery": "woman riding white horse under eclipse",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:11.837Z",
+    "lastUpdated": "2026-11-18T06:55:11.837Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-sun-23b0f4c3.png": "9udxg5wm87_1794984880054_file_jidIHfxOoR.png"
+    },
+    "uploadContentHash": "4e025724ca3e806339ede5045b83b785ad5c641726268b83e0f8b8fa09b32e2a",
+    "caption": "woman riding white horse under eclipse"
+  },
+  "tarot/major-arcana/the-moon": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-moon-935f7008.png",
+    "searchQuery": "witch walking forest path moonlit night",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:12.918Z",
+    "lastUpdated": "2026-11-18T06:55:12.918Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-moon-935f7008.png": "9udxg5wm87_1794984880047_file_XHVAScqDEG.png"
+    },
+    "uploadContentHash": "ad8310d53703627a99d24028f5911bcc87e91eaec8ef5fae796f15efb8d33b8b",
+    "caption": "witch walking forest path moonlit night"
+  },
+  "tarot/major-arcana/judgement": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-judgement-67637598.png",
+    "searchQuery": "tarot card judgement resurrection cemetery winged figure",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T06:55:13.886Z",
+    "lastUpdated": "2026-11-18T06:55:13.886Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-judgement-67637598.png": "9udxg5wm87_1794984880051_file_w-cPbLyrfk.png"
+    },
+    "uploadContentHash": "7ab1f28e4a1fda7ffead8eb5dac6fb6e4f7596bd4b8f2b93f63eaccde0e6493b",
+    "caption": "tarot card judgement resurrection cemetery winged figure"
+  },
+  "tarot/major-arcana/wheel-of-fortune": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-wheel-of-fortune-f43882db.png",
+    "searchQuery": "wheel of fortune tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:00:31.518Z",
+    "lastUpdated": "2026-11-18T07:37:25.009Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-wheel-of-fortune-f43882db.png": "9udxg5wm87_1794985203246_file_8mTagb7lic.png"
+    },
+    "uploadContentHash": "d9c3ba8060585c9d021c905d6a24f799b9ce41448f98c952fed33650fb32e21e",
+    "caption": "wheel of fortune tarot card illustration"
+  },
+  "tarot/major-arcana/the-magician": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-magician-f28e8c67.png",
+    "searchQuery": "witch performing dark ritual tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:00:32.468Z",
+    "lastUpdated": "2026-11-18T07:00:32.468Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-magician-f28e8c67.png": "9udxg5wm87_1794985203260_file_fYvZrDJ9gZ.png"
+    },
+    "uploadContentHash": "5aa32f82245a45549c3e5c54919e27ec0396bca1c619fad8bf6871161f241b04",
+    "caption": "witch performing dark ritual tarot card"
+  },
+  "tarot/major-arcana/justice": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-justice-e8fb2c10.png",
+    "searchQuery": "justice tarot card blindfolded woman sword",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:00:33.440Z",
+    "lastUpdated": "2026-11-18T07:38:19.220Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-justice-e8fb2c10.png": "9udxg5wm87_1794985205755_file_qoH7bNJml0.png"
+    },
+    "uploadContentHash": "2737737bd777eb104654fc179b7c858947ca06bfeeefcd50789f37d03d3afa68",
+    "caption": "justice tarot card blindfolded woman sword"
+  },
+  "tarot/cups/ace-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-ace-of-cups-a995c86a.png",
+    "searchQuery": "mystical hands pouring water into cup",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:24.128Z",
+    "lastUpdated": "2026-11-18T07:19:24.128Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-ace-of-cups-a995c86a.png": "9udxg5wm87_1794986336517_file_IHE9Va4XMf.png"
+    },
+    "uploadContentHash": "4ad447ecc5aea3466470a73d897260bb05ffce8dbdd4c6db0659690f85101b94",
+    "caption": "mystical hands pouring water into cup"
+  },
+  "tarot/cups/page-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-page-of-cups-2189f6ad.png",
+    "searchQuery": "witch holding glowing fish tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:25.409Z",
+    "lastUpdated": "2026-11-18T07:19:25.409Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-page-of-cups-2189f6ad.png": "9udxg5wm87_1794986336523_file_hkoiy-FEyr.png"
+    },
+    "uploadContentHash": "40c158caf92fab0c4ebe2c1b845d79633fc602261dcb4f81e54265bb26df4e7e",
+    "caption": "witch holding glowing fish tarot card"
+  },
+  "tarot/cups/queen-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-queen-of-cups-63526faf.png",
+    "searchQuery": "witch holding glowing orb beach throne",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:26.269Z",
+    "lastUpdated": "2026-11-18T07:19:26.269Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-queen-of-cups-63526faf.png": "9udxg5wm87_1794986336520_file_PkBamhQoWr.png"
+    },
+    "uploadContentHash": "ac121533e721084675eb725a307abec3779ff679008261444186b4e220544892",
+    "caption": "witch holding glowing orb beach throne"
+  },
+  "tarot/cups/seven-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-seven-of-cups-64396678.png",
+    "searchQuery": "witch summoning mystical cups tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:27.143Z",
+    "lastUpdated": "2026-11-18T07:19:27.143Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-seven-of-cups-64396678.png": "9udxg5wm87_1794986336510_file_Dt4BerweVX.png"
+    },
+    "uploadContentHash": "a0c16e2ce8acc3fda5e9e40f0300637314c1251766b450333aa849d2e64d4ca5",
+    "caption": "witch summoning mystical cups tarot card"
+  },
+  "tarot/pentacles/five-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-five-of-pentacles-48d24015.png",
+    "searchQuery": "cloaked figures approaching illuminated gothic window",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:27.962Z",
+    "lastUpdated": "2026-11-18T07:19:27.962Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-five-of-pentacles-48d24015.png": "9udxg5wm87_1794986338200_file_mJqNutS1Bi.png"
+    },
+    "uploadContentHash": "07d24439353dbd1e2a58facc89035d6f010bc631bf4175641d861fd9c313622e",
+    "caption": "cloaked figures approaching illuminated gothic window"
+  },
+  "tarot/cups/ten-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-ten-of-cups-2de17d09.png",
+    "searchQuery": "three witches tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:28.809Z",
+    "lastUpdated": "2026-11-18T07:19:28.809Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-ten-of-cups-2de17d09.png": "9udxg5wm87_1794986338190_file_LxcVar2OPX.png"
+    },
+    "uploadContentHash": "65802a96240800813997f5a60fb7cb259b87680f3b1f208721a9240be7835ef6",
+    "caption": "three witches tarot card illustration"
+  },
+  "tarot/cups/king-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-king-of-cups-e6382c17.png",
+    "searchQuery": "bearded wizard king seated water tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:29.629Z",
+    "lastUpdated": "2026-11-18T07:19:29.629Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-king-of-cups-e6382c17.png": "9udxg5wm87_1794986338193_file_x-mksW89cC.png"
+    },
+    "uploadContentHash": "f9512b3ff54eb088dbe074d04edc109e08a9f464425faac92adaa36e4ae2f2db",
+    "caption": "bearded wizard king seated water tarot card"
+  },
+  "tarot/cups/knight-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-knight-of-cups-506644e7.png",
+    "searchQuery": "hooded knight on white horse moonlit river",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:30.430Z",
+    "lastUpdated": "2026-11-18T07:19:30.430Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-knight-of-cups-506644e7.png": "9udxg5wm87_1794986336526_file_gxKye9TcdJ.png"
+    },
+    "uploadContentHash": "338d76bd6fbface86319de1124abc134ed58f3b6945b2a32af290af507798360",
+    "caption": "hooded knight on white horse moonlit river"
+  },
+  "tarot/pentacles/four-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-four-of-pentacles-4075be22.png",
+    "searchQuery": "gothic witch tarot card pentacles",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:19:31.305Z",
+    "lastUpdated": "2026-11-18T07:19:31.305Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-four-of-pentacles-4075be22.png": "9udxg5wm87_1794986338197_file_bmcZKPo7Ro.png"
+    },
+    "uploadContentHash": "4cb38e00c3853a6ab781a9f6d7f9ddf316c0431722bb7df1206dc456a06a7bd2",
+    "caption": "gothic witch tarot card pentacles"
+  },
+  "tarot/pentacles/six-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-six-of-pentacles-1fcc1ecb.png",
+    "searchQuery": "witch holding scales distributing coins",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:22:26.715Z",
+    "lastUpdated": "2026-11-18T07:22:26.715Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-six-of-pentacles-1fcc1ecb.png": "9udxg5wm87_1794986525419_file_bw4Lma8C0h.png"
+    },
+    "uploadContentHash": "622d961c2caf58bfad7f2879e2da4b399cabbd05cfdd38a1eb5505fa0c20eb4e",
+    "caption": "witch holding scales distributing coins"
+  },
+  "tarot/pentacles/seven-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-seven-of-pentacles-f7f93806.png",
+    "searchQuery": "witch holding staff pentacle tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:22:35.711Z",
+    "lastUpdated": "2026-11-18T07:22:35.711Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-seven-of-pentacles-f7f93806.png": "9udxg5wm87_1794986525424_file_SQx9r861sv.png"
+    },
+    "uploadContentHash": "0c0713ce6d1698303651727a6cd3881f860573f39094c20c5d77b870cc4b83dc",
+    "caption": "witch holding staff pentacle tarot card"
+  },
+  "tarot/pentacles/knight-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-knight-of-pentacles-91b5eec3.png",
+    "searchQuery": "woman on horse holding pentacle symbol",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:22:44.331Z",
+    "lastUpdated": "2026-11-18T07:22:44.331Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-knight-of-pentacles-91b5eec3.png": "9udxg5wm87_1794986525427_file_PKBRADgVMH.png"
+    },
+    "uploadContentHash": "d862d5c2df45048387abb043104ce4b55954fa2513d0a56ef323002621e09749",
+    "caption": "woman on horse holding pentacle symbol"
+  },
+  "tarot/pentacles/nine-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-nine-of-pentacles-7af937c6.png",
+    "searchQuery": "witch tarot card nine pentacles",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:22:52.791Z",
+    "lastUpdated": "2026-11-18T07:22:52.791Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-nine-of-pentacles-7af937c6.png": "9udxg5wm87_1794986525430_file_ZJZb_F6-9a.png"
+    },
+    "uploadContentHash": "a2245efc2a74a4d8b4acc34d53413de1c2b35442e434b5d5df99db9bd6f89999",
+    "caption": "witch tarot card nine pentacles"
+  },
+  "tarot/pentacles/ten-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-ten-of-pentacles-7c092b9e.png",
+    "searchQuery": "tarot card ten of pentacles mystical",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:02.804Z",
+    "lastUpdated": "2026-11-18T07:23:02.804Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-ten-of-pentacles-7c092b9e.png": "9udxg5wm87_1794986525433_file_rfY4xyR5uw.png"
+    },
+    "uploadContentHash": "5f0b64eb81e615016c7df3acb68850abb39dae0a8dfae5dba009590f910a56b1",
+    "caption": "tarot card ten of pentacles mystical"
+  },
+  "tarot/pentacles/queen-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-queen-of-pentacles-49231b8c.png",
+    "searchQuery": "queen of pentacles tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:12.080Z",
+    "lastUpdated": "2026-11-18T07:23:12.080Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-queen-of-pentacles-49231b8c.png": "9udxg5wm87_1794986527063_file_au6PbpzRck.png"
+    },
+    "uploadContentHash": "b581aea96729eddfe885ad7508876a38c4e9805d1d06f896be9d9a163443873c",
+    "caption": "queen of pentacles tarot card illustration"
+  },
+  "tarot/pentacles/eight-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-eight-of-pentacles-7ae60c22.png",
+    "searchQuery": "witch drawing pentagram tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:23.013Z",
+    "lastUpdated": "2026-11-18T07:23:23.013Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-eight-of-pentacles-7ae60c22.png": "9udxg5wm87_1794986527069_file_yM4fK_EWza.png"
+    },
+    "uploadContentHash": "f73ae8a71529536f8b0d722f40653596eb7c94ce2b1eb5a21f2edd84f31dad2b",
+    "caption": "witch drawing pentagram tarot card"
+  },
+  "tarot/pentacles/king-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-king-of-pentacles-8b02cd42.png",
+    "searchQuery": "king of pentacles tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:31.817Z",
+    "lastUpdated": "2026-11-18T07:23:31.817Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-king-of-pentacles-8b02cd42.png": "9udxg5wm87_1794986527071_file_f_R2usr56L.png"
+    },
+    "uploadContentHash": "892e54f6a82dc73a077b0dddfa5c3f5776759b5d9da37cc278933a2e14747e11",
+    "caption": "king of pentacles tarot card illustration"
+  },
+  "tarot/pentacles/ace-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-ace-of-pentacles-69618db2.png",
+    "searchQuery": "witch holding glowing pentacle tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:42.129Z",
+    "lastUpdated": "2026-11-18T07:23:42.129Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-ace-of-pentacles-69618db2.png": "9udxg5wm87_1794986527073_file_GLLK2cg3jJ.png"
+    },
+    "uploadContentHash": "e1ebcc025452e2d7cb8952457a76b04b161b87f2631798fb0e076ed7cf56e53b",
+    "caption": "witch holding glowing pentacle tarot card"
+  },
+  "tarot/pentacles/page-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-page-of-pentacles-52376abf.png",
+    "searchQuery": "mystical figure holding pentacle tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:23:50.745Z",
+    "lastUpdated": "2026-11-18T07:23:50.745Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-page-of-pentacles-52376abf.png": "9udxg5wm87_1794986527076_file_QaS3T31wi6.png"
+    },
+    "uploadContentHash": "a4649b4d09596d49ba7ab836fa9a04cc3f65e17130ee655836ee9f383f7c7f54",
+    "caption": "mystical figure holding pentacle tarot card"
+  },
+  "tarot/wands/ten-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-ten-of-wands-1e13a88e.png",
+    "searchQuery": "figure carrying wands walking moonlit path",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:26:46.675Z",
+    "lastUpdated": "2026-11-18T07:26:46.675Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-ten-of-wands-1e13a88e.png": "9udxg5wm87_1794986783515_file_qyWS5gUjdb.png"
+    },
+    "uploadContentHash": "63170667a5ebd011d547ab9310e381b288e0aeae3445fe3b290c7d7abc36bdd7",
+    "caption": "figure carrying wands walking moonlit path"
+  },
+  "tarot/wands/four-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-four-of-wands-6c1f20ce.png",
+    "searchQuery": "witches holding hands by campfire tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:26:56.367Z",
+    "lastUpdated": "2026-11-18T07:26:56.367Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-four-of-wands-6c1f20ce.png": "9udxg5wm87_1794986783519_file_kOvJgbxwyE.png"
+    },
+    "uploadContentHash": "6e91bb6836c3ca2f0aeae2e5628520c9cd2925f7dac87d83d4d3ee7edb8aec68",
+    "caption": "witches holding hands by campfire tarot"
+  },
+  "tarot/wands/three-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-three-of-wands-ec595181.png",
+    "searchQuery": "hooded figure watching spiky creatures ocean",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:08.132Z",
+    "lastUpdated": "2026-11-18T07:27:08.132Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-three-of-wands-ec595181.png": "9udxg5wm87_1794986783522_file_Iv5kKCxkTz.png"
+    },
+    "uploadContentHash": "5edd90ca78e703a36de69d3615dbc079f01aa46d49b662e332b95cfbae2a28cc",
+    "caption": "hooded figure watching spiky creatures ocean"
+  },
+  "tarot/wands/queen-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-queen-of-wands-3b91ee26.png",
+    "searchQuery": "gothic queen tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:18.034Z",
+    "lastUpdated": "2026-11-18T07:27:18.034Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-queen-of-wands-3b91ee26.png": "9udxg5wm87_1794986783524_file_D1phZK-9EQ.png"
+    },
+    "uploadContentHash": "2dd7037ff27f8607b6cee90f43f5f353f5fc5d1ff71aae29e244bd7ce718697d",
+    "caption": "gothic queen tarot card illustration"
+  },
+  "tarot/wands/nine-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-nine-of-wands-4a91b7d0.png",
+    "searchQuery": "tarot card nine of wands illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:27.447Z",
+    "lastUpdated": "2026-11-18T07:27:27.447Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-nine-of-wands-4a91b7d0.png": "9udxg5wm87_1794986783526_file_uvqVTJxW_v.png"
+    },
+    "uploadContentHash": "8fdd4e02bff3c79aa634ace359505241cd1a3627ae8724d67f181aa9e527be53",
+    "caption": "tarot card nine of wands illustration"
+  },
+  "tarot/wands/two-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-two-of-wands-8cb2d53f.png",
+    "searchQuery": "wizard casting spell from cliff tower",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:35.746Z",
+    "lastUpdated": "2026-11-18T07:27:35.746Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-two-of-wands-8cb2d53f.png": "9udxg5wm87_1794986785373_file_wkccHI8rCM.png"
+    },
+    "uploadContentHash": "880832641d3697e31a8d27787f1cdc73aa1b1798fa96e14ff379297cc788c7cd",
+    "caption": "wizard casting spell from cliff tower"
+  },
+  "tarot/wands/six-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-six-of-wands-3dd412ff.png",
+    "searchQuery": "crowned figure on horse leading procession tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:44.674Z",
+    "lastUpdated": "2026-11-18T07:27:44.674Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-six-of-wands-3dd412ff.png": "9udxg5wm87_1794986785378_file_ufaA8IVLm5.png"
+    },
+    "uploadContentHash": "d2c69188eb8a04af49c3802bb5e90446a1441456e880de7baff73f6d9d48877f",
+    "caption": "crowned figure on horse leading procession tarot"
+  },
+  "tarot/wands/eight-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-eight-of-wands-0c814171.png",
+    "searchQuery": "tarot card eight of wands illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:27:54.409Z",
+    "lastUpdated": "2026-11-18T07:27:54.409Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-eight-of-wands-0c814171.png": "9udxg5wm87_1794986785381_file_z7Sgi-NR5I.png"
+    },
+    "uploadContentHash": "f9df72a079c153ef434e91a6dd3cdf434a5f5eff78a97c42cf89974052f82dfa",
+    "caption": "tarot card eight of wands illustration"
+  },
+  "tarot/wands/ace-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-ace-of-wands-130ff1ef.png",
+    "searchQuery": "ace of wands tarot card gothic",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:28:03.936Z",
+    "lastUpdated": "2026-11-18T07:28:03.936Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-ace-of-wands-130ff1ef.png": "9udxg5wm87_1794986785384_file_QtrkzdLNdV.png"
+    },
+    "uploadContentHash": "1574f2ae726a62c2fd49697ecf35c062719e6094a368b837a20bbfce0d52ec81",
+    "caption": "ace of wands tarot card gothic"
+  },
+  "tarot/wands/knight-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-knight-of-wands-c95e3158.png",
+    "searchQuery": "knight on horseback wielding magical wand",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:29:50.615Z",
+    "lastUpdated": "2026-11-18T07:29:50.615Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-knight-of-wands-c95e3158.png": "9udxg5wm87_1794986977032_file_qiza8gheMl.png"
+    },
+    "uploadContentHash": "71268d5eaa45f736f96f8bb25a19cf2746191cf05236335dfaf133a5dc390b7f",
+    "caption": "knight on horseback wielding magical wand"
+  },
+  "tarot/wands/page-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-page-of-wands-1ce8405c.png",
+    "searchQuery": "elf holding glowing wand in forest",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:29:51.858Z",
+    "lastUpdated": "2026-11-18T07:29:51.858Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-page-of-wands-1ce8405c.png": "9udxg5wm87_1794986977046_file_3L2ySnV81l.png"
+    },
+    "uploadContentHash": "90414d7c9df9119e1c512ab3d0c21ef890042cb68277e070a700c6d0ef9a25f4",
+    "caption": "elf holding glowing wand in forest"
+  },
+  "tarot/wands/seven-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-seven-of-wands-f68458c5.png",
+    "searchQuery": "dark witch holding wand tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:29:53.010Z",
+    "lastUpdated": "2026-11-18T07:29:53.010Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-seven-of-wands-f68458c5.png": "9udxg5wm87_1794986977039_file_90fXAlgoDu.png"
+    },
+    "uploadContentHash": "52860eb041eadc63c4b931c0a50a5440752a51c26da2073e590a6df9d1174890",
+    "caption": "dark witch holding wand tarot card"
+  },
+  "tarot/wands/five-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-five-of-wands-65127c6c.png",
+    "searchQuery": "witches performing ritual in dark forest",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:29:54.027Z",
+    "lastUpdated": "2026-11-18T07:29:54.027Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-five-of-wands-65127c6c.png": "9udxg5wm87_1794986977043_file_TuhkiWfzl3.png"
+    },
+    "uploadContentHash": "7f7fc0eeaff8684c478ccdb8b36ff07f5f8794f0ae17774924f1232a03a475cf",
+    "caption": "witches performing ritual in dark forest"
+  },
+  "tarot/wands/king-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-king-of-wands-5f92619b.png",
+    "searchQuery": "bearded wizard holding staff magical flames",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:31:19.582Z",
+    "lastUpdated": "2026-11-18T07:31:19.582Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-wands-king-of-wands-5f92619b.png": "9udxg5wm87_1794987070187_file_5cPU9Ezmzb.png"
+    },
+    "uploadContentHash": "a873042d1d489eca351b6c6d077a7bcfa1a4f47277e0f300b3eb8795a3189eaf",
+    "caption": "bearded wizard holding staff magical flames"
+  },
+  "tarot/cups/nine-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-nine-of-cups-20920be7.png",
+    "searchQuery": "witch sitting at table with cups",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:32:48.292Z",
+    "lastUpdated": "2026-11-18T07:32:48.292Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-nine-of-cups-20920be7.png": "9udxg5wm87_1794985640923_file_omp4SbZPyd.png"
+    },
+    "uploadContentHash": "4cad770eedf44bfac260ac6b3890585481845233109025108728faac70335314",
+    "caption": "witch sitting at table with cups"
+  },
+  "tarot/cups/five-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-five-of-cups-ec4e0751.png",
+    "searchQuery": "hooded figure tarot card gothic castle",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:34:21.147Z",
+    "lastUpdated": "2026-11-18T07:34:21.147Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-five-of-cups-ec4e0751.png": "9udxg5wm87_1794985640919_file_pr36437KoA.png"
+    },
+    "uploadContentHash": "c2552d4a6234241702b6114c05ef5821fa7657ebb8a4af7cf00285b867e1e813",
+    "caption": "hooded figure tarot card gothic castle"
+  },
+  "tarot/cups/eight-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-eight-of-cups-f5a6e901.png",
+    "searchQuery": "wizard standing moonlit wetland eight cups",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:34:25.210Z",
+    "lastUpdated": "2026-11-18T07:34:25.210Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-eight-of-cups-f5a6e901.png": "9udxg5wm87_1794985640927_file_Ig1QOZg_29.png"
+    },
+    "uploadContentHash": "3287d8f41744e68c8f19aa0d4906619f57056d9fdbbf8caec654aa154925a67a",
+    "caption": "wizard standing moonlit wetland eight cups"
+  },
+  "tarot/cups/two-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-two-of-cups-c06d33bb.png",
+    "searchQuery": "witches holding cups tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:34:28.609Z",
+    "lastUpdated": "2026-11-18T07:34:28.609Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-two-of-cups-c06d33bb.png": "9udxg5wm87_1794985640933_file_uLPOIu1q2w.png"
+    },
+    "uploadContentHash": "5d06f96f2723222d090748d30d7d3ec238051581d83b6bd765de6400f3ef1668",
+    "caption": "witches holding cups tarot card"
+  },
+  "tarot/cups/six-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-six-of-cups-1cf4358c.png",
+    "searchQuery": "witch and ghost exchanging flowers tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:34:32.052Z",
+    "lastUpdated": "2026-11-18T07:34:32.052Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-six-of-cups-1cf4358c.png": "9udxg5wm87_1794985640937_file_EyCjg2mz3t.png"
+    },
+    "uploadContentHash": "56efb85b7a67805b4103881a14ee8f4635d5d0934305de29e0664f4713e45edd",
+    "caption": "witch and ghost exchanging flowers tarot card"
+  },
+  "tarot/major-arcana/the-empress": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-empress-7468e3bb.png",
+    "searchQuery": "woman with roots holding fruit tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:36:57.459Z",
+    "lastUpdated": "2026-11-21T03:50:12.495Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-empress-7468e3bb.png": "9udxg5wm87_1795233000490_file_sRap9t3h8I.png"
+    },
+    "uploadContentHash": "31697da1f4da3c426450101ff902b73422877f795d99919059caef5fe98f127d",
+    "caption": "woman with roots holding fruit tarot card"
+  },
+  "tarot/major-arcana/the-emperor": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-emperor-86a4fa27.png",
+    "searchQuery": "dark wizard emperor tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:37:11.588Z",
+    "lastUpdated": "2026-11-21T03:50:11.978Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-emperor-86a4fa27.png": "9udxg5wm87_1795233000493_file_JIVaJ3MWof.png"
+    },
+    "uploadContentHash": "5f954ca4484d4fc00266a4c4fdaf11a0931eb6a1e53abda82da166ac39867070",
+    "caption": "dark wizard emperor tarot card illustration"
+  },
+  "tarot/major-arcana/strength": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-strength-d91a2716.png",
+    "searchQuery": "woman with wolf tarot strength card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:37:38.383Z",
+    "lastUpdated": "2026-11-18T07:37:38.383Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-strength-d91a2716.png": "9udxg5wm87_1794987395391_file_U52Ohmro2m.png"
+    },
+    "uploadContentHash": "e8f8f6f95c648d6f811984afc85818ebe291f941acbb02380767ade3830b2fd8",
+    "caption": "woman with wolf tarot strength card"
+  },
+  "tarot/major-arcana/the-lovers": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-lovers-658c7e0b.png",
+    "searchQuery": "two women holding hands moonlit forest tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:37:53.089Z",
+    "lastUpdated": "2026-11-18T07:37:53.089Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-lovers-658c7e0b.png": "9udxg5wm87_1794987395399_file_4EStZLsToA.png"
+    },
+    "uploadContentHash": "841ab6c84e34dd4a2f968d375014127d68afff07a49db16e02e6e668d436264f",
+    "caption": "two women holding hands moonlit forest tarot"
+  },
+  "tarot/major-arcana/the-hierophant": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hierophant-9980cb2c.png",
+    "searchQuery": "hooded figure altar tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:38:05.442Z",
+    "lastUpdated": "2026-11-18T07:38:05.442Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-hierophant-9980cb2c.png": "9udxg5wm87_1794987398348_file_SQvamy-Mmi.png"
+    },
+    "uploadContentHash": "d6a841dbe99c5edf6d1cdd248e2ce392e49a9db693d32770c1c1754a3865b08f",
+    "caption": "hooded figure altar tarot card illustration"
+  },
+  "tarot/major-arcana/the-chariot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-chariot-93a82a0a.png",
+    "searchQuery": "dark witch riding mystical chariot with wolves",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:38:33.082Z",
+    "lastUpdated": "2026-11-18T07:38:33.082Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-chariot-93a82a0a.png": "9udxg5wm87_1794987398357_file_rIlyIM-l2l.png"
+    },
+    "uploadContentHash": "46dcf85244efae6be88160c3c2d3472adf9737d156e467997b8e6fda5aeb0a97",
+    "caption": "dark witch riding mystical chariot with wolves"
+  },
+  "tarot/major-arcana/the-hermit": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hermit-a58342fd.png",
+    "searchQuery": "hooded figure holding lantern in rain",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:38:46.833Z",
+    "lastUpdated": "2026-11-18T07:38:46.833Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-hermit-a58342fd.png": "9udxg5wm87_1794987398361_file_1GUq_AVmo3.png"
+    },
+    "uploadContentHash": "f29d90f87682ee16d1ea51eda853952aac80e21431417e890c6870c705be4cca",
+    "caption": "hooded figure holding lantern in rain"
+  },
+  "tarot/major-arcana/the-fool": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-fool-228d5a3a.png",
+    "searchQuery": "witch tarot card the fool arcana",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:41:52.968Z",
+    "lastUpdated": "2026-11-18T07:41:52.968Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-fool-228d5a3a.png": "9udxg5wm87_1794987699858_file_XBnw1AltDC.png"
+    },
+    "uploadContentHash": "8edeb0b42859644dca9463f3552b04da0af0dfb94f2d9a7db1c65ba52f5665b3",
+    "caption": "witch tarot card the fool arcana"
+  },
+  "tarot/cups/four-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-four-of-cups-e294c2eb.png",
+    "searchQuery": "witch sitting with four cups tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:42:00.899Z",
+    "lastUpdated": "2026-11-18T07:42:00.899Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-four-of-cups-e294c2eb.png": "9udxg5wm87_1794987699866_file_0RH-n2QeJ8.png"
+    },
+    "uploadContentHash": "95ccf80de9f704a19ebd30124544219a9abe8bbcb30c046a016bbb7abdbc508e",
+    "caption": "witch sitting with four cups tarot"
+  },
+  "tarot/cups/three-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-three-of-cups-9238c6a4.png",
+    "searchQuery": "three witches holding cups moonlit cottage",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:42:07.625Z",
+    "lastUpdated": "2026-11-18T07:42:07.625Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-cups-three-of-cups-9238c6a4.png": "9udxg5wm87_1794987699869_file_q29lc3GXQO.png"
+    },
+    "uploadContentHash": "5e30b7ab25b1011ae3cd752feb13240574711be337a514daca562468f7ad7dea",
+    "caption": "three witches holding cups moonlit cottage"
+  },
+  "tarot/pentacles/two-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-two-of-pentacles-21aaf711.png",
+    "searchQuery": "witch conjuring pentacles over ocean",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:42:15.295Z",
+    "lastUpdated": "2026-11-18T07:42:15.295Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-two-of-pentacles-21aaf711.png": "9udxg5wm87_1794987699873_file_lOaZ0dBYSs.png"
+    },
+    "uploadContentHash": "bd253a19d514a313f5cf8df575e38d88384089fb1ffa4efa3065a1d26956d4a4",
+    "caption": "witch conjuring pentacles over ocean"
+  },
+  "tarot/pentacles/three-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-three-of-pentacles-9e61a40f.png",
+    "searchQuery": "witches studying pentacle scroll gothic tower",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:42:22.132Z",
+    "lastUpdated": "2026-11-18T07:42:22.132Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-pentacles-three-of-pentacles-9e61a40f.png": "9udxg5wm87_1794987699877_file_qN_k31Rjn7.png"
+    },
+    "uploadContentHash": "3fbcbc24e009eba63219c7d194389ef25d1c6b544cf4e46a9585b8b2fc07e0d6",
+    "caption": "witches studying pentacle scroll gothic tower"
+  },
+  "tarot/swords/five-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-five-of-swords-53be5e02.png",
+    "searchQuery": "witch holding swords tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:12.973Z",
+    "lastUpdated": "2026-11-18T07:44:12.973Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-five-of-swords-53be5e02.png": "9udxg5wm87_1794985407033_file_ZBLnMxrVxj.png"
+    },
+    "uploadContentHash": "5423c1c5cf6151888ebf65bc1f7105f3adc6e2b1251999fc51dd552cbaf02b2c",
+    "caption": "witch holding swords tarot card illustration"
+  },
+  "tarot/swords/two-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-two-of-swords-33df7383.png",
+    "searchQuery": "witch holding crossed swords moonlit tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:20.669Z",
+    "lastUpdated": "2026-11-18T07:44:20.669Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-two-of-swords-33df7383.png": "9udxg5wm87_1794985407030_file_FG_Q1LHVBK.png"
+    },
+    "uploadContentHash": "882d95bdd30cac163bc6234e39de39e0b4fac2704b3cdcfc9b8422d4ab10009d",
+    "caption": "witch holding crossed swords moonlit tarot card"
+  },
+  "tarot/swords/nine-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-nine-of-swords-39fc6dba.png",
+    "searchQuery": "tarot card nine of swords illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:27.912Z",
+    "lastUpdated": "2026-11-18T07:44:27.912Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-nine-of-swords-39fc6dba.png": "9udxg5wm87_1794985407026_file_fGGOVuFrrx.png"
+    },
+    "uploadContentHash": "8548f4a9c8ba077528148acbd21a09a516f3c5713474a6a4d3288abb51549564",
+    "caption": "tarot card nine of swords illustration"
+  },
+  "tarot/swords/ten-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-ten-of-swords-f523b399.png",
+    "searchQuery": "tarot card ten of swords dark",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:36.857Z",
+    "lastUpdated": "2026-11-18T07:44:36.857Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-ten-of-swords-f523b399.png": "9udxg5wm87_1794985407035_file_52GMMUzhm6.png"
+    },
+    "uploadContentHash": "a8fe5432775e218d7e16c57612cd6e963755f18dd73bb132e2aeeecd333b4c02",
+    "caption": "tarot card ten of swords dark"
+  },
+  "tarot/swords/three-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-three-of-swords-9ff0aada.png",
+    "searchQuery": "figure kneeling beneath heart tree swords",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:45.229Z",
+    "lastUpdated": "2026-11-18T07:44:45.229Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-three-of-swords-9ff0aada.png": "9udxg5wm87_1794985409051_file_ODBXKdFsmP.png"
+    },
+    "uploadContentHash": "4857ac73242fd203687ea75399cc87525d812832cfc08799ca08d42cc6a1c74b",
+    "caption": "figure kneeling beneath heart tree swords"
+  },
+  "tarot/swords/six-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-six-of-swords-b8d14f95.png",
+    "searchQuery": "tarot card six swords boat journey",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:44:54.130Z",
+    "lastUpdated": "2026-11-18T07:44:54.130Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-six-of-swords-b8d14f95.png": "9udxg5wm87_1794985409055_file_LaqmgFaXYp.png"
+    },
+    "uploadContentHash": "4c4db15ffe38e770764c9726090c77da81dd5a1c1b8871cc5ac2b8acf59dfedc",
+    "caption": "tarot card six swords boat journey"
+  },
+  "tarot/swords/ace-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-ace-of-swords-892148e6.png",
+    "searchQuery": "ace of swords tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:02.505Z",
+    "lastUpdated": "2026-11-18T07:45:02.505Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-ace-of-swords-892148e6.png": "9udxg5wm87_1794985409062_file_p_jscfvVkd.png"
+    },
+    "uploadContentHash": "cb1a40c1f335771ff80758a08cc7c4952168c3a971448242a55b4058ea1698e7",
+    "caption": "ace of swords tarot card illustration"
+  },
+  "tarot/swords/four-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-four-of-swords-1ceaed85.png",
+    "searchQuery": "tarot card four swords rest peace",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:09.687Z",
+    "lastUpdated": "2026-11-18T07:45:09.687Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-four-of-swords-1ceaed85.png": "9udxg5wm87_1794985409059_file_jFki8ZIfEJ.png"
+    },
+    "uploadContentHash": "83cab06e53ef8ae0902501c4599eaa68bb1f66131ca1b52f60c61ffb9b0a7e8a",
+    "caption": "tarot card four swords rest peace"
+  },
+  "tarot/swords/king-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-king-of-swords-66dca738.png",
+    "searchQuery": "dark king on throne holding sword tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:17.721Z",
+    "lastUpdated": "2026-11-18T07:45:17.721Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-king-of-swords-66dca738.png": "9udxg5wm87_1794985638824_file_R8HrznZ9JA.png"
+    },
+    "uploadContentHash": "eb0c9b1a869acf3270e85c2b71eaf08ea33bf6cecf40595b76e2493cffbd49e1",
+    "caption": "dark king on throne holding sword tarot"
+  },
+  "tarot/swords/knight-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-knight-of-swords-c29037dd.png",
+    "searchQuery": "knight on horseback wielding sword rain",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:27.298Z",
+    "lastUpdated": "2026-11-18T07:45:27.298Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-knight-of-swords-c29037dd.png": "9udxg5wm87_1794985638831_file_0KWtXsscp2.png"
+    },
+    "uploadContentHash": "264c1e1a6b11e22e6ff273443af972cafea06071b8e9d4f9f0abe039f95f57bf",
+    "caption": "knight on horseback wielding sword rain"
+  },
+  "tarot/swords/queen-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-queen-of-swords-7cf6eca4.png",
+    "searchQuery": "queen of swords tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:35.717Z",
+    "lastUpdated": "2026-11-18T07:45:35.717Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-queen-of-swords-7cf6eca4.png": "9udxg5wm87_1794985638835_file_4Hi9EBklGS.png"
+    },
+    "uploadContentHash": "118dbdb44e18aadc47df301b1d98c513546e55f7550e9c2a61208c0f40d4ed0d",
+    "caption": "queen of swords tarot card illustration"
+  },
+  "tarot/swords/eight-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-eight-of-swords-dc982d7f.png",
+    "searchQuery": "bound figure surrounded by swords tarot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:45:43.533Z",
+    "lastUpdated": "2026-11-18T07:45:43.533Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-eight-of-swords-dc982d7f.png": "9udxg5wm87_1794985638839_file_-UbzDTzuQx.png"
+    },
+    "uploadContentHash": "33c8c3a3d050ec745f0deb76c6bd2e3fb27df602be2fcf9cde45f830d9362ddf",
+    "caption": "bound figure surrounded by swords tarot"
+  },
+  "tarot/major-arcana/the-world": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-world-2be55a2a.png",
+    "searchQuery": "witch surrounded by dark mystical creatures",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:49:24.738Z",
+    "lastUpdated": "2026-11-18T07:49:24.738Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-world-2be55a2a.png": "9udxg5wm87_1794988149225_file_WRPPcsps2N.png"
+    },
+    "uploadContentHash": "5add26d70953c0313fe10b372f72d050ae78de16d380afb24ec01dcbaf12b312",
+    "caption": "witch surrounded by dark mystical creatures"
+  },
+  "tarot/swords/seven-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-seven-of-swords-a3a6e019.png",
+    "searchQuery": "witch carrying seven swords tarot card",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:49:25.750Z",
+    "lastUpdated": "2026-11-18T07:49:25.750Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-seven-of-swords-a3a6e019.png": "9udxg5wm87_1794985638845_file__Ysc00-wo3.png"
+    },
+    "uploadContentHash": "024cdd0c1be5f02e291885cccf77a2d0d3108b865fefb7f63a9fa9b69c78da0e",
+    "caption": "witch carrying seven swords tarot card"
+  },
+  "tarot/swords/page-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-page-of-swords-0ca212f7.png",
+    "searchQuery": "warrior wielding sword with raven companion",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T07:49:26.608Z",
+    "lastUpdated": "2026-11-18T07:49:26.608Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-swords-page-of-swords-0ca212f7.png": "9udxg5wm87_1794985409066_file_FcVN2O4yit.png"
+    },
+    "uploadContentHash": "cb8cb91eb8a02897c09ff0f3a3ce1475ca96292d8ee6e261533658a4f54e3c45",
+    "caption": "warrior wielding sword with raven companion"
+  },
+  "avatars/default-hat-black": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-black-bd922c2e.png",
+    "searchQuery": "witch hat with sparkles icon",
+    "alternatives": [
+      "/airo-assets/uploads/avatars-default-hat-black-544bf737.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:29:37.087Z",
+    "lastUpdated": "2026-11-18T18:41:59.138Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-black-544bf737.png": "9udxg5wm87_1795026548270_file_64b_WFJKtB.png",
+      "/airo-assets/uploads/avatars-default-hat-black-bd922c2e.png": "9udxg5wm87_1795027243052_file_QgPkaeTNEK.png"
+    },
+    "uploadContentHash": "ed71b28ca9086f9b250e65e6183f259941cb941742fca7a37168105b6fe05022",
+    "caption": "witch hat with sparkles icon"
+  },
+  "avatars/default-hat-green": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-green-67bdacc1.png",
+    "searchQuery": "witch hat with sparkles icon",
+    "alternatives": [
+      "/airo-assets/uploads/avatars-default-hat-green-0c5c1991.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:29:38.932Z",
+    "lastUpdated": "2026-11-18T18:41:48.645Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-green-0c5c1991.png": "9udxg5wm87_1795026548275_file_ltd91ZrJcy.png",
+      "/airo-assets/uploads/avatars-default-hat-green-67bdacc1.png": "9udxg5wm87_1795027243048_file_iuQVlyEk3q.png"
+    },
+    "uploadContentHash": "2e7c2646c6f8dc1f5d079a35b17f07db08adbf637bdc636aa02d68aba8a9305a",
+    "caption": "witch hat with sparkles icon"
+  },
+  "avatars/default-hat-rainbow": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-rainbow-db059ee9.png",
+    "searchQuery": "witch hat rainbow pride flag stars",
+    "alternatives": [
+      "/airo-assets/uploads/avatars-default-hat-rainbow-8e6bbc56.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:29:40.845Z",
+    "lastUpdated": "2026-11-18T18:42:36.053Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-rainbow-8e6bbc56.png": "9udxg5wm87_1795026548278_file_iUR_3Wpq_c.png",
+      "/airo-assets/uploads/avatars-default-hat-rainbow-db059ee9.png": "9udxg5wm87_1795027053625_file_vXtH4hvFp-.png"
+    },
+    "uploadContentHash": "1a24d634d6cdc30e8042335209743b0cbf86efd2dc9d25f1773b5d72879bef66",
+    "caption": "witch hat rainbow pride flag stars"
+  },
+  "avatars/default-hat-orange": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-orange-7802ec79.png",
+    "searchQuery": "witch hat with sparkles orange background",
+    "alternatives": [
+      "/airo-assets/uploads/avatars-default-hat-orange-eb3f7025.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:29:42.585Z",
+    "lastUpdated": "2026-11-18T18:41:08.831Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-orange-eb3f7025.png": "9udxg5wm87_1795026548281_file_ZkBrEh1UEV.png",
+      "/airo-assets/uploads/avatars-default-hat-orange-7802ec79.png": "9udxg5wm87_1795027243033_file_opvKW0fxkZ.png"
+    },
+    "uploadContentHash": "84e628c38d7735b459d76e4cad8fb82db0e7d4dee87fa42e44d9621f027771e3",
+    "caption": "witch hat with sparkles orange background"
+  },
+  "avatars/default-hat-red": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-red-0924e950.png",
+    "searchQuery": "witch hat with sparkles red background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:41:23.280Z",
+    "lastUpdated": "2026-11-18T18:41:23.280Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-red-0924e950.png": "9udxg5wm87_1795027243039_file_ypkkIRFwqy.png"
+    },
+    "uploadContentHash": "08ddef45bde7328a6613f4933e31634c4eae7baa49fc45baa49d7b91b4acb0f1",
+    "caption": "witch hat with sparkles red background"
+  },
+  "avatars/default-hat-blue": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-blue-9a4d6757.png",
+    "searchQuery": "witch hat with stars blue background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:41:36.329Z",
+    "lastUpdated": "2026-11-18T18:41:36.329Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-blue-9a4d6757.png": "9udxg5wm87_1795027243043_file_M9RkrCy01Y.png"
+    },
+    "uploadContentHash": "3f729243c0ab9d2806e085dbbe670bc914b433576990ab29fc1e34cd1551c705",
+    "caption": "witch hat with stars blue background"
+  },
+  "avatars/default-hat-purple": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-purple-3e8d2e42.png",
+    "searchQuery": "witch hat with sparkles purple background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:42:11.785Z",
+    "lastUpdated": "2026-11-18T18:42:11.785Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-purple-3e8d2e42.png": "9udxg5wm87_1795027244731_file_piIXpzwb9r.png"
+    },
+    "uploadContentHash": "2598899d594d64488c7cb9a0ac06808dbc3285e648dff22a4f5f92f49300b237",
+    "caption": "witch hat with sparkles purple background"
+  },
+  "avatars/default-hat-lesbian": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-lesbian-5bab4424.png",
+    "searchQuery": "witch hat with sparkles rainbow background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:42:23.880Z",
+    "lastUpdated": "2026-11-18T18:42:23.880Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-lesbian-5bab4424.png": "9udxg5wm87_1795027053635_file_prOIM8tmVR.png"
+    },
+    "uploadContentHash": "78823b563a004616c4e96e92d06137da4f3eb21c6c51fef3d3914580da521a39",
+    "caption": "witch hat with sparkles rainbow background"
+  },
+  "avatars/default-hat-trans": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-trans-5369a230.png",
+    "searchQuery": "witch hat with sparkles striped background",
+    "alternatives": [
+      "/airo-assets/uploads/avatars-default-hat-trans-e812d10d.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-18T18:42:48.960Z",
+    "lastUpdated": "2026-11-18T18:48:05.715Z",
+    "uploadSources": {
+      "/airo-assets/uploads/avatars-default-hat-trans-e812d10d.png": "9udxg5wm87_1795026548284_file_5RhbuB9r68.png",
+      "/airo-assets/uploads/avatars-default-hat-trans-5369a230.png": "9udxg5wm87_1795027053629_file_DpYy8edn6L.png"
+    },
+    "uploadContentHash": "ab8e1201881bf59c6ab2ca9314727ccd1d76cdc16d07fad9973f0a28f98e1285",
+    "caption": "witch hat with sparkles striped background"
+  },
+  "logo/email": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-email-a5588f85.jpg",
+    "searchQuery": "spellful gothic text with moon stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T01:19:43.592Z",
+    "lastUpdated": "2026-11-19T01:19:43.592Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-email-a5588f85.jpg": "9udxg5wm87_1795051134861_file_qJ_BebQnkT.jpeg"
+    },
+    "uploadContentHash": "44f07bc6facec1ee6e7e6af4e60c67c85d5852f5672ae5dbce512392aa03317c",
+    "naturalOrientation": "horizontal",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-email-a5588f85.jpg",
+    "caption": "spellful gothic text with moon stars"
+  },
+  "pwa/app-icon": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pwa-app-icon-b5693df9.png",
+    "searchQuery": "spellful app logo purple background",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T02:58:57.504Z",
+    "lastUpdated": "2026-11-19T02:58:57.504Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pwa-app-icon-b5693df9.png": "9udxg5wm87_1795057093100_file_uaX5Z8_YeL.png"
+    },
+    "uploadContentHash": "964daa63c9183c190abf7409c031c223bc57e0aa2e2d60502bfaeb9b76f428a6",
+    "caption": "spellful app logo purple background"
+  },
+  "pages/horoscope/story-template-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-3-98d7b6f6.png",
+    "searchQuery": "mystical moon stars purple galaxy space",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T21:21:26.778Z",
+    "lastUpdated": "2026-11-19T21:21:26.778Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-3-98d7b6f6.png": "9udxg5wm87_1795123274974_file_lCB7YRE4Ut.png"
+    },
+    "uploadContentHash": "ef8ac18a4334fd78d0b54b3bdc8adaeddb2382b82ee3bf89524bec189ea34bbb",
+    "caption": "mystical moon stars purple galaxy space"
+  },
+  "pages/horoscope/story-template-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-2-95a55ad4.png",
+    "searchQuery": "glowing moon galaxy stars cosmic space",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T21:21:27.718Z",
+    "lastUpdated": "2026-11-19T21:21:27.718Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-2-95a55ad4.png": "9udxg5wm87_1795123274970_file_TYyQ--LPFo.png"
+    },
+    "uploadContentHash": "0f6992b7fb1cd1ddfd28ed21ea2d4dbf73db2979b191d0a53020f4bdb1a1762a",
+    "caption": "glowing moon galaxy stars cosmic space"
+  },
+  "pages/horoscope/story-template-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-1-b4835e76.png",
+    "searchQuery": "moon phases cosmic galaxy purple",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T21:21:28.632Z",
+    "lastUpdated": "2026-11-19T21:21:28.632Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-1-b4835e76.png": "9udxg5wm87_1795123274964_file_43p0QJwR9k.png"
+    },
+    "uploadContentHash": "ce5e827043646a486cc2416a32388f18c4bf29c1f007b22815abb0a066f2d91d",
+    "caption": "moon phases cosmic galaxy purple"
+  },
+  "pages/horoscope/story-template-4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-4-83248963.png",
+    "searchQuery": "glowing moon surrounded by cosmic nebula stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T21:21:29.600Z",
+    "lastUpdated": "2026-11-19T21:21:29.600Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-4-83248963.png": "9udxg5wm87_1795123274979_file__vPUGBfOm6.png"
+    },
+    "uploadContentHash": "b93bf5e3aaaf9c9527e0a02758724a8e269cac75d2aeb12569377a6e674b7e81",
+    "caption": "glowing moon surrounded by cosmic nebula stars"
+  },
+  "pages/horoscope/story-template-5": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-5-65c0166c.png",
+    "searchQuery": "moon phases cosmic nebula galaxy",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T21:25:18.889Z",
+    "lastUpdated": "2026-11-19T21:25:18.889Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-5-65c0166c.png": "9udxg5wm87_1795123274984_file_FD1DDZX8ft.png"
+    },
+    "uploadContentHash": "c835af1703a88acad3519d9bbba0d676f591639efc50279c2d8b62b0fba61e51",
+    "caption": "moon phases cosmic nebula galaxy"
+  },
+  "pages/og-image": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-og-image-7ff4c824.png",
+    "searchQuery": "spellful text cosmic galaxy stars moon",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-19T23:29:08.926Z",
+    "lastUpdated": "2026-11-19T23:29:08.926Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-og-image-7ff4c824.png": "9udxg5wm87_1795130840920_file_xQJZf7hEfP.png"
+    },
+    "uploadContentHash": "2857e3b9279f0d5399957be8224a7314f01abda4791df2960023deccc681fc0a",
+    "caption": "spellful text cosmic galaxy stars moon"
+  },
+  "pages/messages/welcome-banner": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-messages-welcome-banner-09242037.png",
+    "searchQuery": "aries zodiac horoscope january 30",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T00:13:00.706Z",
+    "lastUpdated": "2026-11-20T00:13:00.706Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-messages-welcome-banner-09242037.png": "9udxg5wm87_1795128599702_file_zPaR3CUtP3.png"
+    },
+    "uploadContentHash": "8516affb4e74e9ff876810858f2ab57762d24d0abf4a8adab09cc44c707d5f63",
+    "caption": "aries zodiac horoscope january 30"
+  },
+  "uploads/hero-9udxg5wm87-1795196773973-file-segqg4bgrw": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196773973-file-segqg4bgrw-58c51871.png",
+    "searchQuery": "witchcraft altar with crystals candles herbs",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T17:46:18.318Z",
+    "lastUpdated": "2026-11-20T17:46:18.318Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196773973-file-segqg4bgrw-58c51871.png": "9udxg5wm87_1795196773973_file_SEgQG4BGRw.png"
+    },
+    "uploadContentHash": "c84e0b04bd827b33ec162dd3088797ed63259e903333694fe028d2b4af64ca9a",
+    "caption": "witchcraft altar with crystals candles herbs"
+  },
+  "uploads/hero-9udxg5wm87-1795196951864-file-baqlhjkzmt": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196951864-file-baqlhjkzmt-f2acddaa.png",
+    "searchQuery": "mystical moon phases lunar calendar book",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T17:49:16.016Z",
+    "lastUpdated": "2026-11-20T17:49:16.016Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196951864-file-baqlhjkzmt-f2acddaa.png": "9udxg5wm87_1795196951864_file_BaQlHJkzmt.png"
+    },
+    "uploadContentHash": "9bdb5c387c6e2bf899bc0c62ffed93555110aee7543e78dee4801357b3355cd7",
+    "caption": "mystical moon phases lunar calendar book"
+  },
+  "uploads/hero-9udxg5wm87-1795197304938-file-a6bkzym4lz": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197304938-file-a6bkzym4lz-702cc2b0.png",
+    "searchQuery": "moonlit night scenes with mystical ambiance",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T17:55:09.486Z",
+    "lastUpdated": "2026-11-20T17:55:09.486Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197304938-file-a6bkzym4lz-702cc2b0.png": "9udxg5wm87_1795197304938_file_a6BKZYM4lz.png"
+    },
+    "uploadContentHash": "fd510777c2de06be2d4a269b29f62258017bd3a48dac3f0fa24cba7f3f08a670",
+    "caption": "moonlit night scenes with mystical ambiance"
+  },
+  "uploads/hero-9udxg5wm87-1795197400056-file-uprex93pgh": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197400056-file-uprex93pgh-df06b27c.png",
+    "searchQuery": "mystical altar with candles crystals lavender",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-20T17:56:43.818Z",
+    "lastUpdated": "2026-11-20T17:56:43.818Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197400056-file-uprex93pgh-df06b27c.png": "9udxg5wm87_1795197400056_file_uPReX93pgh.png"
+    },
+    "uploadContentHash": "408b74f2aefe134cfb96f3372330206ad1aa3fa97f100061842daaca9e985ea2",
+    "caption": "mystical altar with candles crystals lavender"
+  },
+  "tarot/major-arcana/the-high-priestess": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-high-priestess-1e96bc02.png",
+    "searchQuery": "mystical priestess tarot card illustration",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T03:53:02.605Z",
+    "lastUpdated": "2026-11-21T03:53:02.605Z",
+    "uploadSources": {
+      "/airo-assets/uploads/tarot-major-arcana-the-high-priestess-1e96bc02.png": "9udxg5wm87_1795233138715_file_bfbEoj2FG4.png"
+    },
+    "uploadContentHash": "534e2253007a6d66f7712f11773e7200240a49b5b96047fad2d3ab6fe099f1c8",
+    "caption": "mystical priestess tarot card illustration"
+  },
+  "pages/welcome/hero-banner": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/the-official-spellful-wordmark-rendered--QwpehC.png",
+    "searchQuery": "spellful wordmark cosmic background starlight",
+    "caption": "spellful wordmark cosmic background starlight",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/the-official-spellful-wordmark-rendered--QwpehC.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-21T15:17:28.221Z",
+    "lastUpdated": "2026-11-21T15:17:28.221Z"
+  },
+  "logo/official-white": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-official-white-8b86d830.png",
+    "searchQuery": "spellful text with moon and stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T15:30:58.699Z",
+    "lastUpdated": "2026-11-21T15:30:58.699Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-official-white-8b86d830.png": "9udxg5wm87_1795275043020_file_klj4T2INWv.png"
+    },
+    "uploadContentHash": "f354144cf6bff9486ec7ce7823a5c2a589d10096ff1ddda602f77ef60095889f",
+    "naturalOrientation": "horizontal",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-official-white-8b86d830.png",
+    "caption": "spellful text with moon and stars"
+  },
+  "logo/official-black": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-official-black-f0a4e74f.png",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T15:31:03.044Z",
+    "lastUpdated": "2026-11-21T15:31:03.044Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-official-black-f0a4e74f.png": "9udxg5wm87_1795275043022_file_BlXAqmGLxm.png"
+    },
+    "uploadContentHash": "6323fafb10fff736b9f6838b10facae645e76b14003598bb86942ad843d7a7c6",
+    "naturalOrientation": "horizontal",
+    "surfaceMode": "light",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-official-black-f0a4e74f.png"
+  },
+  "pages/horoscope/story-template-6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-6-65c0166c.png",
+    "searchQuery": "moon phases cosmic nebula galaxy",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T16:25:10.013Z",
+    "lastUpdated": "2026-11-21T16:25:10.013Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-6-65c0166c.png": "9udxg5wm87_1795278189939_file_2WugXj5ELk.png"
+    },
+    "uploadContentHash": "c835af1703a88acad3519d9bbba0d676f591639efc50279c2d8b62b0fba61e51",
+    "caption": "moon phases cosmic nebula galaxy"
+  },
+  "pages/horoscope/story-template-7": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-7-83248963.png",
+    "searchQuery": "glowing moon surrounded by cosmic nebula stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T16:25:11.438Z",
+    "lastUpdated": "2026-11-21T16:25:11.438Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-7-83248963.png": "9udxg5wm87_1795278189948_file_2EuCpDF_c8.png"
+    },
+    "uploadContentHash": "b93bf5e3aaaf9c9527e0a02758724a8e269cac75d2aeb12569377a6e674b7e81",
+    "caption": "glowing moon surrounded by cosmic nebula stars"
+  },
+  "pages/horoscope/story-template-8": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-8-98d7b6f6.png",
+    "searchQuery": "crescent moon stars purple galaxy space",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T16:25:12.952Z",
+    "lastUpdated": "2026-11-21T16:25:12.952Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-8-98d7b6f6.png": "9udxg5wm87_1795278189953_file_5CTW-ZRvCj.png"
+    },
+    "uploadContentHash": "ef8ac18a4334fd78d0b54b3bdc8adaeddb2382b82ee3bf89524bec189ea34bbb",
+    "caption": "crescent moon stars purple galaxy space"
+  },
+  "pages/horoscope/story-template-9": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-9-95a55ad4.png",
+    "searchQuery": "glowing moon spiral galaxy starfield purple",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T16:25:14.496Z",
+    "lastUpdated": "2026-11-21T16:25:14.496Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-9-95a55ad4.png": "9udxg5wm87_1795278189958_file_RiDx5kKW6t.png"
+    },
+    "uploadContentHash": "0f6992b7fb1cd1ddfd28ed21ea2d4dbf73db2979b191d0a53020f4bdb1a1762a",
+    "caption": "glowing moon spiral galaxy starfield purple"
+  },
+  "uploads/background-9udxg5wm87-1795282604960-file-dbpc0iq2qf": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604960-file-dbpc0iq2qf-7270e965.png",
+    "searchQuery": "purple galaxy nebula cosmic space scene",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:36:49.068Z",
+    "lastUpdated": "2026-11-21T17:36:49.068Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604960-file-dbpc0iq2qf-7270e965.png": "9udxg5wm87_1795282604960_file_dBPC0iQ2qF.png"
+    },
+    "uploadContentHash": "f2b48e4cdc741eb7a97d1016d1f660d530d06ead75b703f70c05fc087c3d83cf",
+    "caption": "purple galaxy nebula cosmic space scene"
+  },
+  "uploads/background-9udxg5wm87-1795282604953-file-tl1lwp-yup": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604953-file-tl1lwp-yup-dc2839c6.png",
+    "searchQuery": "cosmic nebula purple blue stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:36:50.708Z",
+    "lastUpdated": "2026-11-21T17:36:50.708Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604953-file-tl1lwp-yup-dc2839c6.png": "9udxg5wm87_1795282604953_file_Tl1Lwp-yuP.png"
+    },
+    "uploadContentHash": "53fb84d77119002810fb9c202b24a87ddb8b2829e4ea7e2bf8ff5e9179975d10",
+    "caption": "cosmic nebula purple blue stars"
+  },
+  "uploads/background-9udxg5wm87-1795282604973-file-b04dshijm4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604973-file-b04dshijm4-2047f6f8.png",
+    "searchQuery": "purple galaxy nebula cosmic space scene",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:36:52.320Z",
+    "lastUpdated": "2026-11-21T17:36:52.320Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604973-file-b04dshijm4-2047f6f8.png": "9udxg5wm87_1795282604973_file_b04dShIJM4.png"
+    },
+    "uploadContentHash": "64ab69784f25d6f6a4c320524f38e81319ff13cd36c7e58a83a16a31de23263f",
+    "caption": "purple galaxy nebula cosmic space scene"
+  },
+  "uploads/background-9udxg5wm87-1795282604936-file-ji3vooeutv": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604936-file-ji3vooeutv-805d1dae.png",
+    "searchQuery": "purple galaxy spiral nebula stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:36:53.749Z",
+    "lastUpdated": "2026-11-21T17:36:53.749Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604936-file-ji3vooeutv-805d1dae.png": "9udxg5wm87_1795282604936_file_JI3vOOEUTv.png"
+    },
+    "uploadContentHash": "8e94eec9f61f2876393ab92d725b6697695ea64c4c9880f781293ced157d7c14",
+    "caption": "purple galaxy spiral nebula stars"
+  },
+  "uploads/background-9udxg5wm87-1795282604966-file-qzaildf4sr": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604966-file-qzaildf4sr-ba08aa00.png",
+    "searchQuery": "purple galaxy spiral nebula cosmic space",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:36:55.255Z",
+    "lastUpdated": "2026-11-21T17:36:55.255Z",
+    "uploadSources": {
+      "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604966-file-qzaildf4sr-ba08aa00.png": "9udxg5wm87_1795282604966_file_qZaiLdf4Sr.png"
+    },
+    "uploadContentHash": "3ef0f43d5687973c8c0518b6480f30fd986a248eef18dcf926290039fa1cdccd",
+    "caption": "purple galaxy spiral nebula cosmic space"
+  },
+  "pages/horoscope/story-template-10": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-10-805d1dae.png",
+    "searchQuery": "purple galaxy spiral nebula stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:37:09.819Z",
+    "lastUpdated": "2026-11-21T17:37:09.819Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-10-805d1dae.png": "9udxg5wm87_1795282604936_file_JI3vOOEUTv.png"
+    },
+    "uploadContentHash": "8e94eec9f61f2876393ab92d725b6697695ea64c4c9880f781293ced157d7c14",
+    "caption": "purple galaxy spiral nebula stars"
+  },
+  "pages/horoscope/story-template-13": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-13-ba08aa00.png",
+    "searchQuery": "purple galaxy spiral nebula cosmic space",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:37:11.396Z",
+    "lastUpdated": "2026-11-21T17:37:11.396Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-13-ba08aa00.png": "9udxg5wm87_1795282604966_file_qZaiLdf4Sr.png"
+    },
+    "uploadContentHash": "3ef0f43d5687973c8c0518b6480f30fd986a248eef18dcf926290039fa1cdccd",
+    "caption": "purple galaxy spiral nebula cosmic space"
+  },
+  "pages/horoscope/story-template-12": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-12-7270e965.png",
+    "searchQuery": "purple galaxy nebula cosmic space scene",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:37:13.037Z",
+    "lastUpdated": "2026-11-21T17:37:13.037Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-12-7270e965.png": "9udxg5wm87_1795282604960_file_dBPC0iQ2qF.png"
+    },
+    "uploadContentHash": "f2b48e4cdc741eb7a97d1016d1f660d530d06ead75b703f70c05fc087c3d83cf",
+    "caption": "purple galaxy nebula cosmic space scene"
+  },
+  "pages/horoscope/story-template-11": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-11-dc2839c6.png",
+    "searchQuery": "cosmic nebula purple blue stars",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:37:14.581Z",
+    "lastUpdated": "2026-11-21T17:37:14.581Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-11-dc2839c6.png": "9udxg5wm87_1795282604953_file_Tl1Lwp-yuP.png"
+    },
+    "uploadContentHash": "53fb84d77119002810fb9c202b24a87ddb8b2829e4ea7e2bf8ff5e9179975d10",
+    "caption": "cosmic nebula purple blue stars"
+  },
+  "pages/horoscope/story-template-14": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-14-2047f6f8.png",
+    "searchQuery": "purple galaxy nebula cosmic space scene",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-21T17:37:19.001Z",
+    "lastUpdated": "2026-11-21T17:37:19.001Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-horoscope-story-template-14-2047f6f8.png": "9udxg5wm87_1795282604973_file_b04dShIJM4.png"
+    },
+    "uploadContentHash": "64ab69784f25d6f6a4c320524f38e81319ff13cd36c7e58a83a16a31de23263f",
+    "caption": "purple galaxy nebula cosmic space scene"
+  },
+  "pages/profile/share-card-bg-story": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-profile-share-card-bg-story-760ec5c2.png",
+    "searchQuery": "neon spellful cosmic galaxy interface design",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-23T00:34:29.659Z",
+    "lastUpdated": "2026-11-23T00:34:29.659Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-profile-share-card-bg-story-760ec5c2.png": "9udxg5wm87_1795394014524_file_gITghByU5H.png"
+    },
+    "uploadContentHash": "904365d87125418cede98509eebf375fa7f62ebd856ea6ed4a03570055b9cce7",
+    "caption": "neon spellful cosmic galaxy interface design"
+  },
+  "pages/profile/share-card-bg-square": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-profile-share-card-bg-square-92318006.png",
+    "searchQuery": "neon spellful cosmic galaxy background template",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-23T00:34:31.463Z",
+    "lastUpdated": "2026-11-23T00:34:31.463Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-profile-share-card-bg-square-92318006.png": "9udxg5wm87_1795394014530_file_OLVVljGG3-.png"
+    },
+    "uploadContentHash": "e5c94cb5e076acf512b4e70370dbf32d825991d34f1a8fba79dab57a4477025f",
+    "caption": "neon spellful cosmic galaxy background template"
+  }
+}

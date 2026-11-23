@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "eyebrow": "Celestial Wisdom",
+    "title": "Astrology Guide",
+    "subtitle": "Explore the twelve zodiac signs, planetary energies, and astrological houses. Deepen your understanding of the celestial forces that shape your spiritual path."
+  },
+  "sections": {
+    "zodiac_heading": "The Twelve Zodiac Signs",
+    "explore_heading": "Explore More"
+  }
+}

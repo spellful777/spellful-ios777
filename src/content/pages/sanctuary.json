@@ -1,0 +1,35 @@
+{
+  "greeting": {
+    "title": "Welcome",
+    "subtitle": "Your sacred space awaits.",
+    "moonSubtitle": "illuminates your path."
+  },
+  "continueSection": "Continue Where You Left Off",
+  "sanctuarySection": "Your Sanctuary",
+  "favoritesSection": "Favorites",
+  "recentSection": "Recent Activity",
+  "recentGrimoire": "Grimoire",
+  "recentTarot": "Tarot Readings",
+  "recentTimeline": "Cosmic Timeline",
+  "recentConnections": "Saved Connections",
+  "dashboardCta": "See today's cosmic weather",
+  "dashboardButton": "Daily Dashboard",
+  "guest": {
+    "title": "My Sanctuary",
+    "description": "Your private member hub — Grimoire, Tarot readings, Dream Journal, Cosmic Timeline, and more. Sign in to enter your sacred space.",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "browseNote": "You can still explore all public tools without signing in.",
+    "browseLink": "Browse freely →"
+  },
+  "empty": {
+    "grimoire": "Your Grimoire is empty. Start recording your magical practice.",
+    "grimoireCta": "Open Grimoire",
+    "tarot": "No tarot readings yet. Draw your first card.",
+    "tarotCta": "Read Tarot",
+    "ritual": "No moon rituals saved. Work with tonight's moon.",
+    "ritualCta": "Moon Ritual",
+    "timeline": "Your Cosmic Timeline is blank. Add your first milestone.",
+    "timelineCta": "Open Timeline"
+  }
+}

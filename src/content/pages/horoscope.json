@@ -1,0 +1,14 @@
+{
+  "eyebrow": "Your Day at a Glance",
+  "dateUpdatesNote": "Updates at midnight · Returns tomorrow",
+  "shareLabel": "Share",
+  "doLabel": "Do",
+  "dontLabel": "Don't",
+  "signInPrompt": "Sign in to receive your personalized daily horoscope.",
+  "signInButton": "Sign In",
+  "noBirthDateHeading": "Birth Date Required",
+  "noBirthDateBody": "Add your birth date to your account to unlock your daily horoscope.",
+  "noBirthDateButton": "Update Account",
+  "loadingText": "Reading the stars…",
+  "readFullLabel": "Read your full reading"
+}

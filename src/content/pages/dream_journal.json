@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Dream Journal",
+    "subtitle": "Record your dreams, explore their symbols, and illuminate your inner world — with curiosity, not certainty."
+  },
+  "tabs": {
+    "journal": "My Dreams",
+    "symbols": "Symbol Library",
+    "shadowWork": "Shadow Work"
+  },
+  "empty": {
+    "title": "Your dream archive awaits",
+    "subtitle": "Record your first dream to begin exploring the language of your unconscious.",
+    "cta": "Record a Dream"
+  },
+  "symbolLibrary": {
+    "heading": "Dream Symbol Library",
+    "disclaimer": "These interpretations draw on Jungian psychology, folklore, and cross-cultural traditions. Dreams are deeply personal — treat these as starting points for reflection, not definitive meanings."
+  },
+  "shadowWork": {
+    "heading": "Shadow Work Prompts",
+    "intro": "Shadow work invites you to explore the parts of yourself you may have hidden, suppressed, or not yet met. These prompts are for gentle self-inquiry — go at your own pace.",
+    "disclaimer": "These prompts are for personal reflection only. If you are experiencing distress, please reach out to a qualified mental health professional."
+  },
+  "form": {
+    "addTitle": "Record a Dream",
+    "editTitle": "Edit Dream",
+    "titlePlaceholder": "Give this dream a name...",
+    "contentPlaceholder": "Describe what you remember — images, feelings, people, places...",
+    "symbolsPlaceholder": "water, flying, house, shadow...",
+    "feelingsPlaceholder": "peaceful, anxious, curious, joyful...",
+    "saveButton": "Save Dream"
+  }
+}

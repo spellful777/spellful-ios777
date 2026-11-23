@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "badge": "Community",
+    "title": "Spellful Circles",
+    "subtitle": "Find your people. Join opt-in communities built around shared magical interests and practices."
+  },
+  "circles": [
+    {
+      "id": "herbalists-circle",
+      "icon": "🌿",
+      "name": "Herbalists' Circle",
+      "description": "A gathering place for those who work with plant medicine, herbal remedies, and botanical magic.",
+      "memberLabel": "members"
+    },
+    {
+      "id": "tarot-study-circle",
+      "icon": "🔮",
+      "name": "Tarot Study Circle",
+      "description": "Explore the cards together — from beginner pulls to deep symbolic study and spreads.",
+      "memberLabel": "members"
+    },
+    {
+      "id": "lunar-practice-circle",
+      "icon": "🌙",
+      "name": "Lunar Practice Circle",
+      "description": "Moon rituals, lunar cycles, and celestial timing for your magical practice.",
+      "memberLabel": "members"
+    },
+    {
+      "id": "beginners-coven",
+      "icon": "✨",
+      "name": "Beginner's Coven",
+      "description": "A welcoming, judgment-free space for those just beginning their magical journey.",
+      "memberLabel": "members"
+    }
+  ],
+  "cta": {
+    "title": "More Circles Coming Soon",
+    "subtitle": "We're building more spaces for every path. Have a circle idea? Let us know."
+  }
+}

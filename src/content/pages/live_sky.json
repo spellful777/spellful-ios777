@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "eyebrow": "Astrology 2.0",
+    "title": "Live Sky Explorer",
+    "subtitle": "Real-time sky map for your location"
+  },
+  "howTo": {
+    "heading": "How to read the sky dome",
+    "cards": [
+      {
+        "id": "zenith",
+        "title": "Zenith & horizon",
+        "body": "The centre of the dome is the zenith — directly overhead. The outer edge is the horizon. Objects near the centre are high in the sky; objects near the edge are near the horizon."
+      },
+      {
+        "id": "north",
+        "title": "North is up",
+        "body": "The dome is oriented with North at the top, East to the right, South at the bottom, and West to the left — matching a sky chart held overhead."
+      },
+      {
+        "id": "ecliptic",
+        "title": "Ecliptic path",
+        "body": "The golden arc shows the ecliptic — the apparent path of the Sun through the year. All planets travel near this line, which is why they are always found in the zodiac constellations."
+      },
+      {
+        "id": "faded",
+        "title": "Faded objects",
+        "body": "Planets and stars shown faded are currently below the horizon. They are still plotted so you can see where they will rise and how the sky will look in a few hours."
+      }
+    ]
+  },
+  "planets": {
+    "sun": "The Sun represents your core identity, vitality, and conscious will. Its position shows where you shine.",
+    "moon": "The Moon governs emotions, instincts, and the subconscious. It moves fastest of all planets.",
+    "mercury": "Mercury rules communication, thought, and travel. It is never far from the Sun.",
+    "venus": "Venus governs love, beauty, and values. It appears as the brightest planet in the sky.",
+    "mars": "Mars rules drive, ambition, and action. Its red hue has inspired warriors across cultures.",
+    "jupiter": "Jupiter brings expansion, wisdom, and good fortune. The largest planet in our solar system.",
+    "saturn": "Saturn teaches discipline, structure, and karma. Its rings symbolise boundaries and time.",
+    "uranus": "Uranus governs revolution, innovation, and awakening. It rotates on its side.",
+    "neptune": "Neptune rules dreams, mysticism, and the dissolving of boundaries.",
+    "pluto": "Pluto governs transformation, death, and rebirth. Tiny but profoundly powerful."
+  }
+}

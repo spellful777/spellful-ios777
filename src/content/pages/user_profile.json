@@ -1,0 +1,19 @@
+{
+  "loading": "Loading profile…",
+  "notFound": "Profile not found",
+  "notFoundDesc": "This witch hasn't set up their profile yet, or it may have moved.",
+  "unavailable": "Profile unavailable",
+  "unavailableDesc": "This profile is private or restricted.",
+  "goBack": "Go back",
+  "customize": "Customize",
+  "message": "Message",
+  "inviteToCoven": "Invite to Coven",
+  "covenMember": "Coven Member",
+  "invited": "Invited",
+  "acceptInvite": "Accept Invite",
+  "memberSince": "Member since",
+  "noPathDesc": "No path description yet.",
+  "covenPlaceholder": "Coven connections are shown here.",
+  "favoritesPlaceholder": "Favorites coming soon.",
+  "galleryAlt": "Gallery image"
+}

@@ -1,0 +1,13 @@
+{
+  "hero": {
+    "eyebrow": "Planetary Relationships",
+    "title": "Aspects",
+    "subtitle": "Aspects are the angles formed between planets in your birth chart. They reveal how planetary energies interact — whether they flow harmoniously, create productive tension, or demand constant adjustment."
+  },
+  "aspects_heading": "The Six Major Aspects",
+  "orb_note": "Orbs used in Spellful's birth chart calculator: Conjunction 8°, Sextile 6°, Square 8°, Trine 8°, Opposition 8°, Quincunx 3°. Tighter orbs indicate stronger influence.",
+  "applying_heading": "Applying vs. Separating",
+  "applying_body": "An applying aspect is one where the faster planet is moving toward the exact angle — its influence is building and felt most strongly. A separating aspect has already reached exactness and is moving apart — its energy is waning. Both are significant, but applying aspects carry more urgency.",
+  "cta_heading": "Find Your Aspects",
+  "cta_button": "Calculate Your Birth Chart"
+}

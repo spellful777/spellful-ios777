@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "datetime_heading": "Date & Time",
+    "utc_note": "Times shown in UTC. Convert to your local timezone. Calculated using Meeus Astronomical Algorithms Ch. 47 (±2 min accuracy).",
+    "spiritual_theme": "Spiritual Theme",
+    "spellwork": "Spellwork & Intentions",
+    "how_we_calculate": "How we calculate this →",
+    "cta_calendar": "Full Moon Calendar",
+    "cta_phases": "Moon Phase Guide",
+    "cta_rituals": "Moon Rituals"
+  }
+}

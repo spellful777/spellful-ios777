@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "eyebrow": "The Spellful Grimoire",
+    "title": "Every Intention Begins Somewhere",
+    "description": "A free, curated library of witchcraft spells — with step-by-step instructions, materials, moon phase guidance, and honest community ratings. No signup required."
+  },
+  "submitCta": "Submit a Spell",
+  "searchPlaceholder": "Search spells, intentions, ingredients…",
+  "noResults": {
+    "title": "No spells found",
+    "description": "Try adjusting your filters or search terms — or clear all filters to browse the full library."
+  },
+  "disclaimer": "Ratings reflect member experiences and are not claims of supernatural results.",
+  "intentionChooser": {
+    "heading": "What Magic Calls to You?",
+    "subtitle": "Choose an intention to explore spells aligned with your purpose.",
+    "intentions": [
+      {
+        "id": "1",
+        "label": "Protection",
+        "value": "protection",
+        "glyph": "🛡",
+        "description": "Shield yourself and your space"
+      },
+      {
+        "id": "2",
+        "label": "Self-Love",
+        "value": "love",
+        "glyph": "🌹",
+        "description": "Nurture your heart and worth"
+      },
+      {
+        "id": "3",
+        "label": "Abundance",
+        "value": "abundance",
+        "glyph": "✨",
+        "description": "Invite prosperity and flow"
+      },
+      {
+        "id": "4",
+        "label": "Peace",
+        "value": "healing",
+        "glyph": "🕊",
+        "description": "Restore calm and balance"
+      },
+      {
+        "id": "5",
+        "label": "Moon Magic",
+        "value": "divination",
+        "glyph": "🌙",
+        "description": "Work with lunar cycles"
+      },
+      {
+        "id": "6",
+        "label": "New Beginnings",
+        "value": "clarity",
+        "glyph": "🌱",
+        "description": "Clear the path and start fresh"
+      }
+    ]
+  },
+  "featuredSpell": {
+    "heading": "A Spell Worth Exploring",
+    "ctaLabel": "Open Ritual"
+  }
+}

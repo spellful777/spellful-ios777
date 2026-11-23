@@ -1,0 +1,14 @@
+{
+  "title": "Spell Library Admin",
+  "description": "Review submissions, moderate content, and manage the spell library.",
+  "noSpells": "No spells in this category.",
+  "noReports": "No reported reviews.",
+  "featuredLabel": "Featured",
+  "memberSubmissionLabel": "Member submission",
+  "approveCta": "Approve",
+  "rejectCta": "Reject",
+  "reapproveCta": "Re-approve",
+  "removeCta": "Remove",
+  "featureCta": "Feature",
+  "unfeatureCta": "Unfeature"
+}

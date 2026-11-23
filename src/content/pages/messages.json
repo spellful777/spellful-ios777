@@ -1,0 +1,17 @@
+{
+  "title": "Messages",
+  "subtitle": "Private conversation",
+  "emptyConversations": "No messages yet.",
+  "emptyConversationsHint": "Visit a member's profile to start a conversation.",
+  "emptyThread": "Select a conversation",
+  "emptyThreadHint": "Messages are encrypted in transit and stored securely. Only you and the recipient can read them.",
+  "emptyMessages": "No messages yet. Say hello ✨",
+  "signInPrompt": "Sign in to access your messages.",
+  "signInButton": "Sign In",
+  "noKeyWarning": "This user hasn't set up encryption yet. They need to visit their messages page first.",
+  "encryptedLabel": "Private conversation",
+  "encryptedShort": "Private",
+  "conversationsLabel": "Conversations",
+  "decryptingLabel": "Decrypting messages…",
+  "messagePlaceholder": "Write a message…"
+}

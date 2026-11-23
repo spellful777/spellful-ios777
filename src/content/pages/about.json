@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "About Spellful — Free Witchcraft Tools, No Signup, No Ads",
+    "description": "Spellful is a free, welcoming space to explore witchcraft, tarot, astrology, lunar cycles, and the traditions behind magical practice. No ads, no subscriptions, no paywalls."
+  },
+  "intro": {
+    "heading": "About Spellful",
+    "body": "Spellful is a welcoming place to explore witchcraft, tarot, astrology, lunar cycles, and the traditions and symbolism behind magical practice. We bring interactive tools, approachable learning, and community together so you can follow your curiosity at your own pace.",
+    "cta": "Explore Spellful",
+    "ctaRoute": "/resources"
+  },
+  "mission": {
+    "heading": "Why We Created Spellful",
+    "body": [
+      {
+        "id": "m1",
+        "text": "Magical knowledge has always been passed freely between seekers — shared across kitchen tables, in dog-eared books, and in quiet conversations between practitioners. We wanted the internet to feel the same way."
+      },
+      {
+        "id": "m2",
+        "text": "Spellful exists to make magical learning accessible, approachable, and thoughtfully organized. We combine reference resources, interactive experiences, personal tools, and community in one place — so you don't have to piece it together from a dozen different sites, or pay for things that should be free."
+      },
+      {
+        "id": "m3",
+        "text": "There's no gatekeeping here. Whether you're curious for the first time or deepening a lifelong practice, you're welcome exactly as you are."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How Spellful Works",
+    "intro": "Spellful brings together several different kinds of tools. Here's a plain-language explanation of what each one does.",
+    "tools": [
+      {
+        "id": "t1",
+        "title": "Astrology & Birth Charts",
+        "icon": "astrology",
+        "what": "Your birth date, time, and location",
+        "how": "Planetary positions are calculated using a truncated VSOP87 series — the same mathematical model used by professional astrology software — accurate to within about one degree for dates between 1900 and 2100. House cusps use the equal house system.",
+        "means": "The resulting chart shows where each planet was in the sky at your birth, expressed as a zodiac sign and degree. Interpretations of what those placements mean are symbolic and traditional, not astronomical facts.",
+        "limits": "Birth time is required for an accurate Ascendant (Rising sign) and house placements. Without it, those positions cannot be reliably calculated. The chart is a symbolic map, not a prediction.",
+        "route": "/birth-chart",
+        "cta": "Open Birth Chart Calculator"
+      },
+      {
+        "id": "t2",
+        "title": "Moon Phases & Lunar Calendar",
+        "icon": "moon",
+        "what": "The current date and time (your local timezone)",
+        "how": "Phase moments (New Moon, Full Moon, quarters) are calculated using Meeus \"Astronomical Algorithms\" Chapter 47, with the full perturbation series. This is accurate to within ±2 minutes for dates between 1900 and 2100, verified against NASA and US Naval Observatory tables. Moon sign and illumination are derived from the same algorithm.",
+        "means": "The phase and sign shown are astronomical facts. Ritual associations, intentions, and symbolic meanings for each phase are traditional interpretations drawn from folk and magical traditions — they are not part of the astronomical calculation.",
+        "limits": "All times are displayed in your local timezone. The calendar shows lunar events through 2029.",
+        "route": "/moon-calendar",
+        "cta": "Open Moon Calendar"
+      },
+      {
+        "id": "t3",
+        "title": "Tarot Readings",
+        "icon": "tarot",
+        "what": "Your chosen spread; no personal data required",
+        "how": "Cards are drawn using a cryptographically seeded random number generator (JavaScript's Math.random). Each draw is independent — no card can appear twice in the same spread. Reversed cards appear with a 30% probability per draw.",
+        "means": "Card meanings are symbolic interpretive prompts drawn from the Rider-Waite tradition. They are not predictions, and the same card can mean different things in different contexts. The reading is a tool for reflection, not a factual statement about your life.",
+        "limits": "The full 78-card deck is used across 5 spreads: Daily Card (1 card), Past · Present · Future (3 cards), Love & Relationships (5 cards), Career & Purpose (5 cards), and Spiritual Guidance (4 cards). No account is needed.",
+        "route": "/tarot",
+        "cta": "Open Tarot"
+      },
+      {
+        "id": "t4",
+        "title": "Numerology",
+        "icon": "numerology",
+        "what": "Your birth date and/or full name",
+        "how": "Spellful uses the Pythagorean system: each letter is assigned a value from 1–9 (A=1, B=2 … I=9, J=1 …), and digits are reduced by repeated addition until a single digit or master number (11, 22, 33) remains. Life Path uses your birth date digits; Destiny, Soul Urge, and Personality use your full name.",
+        "means": "The resulting numbers are matched to traditional symbolic meanings. These are interpretive frameworks, not scientific measurements.",
+        "limits": "Results depend entirely on the name and date you enter. Meanings are traditional and symbolic.",
+        "route": "/numerology",
+        "cta": "Open Numerology"
+      },
+      {
+        "id": "t5",
+        "title": "Spells, Herbs, Crystals & Rituals",
+        "icon": "spells",
+        "what": "No personal data required; browse freely",
+        "how": "Content is editorial — descriptions of traditions, correspondences, and practices drawn from folk magic, herbalism, and witchcraft literature. The Spell Library and Herbal Grimoire are reference resources.",
+        "means": "These are educational descriptions of what practitioners have traditionally believed and practiced. They are not medical advice, safety guidance, or scientifically established effects.",
+        "limits": "Always research any herb or plant before ingesting or applying it. Some herbs are toxic or interact with medications. Nothing on Spellful should replace professional medical, legal, or mental-health advice.",
+        "route": "/spells",
+        "cta": "Open Spell Library"
+      },
+      {
+        "id": "t6",
+        "title": "Learning & Academy",
+        "icon": "learn",
+        "what": "Free account required to track progress",
+        "how": "The Spellful Academy offers structured lessons across 9 topics and 22 lessons covering astrology, tarot, numerology, witchcraft history, herbalism, dream interpretation, moon magic, spellcasting theory, and divination. Lessons are self-paced with quizzes and bookmarks.",
+        "means": "Content is original educational writing. It is not peer-reviewed academic material.",
+        "limits": "Progress tracking, bookmarks, and quiz results require a free account.",
+        "route": "/learn",
+        "cta": "Open Academy"
+      }
+    ]
+  },
+  "sources": {
+    "heading": "How Our Information Is Calculated",
+    "intro": "Spellful draws on three distinct types of content. Understanding the difference helps you use the tools well.",
+    "types": [
+      {
+        "id": "s1",
+        "label": "Astronomical & Mathematical",
+        "description": "Birth chart positions and moon phase calculations are mathematical. They use established algorithms (VSOP87 for planets, Meeus Ch. 47 for lunar phases) and produce results that can be verified against NASA and observatory data."
+      },
+      {
+        "id": "s2",
+        "label": "Traditional Symbolic Systems",
+        "description": "Astrological interpretations, tarot meanings, numerology, and magical correspondences are traditional symbolic frameworks developed over centuries. They are meaningful to many people but are not scientific claims."
+      },
+      {
+        "id": "s3",
+        "label": "Original Educational Writing",
+        "description": "Lesson content, spell descriptions, herb profiles, and ritual guides are original writing informed by witchcraft literature and folk traditions. They are not peer-reviewed or medically verified."
+      }
+    ],
+    "disclaimer": "Spellful is for learning, reflection, and personal exploration. Nothing here is professional medical, legal, financial, or mental-health advice."
+  },
+  "privacy": {
+    "heading": "Your Account and Your Privacy",
+    "noAccountTools": "Most of Spellful is fully accessible without an account: tarot readings, birth chart calculator, moon calendar, horoscope, numerology, rune readings, compatibility, and all reference resources.",
+    "accountTools": "Creating a free account unlocks your personal Grimoire (saved spells and notes), Dream Journal (private entries), Academy progress tracking, community discussions, and private messaging.",
+    "dataNote": "Birth details you enter into the birth chart calculator are used only to generate your chart in the browser. They are not stored on our servers unless you choose to save your chart to your account.",
+    "journalNote": "Grimoire and Dream Journal entries are stored in your account and are private to you. They are not visible to other members.",
+    "body": [
+      {
+        "id": "pr1",
+        "text": "You can review, update, or delete your account and its data from your account settings at any time."
+      }
+    ],
+    "links": [
+      {
+        "id": "l1",
+        "label": "Privacy Policy",
+        "route": "/privacy"
+      },
+      {
+        "id": "l2",
+        "label": "Terms of Use",
+        "route": "/terms"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "groups": [
+      {
+        "id": "g1",
+        "label": "Getting Started",
+        "items": [
+          {
+            "id": "faq-gs1",
+            "question": "What is Spellful?",
+            "answer": "Spellful is a free platform for exploring witchcraft, tarot, astrology, lunar cycles, and the traditions behind magical practice. It includes interactive tools (birth chart calculator, tarot readings, moon calendar, numerology), a structured learning program, a community forum, and personal tools like a Grimoire and Dream Journal."
+          },
+          {
+            "id": "faq-gs2",
+            "question": "Is Spellful free?",
+            "answer": "Yes — completely. There are no subscriptions, premium tiers, ads, or paywalls. Every tool and resource is free. A free account unlocks personal tools (Grimoire, Dream Journal, Academy progress), but those features also cost nothing."
+          },
+          {
+            "id": "faq-gs3",
+            "question": "Do I need an account?",
+            "answer": "No account is needed for most tools — tarot readings, birth chart calculator, moon calendar, horoscope, numerology, rune readings, compatibility, and all reference resources are fully accessible without signing in. An account adds personal tools: Grimoire, Dream Journal, Academy progress tracking, community, and messaging."
+          },
+          {
+            "id": "faq-gs4",
+            "question": "Where should a beginner start?",
+            "answer": "The Spellful Academy at spellful.com/learn is a good starting point — it offers structured, self-paced lessons across 9 topics. If you prefer to explore freely, the Resources page, Moon Calendar, and Tarot are all accessible without an account and require no prior knowledge."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "label": "Calculations & Accuracy",
+        "items": [
+          {
+            "id": "faq-ca1",
+            "question": "How are birth charts calculated?",
+            "answer": "Planetary positions are calculated using a truncated VSOP87 series, accurate to within about one degree for 1900–2100. The Ascendant and house cusps use the equal house system. Interpretations of what those placements mean are symbolic and traditional, not astronomical facts."
+          },
+          {
+            "id": "faq-ca2",
+            "question": "Why does birth time matter?",
+            "answer": "The Ascendant (Rising sign) and house placements change roughly every two hours as the Earth rotates. Without an accurate birth time, these cannot be reliably calculated. The Sun, Moon, and most planets can still be placed accurately from date and location alone."
+          },
+          {
+            "id": "faq-ca3",
+            "question": "How are moon phases calculated?",
+            "answer": "Phase moments (New Moon, Full Moon, quarters) use Meeus \"Astronomical Algorithms\" Chapter 47 with the full perturbation series — accurate to within ±2 minutes for 1900–2100, verified against NASA and US Naval Observatory data. All times are shown in your local timezone. Ritual associations for each phase are traditional interpretations, not part of the astronomical calculation."
+          },
+          {
+            "id": "faq-ca4",
+            "question": "Are tarot readings random?",
+            "answer": "Yes. Cards are drawn using JavaScript's Math.random — each draw is independent, no card appears twice in a spread, and reversed cards appear with a 30% probability. The reading is a tool for reflection and symbolic interpretation, not a prediction."
+          },
+          {
+            "id": "faq-ca5",
+            "question": "How does numerology work?",
+            "answer": "Spellful uses the Pythagorean system: each letter is assigned a value 1–9 (A=1, B=2 … I=9, J=1 …), and digits are reduced by repeated addition until a single digit or master number (11, 22, 33) remains. For example, the name \"Anna\" gives A(1)+N(5)+N(5)+A(1) = 12, reduced to 1+2 = 3. Meanings are traditional symbolic interpretations."
+          },
+          {
+            "id": "faq-ca6",
+            "question": "Are spiritual interpretations scientifically proven?",
+            "answer": "No. Astrological interpretations, tarot meanings, numerology, and magical correspondences are traditional symbolic frameworks. They are meaningful to many people and have long cultural histories, but they are not scientific claims and have not been validated by controlled research."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "label": "Accounts & Privacy",
+        "items": [
+          {
+            "id": "faq-ap1",
+            "question": "Are my journal entries private?",
+            "answer": "Yes. Grimoire and Dream Journal entries are stored in your account and are private to you — they are not visible to other members or shown publicly anywhere on the site."
+          },
+          {
+            "id": "faq-ap2",
+            "question": "Is my birth data stored?",
+            "answer": "Birth details entered into the birth chart calculator are used only to generate your chart in the browser. They are not stored on our servers unless you choose to save your chart to your account."
+          },
+          {
+            "id": "faq-ap3",
+            "question": "How can I manage or delete my account?",
+            "answer": "You can review, update, or delete your account and its data from your account settings at any time. Visit spellful.com/account when signed in."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "label": "Features & Support",
+        "items": [
+          {
+            "id": "faq-fs1",
+            "question": "Can I use Spellful on my phone?",
+            "answer": "Yes — Spellful works in any modern mobile browser. Native apps for iPhone and Android are planned but not yet available."
+          },
+          {
+            "id": "faq-fs2",
+            "question": "How do I contact support or report a problem?",
+            "answer": "You can reach us through the community forum at spellful.com/community, or by using the contact link in the site footer. We read every message."
+          }
+        ]
+      }
+    ]
+  },
+  "mobile": {
+    "heading": "Spellful on the Go",
+    "description": "Spellful works in any modern mobile browser right now. Native apps for iPhone and Android are planned — we'll share updates when they're closer to release.",
+    "platforms": [
+      {
+        "id": "mp1",
+        "platform": "apple",
+        "label": "iPhone & iPad",
+        "status": "Planned"
+      },
+      {
+        "id": "mp2",
+        "platform": "android",
+        "label": "Android",
+        "status": "Planned"
+      }
+    ]
+  },
+  "closing": {
+    "heading": "Ready to Explore?",
+    "body": "Start wherever feels right. There's no wrong way to begin.",
+    "links": [
+      {
+        "id": "cl1",
+        "label": "Explore Resources",
+        "route": "/resources"
+      },
+      {
+        "id": "cl2",
+        "label": "Start Learning",
+        "route": "/learn"
+      },
+      {
+        "id": "cl3",
+        "label": "Join the Community",
+        "route": "/community"
+      }
+    ]
+  },
+  "TOC_ITEMS": [
+    {
+      "id": "about",
+      "label": "About Spellful"
+    },
+    {
+      "id": "mission",
+      "label": "Why We Created Spellful"
+    },
+    {
+      "id": "how-it-works",
+      "label": "How Spellful Works"
+    },
+    {
+      "id": "calculations",
+      "label": "How Information Is Calculated"
+    },
+    {
+      "id": "sources",
+      "label": "Sources & Trust"
+    },
+    {
+      "id": "privacy",
+      "label": "Your Account & Privacy"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ"
+    },
+    {
+      "id": "mobile",
+      "label": "Spellful on the Go"
+    }
+  ]
+}

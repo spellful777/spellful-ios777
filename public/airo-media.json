@@ -1,0 +1,762 @@
+{
+  "logo/horizontal": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-8b36285e.png",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-horizontal-8b36285e.png",
+    "naturalOrientation": "horizontal"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-primary-2e7ca12c.png",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-primary-2e7ca12c.png",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-e10e7b4c.png",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-vertical-e10e7b4c.png",
+    "naturalOrientation": "vertical"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/94fc0a9c-3a62-4272-96e8-3f266e2dcb3a/session/d11f79b0-3a54-44da-9c98-1c437186b53c/favicon-transparent-29e49154-f83e-41ea-979d-bd7ff0ddfd95/logo-logo.png"
+  },
+  "pages/home/blog-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1447505760",
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-hero-df06b27c.png"
+  },
+  "pages/home/blog-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2223927401",
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/shop-crystals": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2213996881",
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/shop-candles": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1029717118",
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/shop-herbs": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2224639752",
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/home/community-banner": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-community-banner-9dd468df.png"
+  },
+  "pages/home/blog-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2292493217",
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "pages/resources/spread-one-card": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-one-s-HOyC8t.png"
+  },
+  "pages/resources/spread-three-card": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-SyPnb8.png"
+  },
+  "pages/resources/spread-celtic-cross": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-of-th-jGekLP.png"
+  },
+  "pages/resources/spread-new-moon": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-kHqszr.png"
+  },
+  "pages/resources/spread-shadow-work": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dark-mystical-tarot-spread-diagram-showi-w2q9KL.png"
+  },
+  "pages/home/resource-moon-cycles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-moon-cycles-f2acddaa.png"
+  },
+  "pages/home/resource-tarot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-tarot-84422c3e.png"
+  },
+  "pages/home/resource-spells": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-spells-0a730c6e.png"
+  },
+  "pages/home/resource-shop": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-shop-f3ce2bac.png"
+  },
+  "pages/home/resource-magical-things": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-resource-magical-things-58c51871.png"
+  },
+  "pages/home/hero-video": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1354217924",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1354217924/video/cinematic-horror-scene.jpg?b=1&s=192x192&k=20&c=310ImclM0JZSgzVIp1M1l1xjqGCIdauE61s65Us26ZI="
+  },
+  "pages/blog/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/946913960"
+  },
+  "pages/blog/post-moon-ritual": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1087726982"
+  },
+  "pages/blog/post-sabbats": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1162838446"
+  },
+  "pages/community/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2286102195"
+  },
+  "pages/blog/post-shadow-work": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2249586094"
+  },
+  "pages/blog/post-tarot": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1764795185"
+  },
+  "pages/blog/post-herbalism": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2300640067"
+  },
+  "pages/blog/post-crystals": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2246161883"
+  },
+  "pages/home/sabbats-wheel": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/157381087"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2167754200",
+    "requestedSize": {
+      "width": 1440,
+      "height": 600,
+      "fit": "cover"
+    }
+  },
+  "dashboard/crystal-amethyst": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2288842615"
+  },
+  "dashboard/crystal-rose-quartz": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2251331252"
+  },
+  "dashboard/crystal-black-tourmaline": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2180775561"
+  },
+  "dashboard/crystal-citrine": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1827536857"
+  },
+  "dashboard/crystal-moonstone": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2287132647"
+  },
+  "dashboard/crystal-labradorite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2128142414"
+  },
+  "dashboard/crystal-clear-quartz": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/822101322"
+  },
+  "dashboard/crystal-obsidian": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2270412263"
+  },
+  "dashboard/crystal-selenite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1180608772"
+  },
+  "dashboard/crystal-carnelian": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/516492794"
+  },
+  "dashboard/crystal-lapis-lazuli": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1440023985"
+  },
+  "dashboard/crystal-malachite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1356984498"
+  },
+  "dashboard/crystal-tigers-eye": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1348241665"
+  },
+  "dashboard/crystal-lepidolite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2287132666"
+  },
+  "dashboard/crystal-pyrite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2299048034"
+  },
+  "dashboard/crystal-rhodonite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/941048036"
+  },
+  "dashboard/crystal-sodalite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1437194292"
+  },
+  "dashboard/crystal-green-aventurine": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1448389236"
+  },
+  "dashboard/crystal-aquamarine": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229983110"
+  },
+  "dashboard/crystal-fluorite": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2135005484"
+  },
+  "dashboard/crystal-sunstone": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2290142597"
+  },
+  "dashboard/crystal-bloodstone": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2299048025"
+  },
+  "dashboard/crystal-smoky-quartz": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1300622689"
+  },
+  "dashboard/crystal-blue-lace-agate": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1052204462"
+  },
+  "dashboard/crystal-garnet": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1846068907"
+  },
+  "pages/resources/tarot-card-back": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-resources-tarot-card-back-a6b6d055.png"
+  },
+  "tarot/major-arcana/death": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-death-6eae30d9.png"
+  },
+  "tarot/major-arcana/the-star": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-star-47b8ae69.png"
+  },
+  "tarot/major-arcana/the-hanged-man": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hanged-man-21b019e8.png"
+  },
+  "tarot/major-arcana/the-tower": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-tower-886343e5.png"
+  },
+  "tarot/major-arcana/temperance": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-temperance-f768cb2f.png"
+  },
+  "tarot/major-arcana/the-devil": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-devil-3a0dee1f.png"
+  },
+  "tarot/major-arcana/the-sun": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-sun-23b0f4c3.png"
+  },
+  "tarot/major-arcana/the-moon": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-moon-935f7008.png"
+  },
+  "tarot/major-arcana/judgement": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-judgement-67637598.png"
+  },
+  "tarot/major-arcana/wheel-of-fortune": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-wheel-of-fortune-f43882db.png"
+  },
+  "tarot/major-arcana/the-magician": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-magician-f28e8c67.png"
+  },
+  "tarot/major-arcana/justice": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-justice-e8fb2c10.png"
+  },
+  "tarot/cups/ace-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-ace-of-cups-a995c86a.png"
+  },
+  "tarot/cups/page-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-page-of-cups-2189f6ad.png"
+  },
+  "tarot/cups/queen-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-queen-of-cups-63526faf.png"
+  },
+  "tarot/cups/seven-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-seven-of-cups-64396678.png"
+  },
+  "tarot/pentacles/five-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-five-of-pentacles-48d24015.png"
+  },
+  "tarot/cups/ten-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-ten-of-cups-2de17d09.png"
+  },
+  "tarot/cups/king-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-king-of-cups-e6382c17.png"
+  },
+  "tarot/cups/knight-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-knight-of-cups-506644e7.png"
+  },
+  "tarot/pentacles/four-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-four-of-pentacles-4075be22.png"
+  },
+  "tarot/pentacles/six-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-six-of-pentacles-1fcc1ecb.png"
+  },
+  "tarot/pentacles/seven-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-seven-of-pentacles-f7f93806.png"
+  },
+  "tarot/pentacles/knight-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-knight-of-pentacles-91b5eec3.png"
+  },
+  "tarot/pentacles/nine-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-nine-of-pentacles-7af937c6.png"
+  },
+  "tarot/pentacles/ten-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-ten-of-pentacles-7c092b9e.png"
+  },
+  "tarot/pentacles/queen-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-queen-of-pentacles-49231b8c.png"
+  },
+  "tarot/pentacles/eight-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-eight-of-pentacles-7ae60c22.png"
+  },
+  "tarot/pentacles/king-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-king-of-pentacles-8b02cd42.png"
+  },
+  "tarot/pentacles/ace-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-ace-of-pentacles-69618db2.png"
+  },
+  "tarot/pentacles/page-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-page-of-pentacles-52376abf.png"
+  },
+  "tarot/wands/ten-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-ten-of-wands-1e13a88e.png"
+  },
+  "tarot/wands/four-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-four-of-wands-6c1f20ce.png"
+  },
+  "tarot/wands/three-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-three-of-wands-ec595181.png"
+  },
+  "tarot/wands/queen-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-queen-of-wands-3b91ee26.png"
+  },
+  "tarot/wands/nine-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-nine-of-wands-4a91b7d0.png"
+  },
+  "tarot/wands/two-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-two-of-wands-8cb2d53f.png"
+  },
+  "tarot/wands/six-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-six-of-wands-3dd412ff.png"
+  },
+  "tarot/wands/eight-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-eight-of-wands-0c814171.png"
+  },
+  "tarot/wands/ace-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-ace-of-wands-130ff1ef.png"
+  },
+  "tarot/wands/knight-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-knight-of-wands-c95e3158.png"
+  },
+  "tarot/wands/page-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-page-of-wands-1ce8405c.png"
+  },
+  "tarot/wands/seven-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-seven-of-wands-f68458c5.png"
+  },
+  "tarot/wands/five-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-five-of-wands-65127c6c.png"
+  },
+  "tarot/wands/king-of-wands": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-wands-king-of-wands-5f92619b.png"
+  },
+  "tarot/cups/nine-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-nine-of-cups-20920be7.png"
+  },
+  "tarot/cups/five-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-five-of-cups-ec4e0751.png"
+  },
+  "tarot/cups/eight-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-eight-of-cups-f5a6e901.png"
+  },
+  "tarot/cups/two-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-two-of-cups-c06d33bb.png"
+  },
+  "tarot/cups/six-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-six-of-cups-1cf4358c.png"
+  },
+  "tarot/major-arcana/the-empress": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-empress-7468e3bb.png"
+  },
+  "tarot/major-arcana/the-emperor": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-emperor-86a4fa27.png"
+  },
+  "tarot/major-arcana/strength": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-strength-d91a2716.png"
+  },
+  "tarot/major-arcana/the-lovers": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-lovers-658c7e0b.png"
+  },
+  "tarot/major-arcana/the-hierophant": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hierophant-9980cb2c.png"
+  },
+  "tarot/major-arcana/the-chariot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-chariot-93a82a0a.png"
+  },
+  "tarot/major-arcana/the-hermit": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-hermit-a58342fd.png"
+  },
+  "tarot/major-arcana/the-fool": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-fool-228d5a3a.png"
+  },
+  "tarot/cups/four-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-four-of-cups-e294c2eb.png"
+  },
+  "tarot/cups/three-of-cups": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-cups-three-of-cups-9238c6a4.png"
+  },
+  "tarot/pentacles/two-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-two-of-pentacles-21aaf711.png"
+  },
+  "tarot/pentacles/three-of-pentacles": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-pentacles-three-of-pentacles-9e61a40f.png"
+  },
+  "tarot/swords/five-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-five-of-swords-53be5e02.png"
+  },
+  "tarot/swords/two-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-two-of-swords-33df7383.png"
+  },
+  "tarot/swords/nine-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-nine-of-swords-39fc6dba.png"
+  },
+  "tarot/swords/ten-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-ten-of-swords-f523b399.png"
+  },
+  "tarot/swords/three-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-three-of-swords-9ff0aada.png"
+  },
+  "tarot/swords/six-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-six-of-swords-b8d14f95.png"
+  },
+  "tarot/swords/ace-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-ace-of-swords-892148e6.png"
+  },
+  "tarot/swords/four-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-four-of-swords-1ceaed85.png"
+  },
+  "tarot/swords/king-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-king-of-swords-66dca738.png"
+  },
+  "tarot/swords/knight-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-knight-of-swords-c29037dd.png"
+  },
+  "tarot/swords/queen-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-queen-of-swords-7cf6eca4.png"
+  },
+  "tarot/swords/eight-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-eight-of-swords-dc982d7f.png"
+  },
+  "tarot/major-arcana/the-world": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-world-2be55a2a.png"
+  },
+  "tarot/swords/seven-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-seven-of-swords-a3a6e019.png"
+  },
+  "tarot/swords/page-of-swords": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-swords-page-of-swords-0ca212f7.png"
+  },
+  "avatars/default-hat-black": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-black-bd922c2e.png"
+  },
+  "avatars/default-hat-green": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-green-67bdacc1.png"
+  },
+  "avatars/default-hat-rainbow": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-rainbow-db059ee9.png"
+  },
+  "avatars/default-hat-orange": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-orange-7802ec79.png"
+  },
+  "avatars/default-hat-red": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-red-0924e950.png"
+  },
+  "avatars/default-hat-blue": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-blue-9a4d6757.png"
+  },
+  "avatars/default-hat-purple": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-purple-3e8d2e42.png"
+  },
+  "avatars/default-hat-lesbian": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-lesbian-5bab4424.png"
+  },
+  "avatars/default-hat-trans": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/avatars-default-hat-trans-5369a230.png"
+  },
+  "logo/email": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-email-a5588f85.jpg",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-email-a5588f85.jpg",
+    "naturalOrientation": "horizontal"
+  },
+  "pwa/app-icon": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pwa-app-icon-b5693df9.png"
+  },
+  "pages/horoscope/story-template-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-3-98d7b6f6.png"
+  },
+  "pages/horoscope/story-template-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-2-95a55ad4.png"
+  },
+  "pages/horoscope/story-template-1": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-1-b4835e76.png"
+  },
+  "pages/horoscope/story-template-4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-4-83248963.png"
+  },
+  "pages/horoscope/story-template-5": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-5-65c0166c.png"
+  },
+  "pages/og-image": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-og-image-7ff4c824.png"
+  },
+  "pages/messages/welcome-banner": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-messages-welcome-banner-09242037.png"
+  },
+  "uploads/hero-9udxg5wm87-1795196773973-file-segqg4bgrw": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196773973-file-segqg4bgrw-58c51871.png"
+  },
+  "uploads/hero-9udxg5wm87-1795196951864-file-baqlhjkzmt": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795196951864-file-baqlhjkzmt-f2acddaa.png"
+  },
+  "uploads/hero-9udxg5wm87-1795197304938-file-a6bkzym4lz": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197304938-file-a6bkzym4lz-702cc2b0.png"
+  },
+  "uploads/hero-9udxg5wm87-1795197400056-file-uprex93pgh": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-hero-9udxg5wm87-1795197400056-file-uprex93pgh-df06b27c.png"
+  },
+  "tarot/major-arcana/the-high-priestess": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/tarot-major-arcana-the-high-priestess-1e96bc02.png"
+  },
+  "pages/welcome/hero-banner": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/the-official-spellful-wordmark-rendered--QwpehC.png"
+  },
+  "logo/official-white": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-official-white-8b86d830.png",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-official-white-8b86d830.png",
+    "naturalOrientation": "horizontal"
+  },
+  "logo/official-black": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/logo-official-black-f0a4e74f.png",
+    "lightSurfaceUrl": "/airo-assets/uploads/logo-official-black-f0a4e74f.png",
+    "naturalOrientation": "horizontal"
+  },
+  "pages/horoscope/story-template-6": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-6-65c0166c.png"
+  },
+  "pages/horoscope/story-template-7": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-7-83248963.png"
+  },
+  "pages/horoscope/story-template-8": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-8-98d7b6f6.png"
+  },
+  "pages/horoscope/story-template-9": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-9-95a55ad4.png"
+  },
+  "uploads/background-9udxg5wm87-1795282604960-file-dbpc0iq2qf": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604960-file-dbpc0iq2qf-7270e965.png"
+  },
+  "uploads/background-9udxg5wm87-1795282604953-file-tl1lwp-yup": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604953-file-tl1lwp-yup-dc2839c6.png"
+  },
+  "uploads/background-9udxg5wm87-1795282604973-file-b04dshijm4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604973-file-b04dshijm4-2047f6f8.png"
+  },
+  "uploads/background-9udxg5wm87-1795282604936-file-ji3vooeutv": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604936-file-ji3vooeutv-805d1dae.png"
+  },
+  "uploads/background-9udxg5wm87-1795282604966-file-qzaildf4sr": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/uploads-background-9udxg5wm87-1795282604966-file-qzaildf4sr-ba08aa00.png"
+  },
+  "pages/horoscope/story-template-10": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-10-805d1dae.png"
+  },
+  "pages/horoscope/story-template-13": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-13-ba08aa00.png"
+  },
+  "pages/horoscope/story-template-12": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-12-7270e965.png"
+  },
+  "pages/horoscope/story-template-11": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-11-dc2839c6.png"
+  },
+  "pages/horoscope/story-template-14": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-horoscope-story-template-14-2047f6f8.png"
+  },
+  "pages/profile/share-card-bg-story": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-profile-share-card-bg-story-760ec5c2.png"
+  },
+  "pages/profile/share-card-bg-square": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-profile-share-card-bg-square-92318006.png"
+  }
+}

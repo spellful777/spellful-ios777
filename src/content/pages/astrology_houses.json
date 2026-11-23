@@ -1,0 +1,12 @@
+{
+  "hero": {
+    "eyebrow": "Birth Chart Sectors",
+    "title": "The 12 Houses",
+    "subtitle": "The houses divide your birth chart into twelve sectors, each governing a specific area of life. Where the planets fall in your chart tells the story of how their energy plays out in your world."
+  },
+  "houses_heading": "The Twelve Houses",
+  "method_note": "House system: Equal House (each house spans exactly 30°, beginning from the Ascendant). The birth chart calculator on Spellful uses Equal House division.",
+  "cta_heading": "See Your Houses",
+  "cta_body": "Enter your birth date, time, and location to discover which planets occupy each house in your personal chart.",
+  "cta_button": "Calculate Your Birth Chart"
+}

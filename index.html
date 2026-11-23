@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        try {
+          var u = new URL(location.href);
+          if (u.searchParams.has('airoShareToken')) {
+            u.searchParams.delete('airoShareToken');
+            history.replaceState(null, '', u.toString());
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="referrer" content="same-origin" />
+    <link rel="icon" href="/airo-assets/images/logo/favicon" type="image/png" />
+    <link rel="apple-touch-icon" href="/airo-assets/images/pwa/app-icon" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Spellful" />
+    <meta name="theme-color" content="#0D0B1A" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="google-site-verification" content="eIPVcNc2nxMeF3z8I56yO9lrjLZf4ThfBUjmVvTu8g4">
+    <!--app-head-->
+    <script src="/airo-video-slots.js"></script>
+    <script src="/airo-logo-orientation.js"></script>
+  </head>
+  <body class="fs-unmask-airo-app-builder">
+    <div id="app" class="fs-unmask-airo-app-builder"><!--app-html--></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script src="/analytics.js"></script>
+  </body>
+</html>

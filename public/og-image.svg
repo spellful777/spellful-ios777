@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D0B1A"/>
+      <stop offset="50%" stop-color="#1A1040"/>
+      <stop offset="100%" stop-color="#0D0B1A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="600" cy="280" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C9A84C" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D0B1A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <!-- Stars -->
+  <circle cx="120" cy="80" r="2" fill="#C9A84C" opacity="0.7"/>
+  <circle cx="340" cy="50" r="1.5" fill="#F5F5F5" opacity="0.5"/>
+  <circle cx="520" cy="100" r="1" fill="#B8A9D9" opacity="0.6"/>
+  <circle cx="700" cy="60" r="2" fill="#C9A84C" opacity="0.5"/>
+  <circle cx="900" cy="90" r="1.5" fill="#F5F5F5" opacity="0.4"/>
+  <circle cx="1050" cy="45" r="2" fill="#B8A9D9" opacity="0.7"/>
+  <circle cx="1150" cy="120" r="1" fill="#C9A84C" opacity="0.6"/>
+  <circle cx="200" cy="550" r="1.5" fill="#F5F5F5" opacity="0.4"/>
+  <circle cx="980" cy="560" r="2" fill="#B8A9D9" opacity="0.5"/>
+  <circle cx="80" cy="400" r="1" fill="#C9A84C" opacity="0.5"/>
+  <circle cx="1120" cy="350" r="1.5" fill="#F5F5F5" opacity="0.4"/>
+
+  <!-- Crescent moon -->
+  <path d="M600 140 C690 140 764 212 764 300 C764 388 690 460 600 460 C652 420 652 180 600 140Z" fill="#C9A84C" opacity="0.9"/>
+  <path d="M600 140 C550 180 548 420 600 460 C510 460 436 388 436 300 C436 212 510 140 600 140Z" fill="#0D0B1A"/>
+
+  <!-- Decorative dots around moon -->
+  <circle cx="600" cy="120" r="4" fill="#C9A84C" opacity="0.6"/>
+  <circle cx="780" cy="300" r="3" fill="#C9A84C" opacity="0.4"/>
+  <circle cx="420" cy="300" r="3" fill="#C9A84C" opacity="0.4"/>
+  <circle cx="600" cy="480" r="4" fill="#C9A84C" opacity="0.6"/>
+
+  <!-- Tagline above wordmark -->
+  <text x="600" y="535" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#B8A9D9" text-anchor="middle" letter-spacing="6" opacity="0.9">WITCHCRAFT &amp; INTUITIVE RESOURCES</text>
+
+  <!-- Wordmark -->
+  <text x="600" y="590" font-family="Georgia, serif" font-size="72" font-weight="400" fill="#F5F5F5" text-anchor="middle" letter-spacing="12">SPELLFUL</text>
+</svg>

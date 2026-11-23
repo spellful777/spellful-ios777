@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "eyebrow": "The Cards Speak",
+    "title": "Interactive Tarot",
+    "subtitle": "Shuffle the deck, draw your cards, and receive the wisdom the universe has for you in this moment."
+  },
+  "spreadSection": {
+    "heading": "Choose Your Spread",
+    "subheading": "Each spread illuminates a different facet of your journey"
+  },
+  "drawSection": {
+    "shufflePrompt": "Focus on your intention, then shuffle the deck",
+    "shuffleButton": "Shuffle the Deck",
+    "shufflingText": "Shuffling...",
+    "drawButton": "Draw Cards",
+    "drawingText": "Drawing...",
+    "intentionLabel": "Your Intention",
+    "intentionPlaceholder": "What question or area of life are you seeking guidance on?",
+    "newReadingButton": "New Reading",
+    "saveButton": "Save Reading",
+    "savingText": "Saving...",
+    "savedText": "Saved to Grimoire",
+    "loginToSave": "Sign in to save readings"
+  },
+  "cardDetail": {
+    "uprightLabel": "Upright",
+    "reversedLabel": "Reversed",
+    "keywordsLabel": "Keywords",
+    "elementLabel": "Element",
+    "planetLabel": "Planet",
+    "zodiacLabel": "Zodiac"
+  },
+  "historySection": {
+    "heading": "Your Reading History",
+    "emptyText": "Your saved readings will appear here.",
+    "deleteButton": "Delete",
+    "spreadLabel": "Spread",
+    "intentionLabel": "Intention",
+    "cardsLabel": "Cards drawn"
+  },
+  "seo": {
+    "title": "Free Tarot Reading Online — 78-Card Deck, 5 Spreads | Spellful",
+    "description": "Free online tarot readings with a full 78-card deck. Choose from one-card, three-card, love, career, and Celtic cross spreads. No signup, no ads, no app needed."
+  }
+}

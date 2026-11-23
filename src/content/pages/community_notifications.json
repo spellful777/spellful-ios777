@@ -1,0 +1,19 @@
+{
+  "pageTitle": "Notifications",
+  "backLabel": "Back to Community",
+  "markAllRead": "Mark all as read",
+  "emptyTitle": "You're all caught up",
+  "emptyText": "New replies, likes, and mentions will appear here.",
+  "muteThreadLabel": "Mute thread",
+  "unmuteThreadLabel": "Unmute thread",
+  "mutedLabel": "Muted",
+  "unreadBadge": "New",
+  "types": {
+    "reply": "replied to your post",
+    "like": "liked your post",
+    "mention": "mentioned you",
+    "answer": "accepted your answer",
+    "follow": "started following you",
+    "system": "System"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "loading": "Loading profile…",
+  "errorNotFound": "Witch not found",
+  "errorNotFoundDesc": "This witch hasn't joined Spellful yet.",
+  "errorPrivate": "Private sanctuary",
+  "errorPrivateDesc": "This profile is only visible to their coven.",
+  "goBack": "Go back",
+  "joinCta": "Join Spellful to connect with this witch and the wider coven.",
+  "createAccount": "Create your profile",
+  "memberSince": "Member since",
+  "addToCoven": "Add to Coven",
+  "message": "Message",
+  "customize": "Customize"
+}

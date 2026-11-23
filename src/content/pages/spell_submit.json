@@ -1,0 +1,17 @@
+{
+  "title": "Submit a Spell",
+  "description": "Share your original spell with the community. All submissions are reviewed by our team before publication. You may have up to 3 pending submissions at a time.",
+  "breadcrumb": "Spell Library",
+  "signInPrompt": "Sign in to submit a spell",
+  "signInCta": "Sign In",
+  "successTitle": "Spell Submitted!",
+  "successDescription": "Your spell has been submitted for review. Our team will review it and publish it to the library if approved. Thank you for contributing to the community.",
+  "browseCta": "Browse Spells",
+  "submitAnotherCta": "Submit Another",
+  "basicInfoHeading": "Basic Information",
+  "materialsHeading": "Materials",
+  "stepsHeading": "Steps",
+  "correspondencesHeading": "Correspondences & Safety",
+  "submitCta": "Submit for Review",
+  "submittingLabel": "Submitting…"
+}

@@ -1,0 +1,12 @@
+{
+  "pageTitle": "Saved Discussions",
+  "pageSubtitle": "Posts you've bookmarked for later.",
+  "backLabel": "Back to Community",
+  "emptyTitle": "No saved discussions yet",
+  "emptyText": "Bookmark any post from the community to find it here.",
+  "browseCta": "Browse Community",
+  "removeLabel": "Remove",
+  "categoryLabel": "in",
+  "savedLabel": "Saved",
+  "solvedLabel": "Solved"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "how-to-create-a-grimoire",
+  "title": "How to Create Your First Grimoire | Spellful",
+  "description": "Create a personal grimoire with useful sections for notes, correspondences, rituals, and reflections — without expensive supplies.",
+  "h1": "How to Create Your First Grimoire",
+  "publishedDate": "2026-11-20",
+  "intro": "A grimoire is a collection of magical or spiritual knowledge, instructions, symbols, and reflections. Historical grimoires vary widely, and modern practitioners often use the word for a personal reference book. Your first grimoire can be a notebook, binder, or digital document. It does not need ornate pages or a perfect aesthetic to be useful.",
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "Choose a format you can maintain",
+      "body": "A bound notebook feels personal but can be hard to reorganize. A binder lets you move pages and add sections. A digital grimoire makes searching and editing easier, especially if you enjoy recording links and images. If you store personal reflections digitally, check the platform's privacy settings and backup options before adding sensitive material."
+    },
+    {
+      "id": "s2",
+      "heading": "Begin with a table of contents",
+      "body": "Reserve a few pages for an index. Create simple sections: terminology, tarot notes, moon observations, astrology, herbs and safety, ritual ideas, personal reflections, and sources. You can start with only two or three sections and expand as you learn. Date your entries so you can see how your understanding changes."
+    },
+    {
+      "id": "s3",
+      "heading": "Separate facts, traditions, and experiences",
+      "body": "One of the most useful habits is labeling information clearly. An astronomical moon-phase date is a calculation. A plant's toxicity is a safety fact to verify with a reputable source. A crystal's symbolic correspondence is a traditional or contemporary belief. Your experience of a ritual is personal reflection. Keeping these categories distinct helps prevent confusion."
+    },
+    {
+      "id": "s4",
+      "heading": "Create a useful correspondence page",
+      "body": "Choose one subject, such as rosemary. Record common historical or modern symbolic associations, where each claim came from, and any verified handling cautions. Do not assume a symbolic \"healing\" association means the plant treats disease. If a source lacks evidence or cultural context, note that uncertainty rather than repeating it as fact."
+    },
+    {
+      "id": "s5",
+      "heading": "Record a simple ritual",
+      "body": "Give the entry a name, purpose, materials, steps, safety considerations, and a short reflection afterward. For example, a weekly intention ritual may require only a journal and five minutes. Write what you hoped to explore, what you actually did, and whether the practice was helpful. Avoid instructions involving harmful substances or coercion."
+    },
+    {
+      "id": "s6",
+      "heading": "Keep your grimoire personal",
+      "body": "There is no exam and no requirement to copy another practitioner's system. Leave space for corrections. Include citations to books, museum collections, academic resources, or practitioners whose work you study. Respect copyright by summarizing in your own words rather than copying entire texts."
+    },
+    {
+      "id": "s7",
+      "heading": "Review it over time",
+      "body": "Once a month, update the index, correct uncertain claims, and archive material you no longer use. A living grimoire is valuable because it reflects your learning, not because it looks finished."
+    }
+  ]
+}

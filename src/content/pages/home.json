@@ -1,0 +1,130 @@
+{
+  "moon": {
+    "phase": "Waxing Crescent",
+    "illumination": 32
+  },
+  "moonBar": {
+    "label": "Tonight's Moon"
+  },
+  "hero": {
+    "eyebrow": "Your Witchcraft & Intuitive Resource",
+    "heading": "Your Magic\nBegins Here.",
+    "subheading": "Free tools for tarot, moon magic, spells, and herbal wisdom. No account needed to begin.",
+    "ctaPrimary": "Start Exploring",
+    "ctaSecondary": "Explore Spellful"
+  },
+  "features": {
+    "eyebrow": "What You'll Find Here",
+    "heading": "Everything for your practice",
+    "items": [
+      {
+        "id": "f1",
+        "label": "Tarot Readings",
+        "title": "Tarot Readings",
+        "desc": "Draw from the full 78-card deck and explore meanings for today.",
+        "href": "/tarot",
+        "glyph": "✦"
+      },
+      {
+        "id": "f2",
+        "label": "Moon Rituals",
+        "title": "Moon Rituals",
+        "desc": "Align your practice with the lunar cycle.",
+        "href": "/moon-calendar",
+        "glyph": "☽"
+      },
+      {
+        "id": "f3",
+        "label": "Spell Library",
+        "title": "Spell Library",
+        "desc": "Curated spells with moon phase guidance.",
+        "href": "/spells",
+        "glyph": "◈"
+      },
+      {
+        "id": "f4",
+        "label": "Herbal Grimoire",
+        "title": "Herbal Grimoire",
+        "desc": "Discover the magical properties of herbs, crystals, and candles.",
+        "href": "/herbs",
+        "glyph": "✿"
+      }
+    ]
+  },
+  "todaySection": {
+    "eyebrow": "Today's Practice",
+    "heading": "What the cosmos has for you",
+    "subheading": "Your daily magical guidance — drawn fresh each day.",
+    "description": "Your personalized cosmic weather — moon phase, planetary positions, and a tarot card drawn just for today.",
+    "body": "Step into your daily practice with intention. The cosmos is always speaking — here's what it's saying today.",
+    "cta": "Open My Sanctuary"
+  },
+  "memberSection": {
+    "eyebrow": "Your Sanctuary",
+    "heading": "Welcome back",
+    "subheading": "Your personalized magical space awaits.",
+    "body": "Your private sanctuary holds your tarot history, moon rituals, dream journal, and spell discoveries — all in one place.",
+    "cta": "Enter My Sanctuary",
+    "ctaSecondary": "Learn More"
+  },
+  "communityBanner": {
+    "eyebrow": "Join the Coven",
+    "heading": "A community of seekers",
+    "subheading": "Connect with witches, share your practice, and grow together.",
+    "cta": "Join the Community",
+    "ctaSecondary": "Learn About Spellful",
+    "body": "A moderated, welcoming space for practitioners of all paths. Share your practice, ask questions, and find your people."
+  },
+  "exploreSection": {
+    "eyebrow": "YOUR PATH TO MAGIC",
+    "heading": "Explore the Craft",
+    "subheading": "Curious where your magic might lead? Choose what calls to you.",
+    "body": "Every magical journey begins with curiosity. Follow the moon, uncover the wisdom of tarot, discover spells, and explore the natural ingredients that bring your practice to life."
+  },
+  "resources": {
+    "eyebrow": "Resources",
+    "heading": "Deepen Your Practice",
+    "items": [
+      {
+        "id": "r1",
+        "label": "Tarot",
+        "href": "/tarot",
+        "image": "/airo-assets/images/pages/home/resource-tarot",
+        "title": "Tarot Readings",
+        "category": "DIVINATION",
+        "desc": "Draw from the full 78-card deck and receive guidance for today's journey.",
+        "buttonLabel": "Draw a Card"
+      },
+      {
+        "id": "r2",
+        "label": "Moon Cycles",
+        "href": "/moon-calendar",
+        "image": "/airo-assets/images/pages/home/resource-moon-cycles",
+        "title": "Moon Calendar",
+        "category": "LUNAR MAGIC",
+        "desc": "Track the lunar cycle and align your rituals with the phases of the moon.",
+        "buttonLabel": "View Moon Calendar"
+      },
+      {
+        "id": "r3",
+        "label": "Spells",
+        "href": "/spells",
+        "image": "/airo-assets/images/pages/home/resource-spells",
+        "title": "Spell Library",
+        "category": "SPELLWORK",
+        "desc": "Curated spells for every intention, season, and lunar phase.",
+        "buttonLabel": "Browse Spells"
+      },
+      {
+        "id": "r4",
+        "label": "Magical Things",
+        "href": "/herbs",
+        "image": "/airo-assets/images/pages/home/resource-magical-things",
+        "title": "Herbal Grimoire",
+        "category": "HERBALISM",
+        "desc": "Discover the magical properties of herbs, crystals, and candles for your practice.",
+        "buttonLabel": "Explore Grimoire"
+      }
+    ]
+  }
+}

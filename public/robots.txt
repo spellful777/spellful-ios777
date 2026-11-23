@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Auth-only and private pages — no crawling needed
+Disallow: /account
+Disallow: /sanctuary
+Disallow: /dashboard
+Disallow: /grimoire
+Disallow: /messages
+Disallow: /dream-journal
+Disallow: /timeline
+Disallow: /reminders
+Disallow: /community/new
+Disallow: /community/bookmarks
+Disallow: /community/notifications
+Disallow: /admin/
+Disallow: /spells/submit
+Disallow: /app-store-submission
+Disallow: /app-store-screenshots
+Disallow: /app-launch-kit
+
+Sitemap: https://spellful.com/sitemap.xml

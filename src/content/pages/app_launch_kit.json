@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "badge": "App Launch Marketing Kit",
+    "title": "Launch Assets",
+    "subtitle": "Ready-to-use copy and specs for your App Store launch — banner, social posts, email, and press release."
+  },
+  "banner": {
+    "sectionTitle": "Promotional Banner",
+    "sectionNote": "1024 × 500 px — Google Play Feature Graphic & general promotional use",
+    "headline": "Your Witchcraft Companion Has Arrived",
+    "subheadline": "Tarot · Astrology · Moon Magic · Grimoire",
+    "cta": "Download Free on iOS & Android",
+    "tagline": "Personalized horoscopes. 78-card tarot. Lunar rituals. All in one sacred space.",
+    "specs": [
+      {
+        "id": "spec-google-feature",
+        "label": "Google Play Feature Graphic",
+        "size": "1024 × 500 px",
+        "format": "PNG or JPG"
+      },
+      {
+        "id": "spec-twitter-header",
+        "label": "Twitter / X Header",
+        "size": "1500 × 500 px",
+        "format": "PNG or JPG"
+      },
+      {
+        "id": "spec-facebook-cover",
+        "label": "Facebook Cover",
+        "size": "820 × 312 px",
+        "format": "PNG or JPG"
+      },
+      {
+        "id": "spec-linkedin-banner",
+        "label": "LinkedIn Banner",
+        "size": "1584 × 396 px",
+        "format": "PNG or JPG"
+      }
+    ]
+  },
+  "instagram": {
+    "sectionTitle": "Instagram Post",
+    "sectionNote": "1080 × 1080 px square — feed post announcing app availability",
+    "postCaption": "✨ Spellful is now available on iOS & Android ✨\n\nYour complete witchcraft companion is here. Personalized daily horoscopes tailored to your birth chart. All 78 tarot cards with original artwork. Moon rituals for every lunar phase. A private grimoire to hold your practice.\n\nThis is the app we've been building for you — and it's finally ready.\n\n🌙 Download free at the link in bio\n\n#Spellful #WitchcraftApp #TarotApp #Astrology #MoonMagic #Grimoire #DailyHoroscope #WitchesOfInstagram #SpiritualApp #NewApp #AppLaunch #Tarot #BirthChart #LunarCalendar #WitchTok",
+    "storyCaption": "Spellful is LIVE 🌙\n\nSwipe up to download your witchcraft companion — tarot, horoscopes, moon rituals & grimoire journaling, all in one place.\n\nFree on iOS & Android.",
+    "altText": "Spellful app launch announcement — dark mystical background with gold text reading Your Witchcraft Companion Has Arrived, featuring tarot card and moon phase imagery"
+  },
+  "bluesky": {
+    "sectionTitle": "Bluesky Post",
+    "sectionNote": "300 chars max per post — thread of 3 posts for full announcement",
+    "post1": "✨ Spellful is live on iOS & Android ✨\n\nPersonalized daily horoscopes. 78-card tarot with original artwork. Moon rituals. A private grimoire. Your complete witchcraft companion is finally here.\n\nFree to download 🌙",
+    "post2": "What's inside Spellful:\n\n🃏 78-card tarot deck — 5 spreads, original artwork\n⭐ Birth chart & synastry (VSOP87 accuracy)\n🌙 Moon ritual planner — 48 rituals\n📖 Personal grimoire & dream journal\n🔮 Spellful Academy — 22 lessons\n\nAll free. No ads.",
+    "post3": "We built Spellful for practitioners of every level — curious beginners to seasoned witches.\n\nAstronomically accurate. Original artwork. Private & secure.\n\nDownload at spellful.com 🌙\n\n#Spellful #Witchcraft #Tarot #Astrology #MoonMagic"
+  },
+  "email": {
+    "sectionTitle": "Community Email",
+    "sectionNote": "Send via your email platform — HTML template below is copy-ready",
+    "subject": "Spellful is live — your witchcraft companion has arrived 🌙",
+    "preheader": "Personalized horoscopes, 78-card tarot, moon rituals, and your private grimoire. Download free today.",
+    "greeting": "Dear Spellful Community,",
+    "body1": "We have been building something sacred for you — and today, it is finally ready.",
+    "body2": "Spellful is now available as a free download on iOS and Android. Everything you have come to love on the web is now in your pocket: your personalized daily horoscope tailored to your birth chart, all 78 tarot cards with original custom artwork, moon rituals for every lunar phase, and your private grimoire to hold your practice.",
+    "featuresHeading": "What's waiting for you:",
+    "features": [
+      {
+        "id": "feat-horoscope",
+        "emoji": "⭐",
+        "title": "Personalized Daily Horoscope",
+        "desc": "Calculated from your birth chart using VSOP87 astronomical data"
+      },
+      {
+        "id": "feat-tarot",
+        "emoji": "🃏",
+        "title": "78-Card Tarot Deck",
+        "desc": "Original custom artwork for every card, with 5 spread layouts"
+      },
+      {
+        "id": "feat-moon",
+        "emoji": "🌙",
+        "title": "Moon Ritual Planner",
+        "desc": "48 rituals aligned to every lunar phase, with Meeus-algorithm precision"
+      },
+      {
+        "id": "feat-grimoire",
+        "emoji": "📖",
+        "title": "Personal Grimoire",
+        "desc": "Your private Book of Shadows — spells, dreams, herbs, shadow work"
+      },
+      {
+        "id": "feat-academy",
+        "emoji": "🔮",
+        "title": "Spellful Academy",
+        "desc": "22 lessons across 9 topics to deepen your practice"
+      },
+      {
+        "id": "feat-community",
+        "emoji": "✨",
+        "title": "Community",
+        "desc": "Connect with practitioners worldwide in our moderated community boards"
+      }
+    ],
+    "ctaText": "Download Spellful Free",
+    "ctaUrl": "https://spellful.com",
+    "closing": "Thank you for being part of this journey. We built Spellful for you — and we cannot wait to see your practice flourish.",
+    "signature": "With love and lunar light,\nThe Spellful Team"
+  },
+  "pressRelease": {
+    "sectionTitle": "Press Release",
+    "sectionNote": "Ready to send to tech, wellness, and spirituality press — customize contact details before sending",
+    "dateline": "FOR IMMEDIATE RELEASE — November 2026",
+    "headline": "Spellful Launches Free Witchcraft & Intuitive Wellness App for iOS and Android",
+    "subheadline": "New app combines astronomically accurate astrology, 78-card tarot with original artwork, and a private grimoire in one cohesive spiritual companion",
+    "body": "Spellful, the witchcraft and intuitive wellness platform, today announced the launch of its free mobile application for iOS and Android. The app brings together personalized daily horoscopes, a complete 78-card tarot deck with original custom artwork, a moon ritual planner, and a private digital grimoire — making it the most comprehensive witchcraft companion available on mobile.\n\nThe Spellful app delivers personalized daily horoscopes calculated directly from each user's birth chart using VSOP87 planetary ephemeris data, the same astronomical standard used by professional astrologers. The moon phase engine, built on the Meeus Chapter 47 perturbation series, achieves ±2 minute accuracy for all lunar calculations — a level of precision rarely found in consumer wellness applications.\n\n\"We built Spellful for practitioners of every level,\" said the Spellful team. \"Whether you are drawing your first tarot card or have practiced for decades, we wanted to create a space that takes your craft seriously — with real astronomical accuracy, original artwork, and tools that grow with your practice.\"\n\nThe app's tarot deck features original custom artwork for all 78 cards, with five spread layouts including the Celtic Cross, New Moon, and Shadow Work spreads. The Moon Ritual Planner offers 48 rituals aligned to each lunar phase, while Spellful Academy provides 22 structured lessons across 9 topics for practitioners looking to deepen their knowledge.\n\nSpellful also includes a personal Grimoire — a private digital Book of Shadows — with a 49-herb reference library, dream journal, and shadow work prompts. A moderated community connects practitioners worldwide through boards, polls, and Q&A discussions.\n\nThe app is free to download with no advertisements. Push notifications for moon phases and practice reminders are available with user opt-in.",
+    "boilerplate": "About Spellful\n\nSpellful is a witchcraft and intuitive wellness platform offering tarot readings, personalized astrology, moon magic tools, and community for practitioners of all levels. Available at spellful.com and free to download on iOS and Android.",
+    "contact": "Media Contact\npress@spellful.com\nspellful.com"
+  }
+}

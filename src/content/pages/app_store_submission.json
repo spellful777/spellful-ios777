@@ -1,0 +1,199 @@
+{
+  "hero": {
+    "badge": "App Store Submission Kit",
+    "title": "App Store Submission",
+    "subtitle": "Complete metadata, copy, and checklist for submitting Spellful to the App Store and Google Play."
+  },
+  "identity": {
+    "appName": "Spellful: Witchcraft & Tarot",
+    "subtitle": "Horoscope, Moon & Grimoire",
+    "bundleId": "com.spellful.app"
+  },
+  "categories": {
+    "iosPrimary": "Lifestyle",
+    "iosSecondary": "Health & Fitness",
+    "googlePrimary": "Lifestyle",
+    "contentRating": "4+ / Everyone"
+  },
+  "descriptions": {
+    "promotional": "Your complete witchcraft companion. Personalized horoscopes, 78-card tarot, moon rituals, and a private grimoire — all in one sacred space.",
+    "short": "Personalized horoscopes, 78-card tarot, moon rituals & grimoire journaling. Your witchcraft companion.",
+    "full": "Spellful is your complete witchcraft companion — built for practitioners of every level, from curious beginners to seasoned witches.\n\nPERSONALIZED DAILY HOROSCOPE\nEnter your birth date and receive a horoscope tailored to your sun sign every morning. Spellful uses astronomically accurate calculations to track the moon, planets, and transits that matter to your practice.\n\n78-CARD TAROT DECK\nExplore all 78 tarot cards with original hand-crafted artwork. Choose from five spreads — one-card daily draw, three-card past/present/future, Celtic Cross, new moon, and shadow work. Each card includes upright and reversed meanings, symbolism, and journaling prompts.\n\nMOON RITUAL PLANNER\nFollow the lunar cycle with 48 rituals aligned to every moon phase. From new moon intentions to full moon releases, Spellful guides your practice through the complete lunar calendar.\n\nBIRTH CHART & SYNASTRY\nGenerate your full natal chart with VSOP87 astronomical accuracy — 10 planets, Ascendant, and Midheaven. Explore synastry with a partner to understand your astrological compatibility.\n\nPERSONAL GRIMOIRE\nKeep a private digital grimoire with your spells, rituals, herbs, and intentions. Add dream journal entries, shadow work reflections, and track your practice over time.\n\nSPELLFUL ACADEMY\nLearn witchcraft through 22 structured lessons across 9 topics — from tarot basics to advanced lunar magic. Complete quizzes, earn progress, and bookmark lessons for later.\n\nCOMMUNITY\nConnect with a private community of practitioners. Share insights, ask questions, and grow your practice alongside others.\n\nFEATURES:\n• Astronomically accurate moon phase engine (±2 min accuracy)\n• 78-card tarot deck with original artwork and 5 spreads\n• Daily horoscope personalized to your birth chart\n• Full natal chart and synastry wheel\n• 48 moon rituals across all lunar phases\n• Personal grimoire, dream journal & shadow work\n• Herb library with 49 botanicals\n• Spellful Academy with 22 lessons\n• Private community with polls and Q&A\n• Push notifications for moon phases and practice reminders\n• No ads. Free to download.",
+    "whatsNew": "Welcome to Spellful! This is our initial release. We've launched with the full 78-card tarot deck, personalized daily horoscopes, moon ritual planner, birth chart calculator, personal grimoire, and Spellful Academy. More features coming soon."
+  },
+  "keywords": {
+    "ios": "tarot,horoscope,astrology,witchcraft,moon,grimoire,birth chart,spell,ritual,lunar,zodiac,divination,wicca,pagan,crystal"
+  },
+  "urls": {
+    "marketing": "https://spellful.com",
+    "support": "https://spellful.com/contact",
+    "privacy": "https://spellful.com/privacy"
+  },
+  "SCREENSHOT_SIZES_APPLE": [
+    {
+      "id": "iphone-67",
+      "device": "iPhone 6.7\"",
+      "size": "1290 × 2796 px",
+      "note": "Required — iPhone 15 Pro Max"
+    },
+    {
+      "id": "iphone-65",
+      "device": "iPhone 6.5\"",
+      "size": "1242 × 2688 px",
+      "note": "Required — iPhone 11 Pro Max"
+    },
+    {
+      "id": "ipad-129",
+      "device": "iPad 12.9\"",
+      "size": "2048 × 2732 px",
+      "note": "Required if supporting iPad"
+    },
+    {
+      "id": "ipad-11",
+      "device": "iPad 11\"",
+      "size": "1668 × 2388 px",
+      "note": "Optional — iPad Pro 11\""
+    }
+  ],
+  "SCREENSHOT_SIZES_GOOGLE": [
+    {
+      "id": "phone",
+      "device": "Phone",
+      "size": "1080 × 1920 px",
+      "note": "Required — 16:9 or 9:16"
+    },
+    {
+      "id": "tablet-7",
+      "device": "7\" Tablet",
+      "size": "1200 × 1920 px",
+      "note": "Optional"
+    },
+    {
+      "id": "tablet-10",
+      "device": "10\" Tablet",
+      "size": "1920 × 1200 px",
+      "note": "Optional"
+    },
+    {
+      "id": "feature-graphic",
+      "device": "Feature Graphic",
+      "size": "1024 × 500 px",
+      "note": "Required — shown in Play Store header"
+    }
+  ],
+  "SCREENSHOT_SCREENS": [
+    {
+      "id": "dashboard",
+      "screen": "Daily Dashboard",
+      "desc": "Show the 8-widget dashboard with Card of the Day, moon phase, and horoscope"
+    },
+    {
+      "id": "tarot",
+      "screen": "Tarot Reading",
+      "desc": "Show a 3-card spread with original artwork face-up"
+    },
+    {
+      "id": "birth-chart",
+      "screen": "Birth Chart",
+      "desc": "Show the SVG natal wheel with planet placements"
+    },
+    {
+      "id": "grimoire",
+      "screen": "Personal Grimoire",
+      "desc": "Show the grimoire entry list with categories"
+    },
+    {
+      "id": "moon-calendar",
+      "screen": "Moon Calendar",
+      "desc": "Show the lunar calendar with phase icons and ritual suggestions"
+    },
+    {
+      "id": "community",
+      "screen": "Community Feed",
+      "desc": "Show the community feed with posts and engagement"
+    }
+  ],
+  "AGE_RATING": [
+    {
+      "id": "violence",
+      "question": "Does the app contain cartoon, fantasy, or realistic violence?",
+      "answer": "No"
+    },
+    {
+      "id": "mature",
+      "question": "Does the app contain mature or suggestive themes?",
+      "answer": "No"
+    },
+    {
+      "id": "alcohol",
+      "question": "Does the app reference alcohol, tobacco, or drugs?",
+      "answer": "No"
+    },
+    {
+      "id": "gambling",
+      "question": "Does the app contain simulated gambling?",
+      "answer": "No"
+    },
+    {
+      "id": "horror",
+      "question": "Does the app contain horror or fear themes?",
+      "answer": "No — spiritual/mystical themes only"
+    },
+    {
+      "id": "medical",
+      "question": "Does the app provide unrestricted web access?",
+      "answer": "No"
+    }
+  ],
+  "CHECKLIST": [
+    {
+      "id": "c1",
+      "item": "Apple Developer account active ($99/yr)"
+    },
+    {
+      "id": "c2",
+      "item": "Google Play Developer account active ($25 one-time)"
+    },
+    {
+      "id": "c3",
+      "item": "App binary (IPA / AAB) built and signed"
+    },
+    {
+      "id": "c4",
+      "item": "App icon 1024×1024 px (no alpha, no rounded corners)"
+    },
+    {
+      "id": "c5",
+      "item": "Screenshots captured for all required sizes"
+    },
+    {
+      "id": "c6",
+      "item": "Privacy policy live at spellful.com/privacy"
+    },
+    {
+      "id": "c7",
+      "item": "Support URL live and responding"
+    },
+    {
+      "id": "c8",
+      "item": "All metadata fields filled in App Store Connect"
+    },
+    {
+      "id": "c9",
+      "item": "All metadata fields filled in Google Play Console"
+    },
+    {
+      "id": "c10",
+      "item": "Age rating questionnaire completed on both stores"
+    },
+    {
+      "id": "c11",
+      "item": "Data safety / privacy nutrition label completed"
+    },
+    {
+      "id": "c12",
+      "item": "Test flight / internal testing build approved"
+    }
+  ],
+  "footer": "This page is for internal use only and is not indexed by search engines."
+}

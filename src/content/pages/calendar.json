@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "Cosmic Calendar",
+    "subtitle": "Moon phases, celestial events, and your personal rituals — all in one place."
+  },
+  "dailyWeather": {
+    "heading": "Today's Cosmic Weather",
+    "moonLabel": "Moon",
+    "affirmationLabel": "Affirmation",
+    "tarotLabel": "Card of the Day",
+    "journalLabel": "Journal Prompt"
+  },
+  "legend": {
+    "heading": "Event Types"
+  },
+  "noEvents": "No celestial events this day.",
+  "personalLabel": "Personal",
+  "addPersonalCta": "Add a personal event to this day"
+}

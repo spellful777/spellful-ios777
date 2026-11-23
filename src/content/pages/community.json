@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "Spellful Community",
+    "subtitle": "A sacred space to share wisdom, ask questions, and walk the path together.",
+    "ctaLabel": "Start a Discussion",
+    "searchPlaceholder": "Search discussions…"
+  },
+  "categorySection": {
+    "eyebrow": "✦ DISCOVER YOUR CIRCLE",
+    "heading": "Choose Your Magical Path",
+    "subheading": "Find the conversations that call to you.",
+    "allLabel": "All Categories",
+    "revealLabel": "Reveal More Paths",
+    "collapseLabel": "Show Fewer Categories"
+  },
+  "emptyStates": {
+    "following": "Follow some members to see their posts here.",
+    "mine": "You haven't posted yet.",
+    "default": "No discussions yet — start one!",
+    "ctaLabel": "Start a Discussion"
+  },
+  "sidebar": {
+    "trendingTitle": "Trending",
+    "trendingEmpty": "No posts yet — be the first!",
+    "quickLinksTitle": "Quick Links"
+  }
+}

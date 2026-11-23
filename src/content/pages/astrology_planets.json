@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "eyebrow": "Celestial Bodies",
+    "title": "The Planets",
+    "subtitle": "In astrology, the planets are celestial ambassadors — each one governs a domain of human experience and colors the area of your chart it touches."
+  },
+  "live_sky": {
+    "heading": "Sky Right Now",
+    "subheading": "Current planetary positions · Tropical zodiac · Calculated from VSOP87 series"
+  },
+  "planets_heading": "The Ten Planets",
+  "groups_heading": "Personal & Transpersonal Planets",
+  "groups": [
+    {
+      "id": "personal",
+      "label": "Personal Planets",
+      "planets": "Sun · Moon · Mercury · Venus · Mars",
+      "desc": "Move quickly through the zodiac and shape your individual personality, daily habits, and immediate desires. Their sign placements are highly personal."
+    },
+    {
+      "id": "social",
+      "label": "Social Planets",
+      "planets": "Jupiter · Saturn",
+      "desc": "Move more slowly and connect your personal story to the broader social and cultural context of your generation. They govern growth, structure, and collective lessons."
+    },
+    {
+      "id": "transpersonal",
+      "label": "Transpersonal Planets",
+      "planets": "Uranus · Neptune · Pluto",
+      "desc": "Move so slowly that they define entire generations. Their sign placements are shared by millions — their house placements and aspects make them personal."
+    }
+  ]
+}

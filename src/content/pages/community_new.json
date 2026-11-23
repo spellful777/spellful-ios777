@@ -1,0 +1,54 @@
+{
+  "pageTitle": "Start a Discussion",
+  "pageSubtitle": "Share your wisdom, ask a question, or spark a conversation with the coven.",
+  "backLabel": "Back to Community",
+  "typeSection": {
+    "label": "Post type",
+    "discussion": "Discussion",
+    "discussionDesc": "Share thoughts, tips, or start a conversation",
+    "question": "Question",
+    "questionDesc": "Ask the community for help or guidance"
+  },
+  "categoryLabel": "Category",
+  "categoryPlaceholder": "Choose a category…",
+  "titleLabel": "Title",
+  "titlePlaceholder": "Give your post a clear, descriptive title…",
+  "bodyLabel": "Body",
+  "bodyPlaceholder": "Share your thoughts, question, or story…",
+  "tagsLabel": "Tags",
+  "tagsPlaceholder": "e.g. beginner, full moon, protection (comma-separated)",
+  "tagsHint": "Separate tags with commas. Up to 10 tags.",
+  "imageSection": {
+    "label": "Image URL (optional)",
+    "placeholder": "https://…",
+    "hint": "Link to an image to include with your post."
+  },
+  "pollSection": {
+    "toggleLabel": "Add a poll",
+    "questionLabel": "Poll question",
+    "questionPlaceholder": "What would you like to ask?",
+    "choicesLabel": "Choices",
+    "choicePlaceholder": "Choice {n}",
+    "addChoiceLabel": "Add choice",
+    "removeChoiceLabel": "Remove",
+    "closeDateLabel": "Close date (optional)",
+    "minChoicesHint": "Add at least 2 choices (max 6)."
+  },
+  "previewSection": {
+    "toggleLabel": "Preview",
+    "editLabel": "Edit"
+  },
+  "submitLabel": "Publish Discussion",
+  "submittingLabel": "Publishing…",
+  "cancelLabel": "Cancel",
+  "errors": {
+    "categoryRequired": "Please choose a category.",
+    "titleRequired": "Title is required.",
+    "titleTooShort": "Title must be at least 5 characters.",
+    "bodyRequired": "Body is required.",
+    "bodyTooShort": "Body must be at least 20 characters.",
+    "pollQuestion": "Poll question is required.",
+    "pollChoices": "Add at least 2 poll choices.",
+    "generic": "Something went wrong. Please try again."
+  }
+}

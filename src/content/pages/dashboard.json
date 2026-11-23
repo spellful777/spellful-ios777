@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "eyebrow": "Your Daily Practice",
+    "title": "Daily Dashboard",
+    "subtitle": "Your personalized cosmic guidance for today — aligned with the moon, the stars, and your inner magic."
+  },
+  "moonWidget": {
+    "heading": "Tonight's Moon",
+    "ageLabel": "days into cycle",
+    "illuminationLabel": "illuminated",
+    "energyLabel": "Energy"
+  },
+  "cardWidget": {
+    "heading": "Card of the Day",
+    "reversedLabel": "Reversed",
+    "uprightLabel": "Upright",
+    "keywordsLabel": "Keywords"
+  },
+  "affirmationWidget": {
+    "heading": "Daily Affirmation",
+    "copyLabel": "Copy"
+  },
+  "herbWidget": {
+    "heading": "Herb of the Day",
+    "elementLabel": "Element",
+    "planetLabel": "Planet",
+    "usesLabel": "Magical Uses",
+    "tipLabel": "Today's Tip"
+  },
+  "crystalWidget": {
+    "heading": "Crystal of the Day",
+    "elementLabel": "Element",
+    "chakraLabel": "Chakra",
+    "usesLabel": "Magical Uses",
+    "tipLabel": "Today's Tip"
+  },
+  "journalWidget": {
+    "heading": "Journal Prompt",
+    "openLabel": "Open Grimoire"
+  },
+  "spellWidget": {
+    "heading": "Spell of the Day",
+    "typeLabel": "Type",
+    "durationLabel": "Duration",
+    "materialsLabel": "You'll Need",
+    "descriptionLabel": "How to Cast"
+  },
+  "eventsWidget": {
+    "heading": "Upcoming Celestial Events",
+    "viewAllLabel": "View Full Calendar",
+    "daysLabel": "days"
+  },
+  "grimoireWidget": {
+    "heading": "Recent Grimoire Entries",
+    "viewAllLabel": "Open Grimoire",
+    "emptyText": "Your Grimoire is empty. Start adding entries to see them here.",
+    "signInText": "Sign in to see your Grimoire entries here."
+  },
+  "seo": {
+    "title": "Free Daily Cosmic Dashboard — Moon, Tarot, Herbs & More | Spellful",
+    "description": "Free daily witchcraft dashboard: tonight's moon phase, tarot card of the day, herb and crystal guidance, daily affirmation, journal prompt, and upcoming celestial events. No signup, no ads."
+  }
+}

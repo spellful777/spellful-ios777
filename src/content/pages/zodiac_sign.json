@@ -1,0 +1,12 @@
+{
+  "labels": {
+    "strengths": "Strengths",
+    "challenges": "Challenges",
+    "correspondences": "Magical Correspondences",
+    "compatible": "Compatible Signs",
+    "all_signs": "All Signs",
+    "cta_heading": "Explore your birth chart",
+    "cta_body": "Calculate your Sun, Moon, and Rising signs with our free birth chart calculator.",
+    "cta_button": "Calculate My Birth Chart"
+  }
+}
